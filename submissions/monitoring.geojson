@@ -1,0 +1,5405 @@
+{
+  "type": "FeatureCollection"
+  "features": [
+    {
+      "properties": {
+        "name": "Zelma Norris",
+        "what": "Illegal Grazing",
+        "impacts": "Loss of cultural heritage",
+        "placename": "Devon Whitestone",
+        "today": "2015-01-19",
+        "meta": {
+          "instanceId": "uuid:92d1a8c4-c34f-4c0a-bd2b-fb27998b2a37"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Raada",
+        "village": "Zoopo Naawa",
+        "region": "Deep South",
+        "caption": "Ipsum labore laboris"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.633671025163494,
+          2.923177009355277
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Jamie Marquez",
+        "what": "Rustling",
+        "impacts": "Water poisoned",
+        "placename": "Lupton Delco",
+        "today": "2013-04-27",
+        "meta": {
+          "instanceId": "uuid:adc3a6d5-8fbd-489a-9a7b-1a65eea8b6ab"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Rii Wao",
+        "village": "Marora Naawa",
+        "region": "Deep South",
+        "caption": "Mollit ullamco aliqua sint"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.92796514893416,
+          2.895223246794194
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Dyer Trujillo",
+        "what": "Illegal Trapping",
+        "impacts": "Water poisoned",
+        "placename": "Kanauga Cherokee",
+        "today": "2015-05-21",
+        "meta": {
+          "instanceId": "uuid:0ad73862-9d4c-4053-b425-b3cfdcba771e"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Marora Naawa",
+        "region": "South Central",
+        "caption": "Nulla minim ex esse ullamco"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.89101761148777,
+          2.668531490280293
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Baxter Velazquez",
+        "what": "Logging",
+        "impacts": "Deforestation",
+        "placename": "Courtland Teasdale",
+        "today": "2013-05-06",
+        "meta": {
+          "instanceId": "uuid:8a7b472b-7608-439b-93a2-35c238aa6a78"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Awaru Wao Naawa",
+        "region": "Deep South",
+        "caption": "Minim nisi et"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.73725491424557,
+          3.042833745502867
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Montgomery Lawrence",
+        "what": "Crossing",
+        "impacts": "Harm to community conserved site",
+        "placename": "Hickory Jessie",
+        "today": "2013-08-21",
+        "meta": {
+          "instanceId": "uuid:e8d5abb1-10f2-4928-8b80-e3023de2a6bd"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Potari Naawa",
+        "region": "South Central",
+        "caption": "Laboris est eu excepteur sint"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.55481096310541,
+          2.770801235130057
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Rhoda Prince",
+        "what": "Tourism Violation",
+        "impacts": "Depletion of fish",
+        "placename": "Wanamie Marne",
+        "today": "2013-04-08",
+        "meta": {
+          "instanceId": "uuid:c5077c25-b168-4ded-89ec-95220391119d"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+        },
+        "area": "Kwitaro",
+        "village": "Karaodaz Naawa",
+        "region": "South Central",
+        "caption": "Incididunt est nisi esse"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.93994825449772,
+          2.9385820753173904
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Jackson Blake",
+        "what": "Stealing Artefacts",
+        "impacts": "FPIC violation",
+        "placename": "Henrietta Bowden",
+        "today": "2015-02-06",
+        "meta": {
+          "instanceId": "uuid:b09564ba-6c7a-427c-a778-25220d8a4317"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Parobaz",
+        "region": "South Central",
+        "caption": "In reprehenderit ad"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.707183176185936,
+          2.835108241904527
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Langley Ray",
+        "what": "Rustling",
+        "impacts": "Violation of sensitive site",
+        "placename": "Bakersville Norvelt",
+        "today": "2015-01-26",
+        "meta": {
+          "instanceId": "uuid:09162380-d7f9-453f-a57c-e4f160f742ff"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Washarar Wao",
+        "village": "Katoonarub",
+        "region": "Deep South",
+        "caption": "Aliqua deserunt occaecat dolor"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.51584532018751,
+          2.9453119691694156
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Collier Serrano",
+        "what": "Rustling",
+        "impacts": "Loss of cultural heritage",
+        "placename": "Hegins Muse",
+        "today": "2013-01-13",
+        "meta": {
+          "instanceId": "uuid:8ce7a984-b318-427f-8373-cd25d6f504d9"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Upper Kuyuwini",
+        "village": "Awaru Wao Naawa",
+        "region": "Deep South",
+        "caption": "Veniam sint incididunt elit commodo"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.9336460956838,
+          2.6117973833112047
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Cobb Stevenson",
+        "what": "Illegal Hunting",
+        "impacts": "Damage to water source / watershed",
+        "placename": "Brenton Brethren",
+        "today": "2013-09-12",
+        "meta": {
+          "instanceId": "uuid:736fddaa-e0a0-40e5-98ea-6e266963c0ff"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Kanowadtao",
+        "village": "Achawib",
+        "region": "South Central",
+        "caption": "Veniam aliquip ullamco"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.838071409612894,
+          2.9048783424310387
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Sandy Reyes",
+        "what": "Rustling",
+        "impacts": "Violation of sensitive site",
+        "placename": "Gambrills Groton",
+        "today": "2015-02-03",
+        "meta": {
+          "instanceId": "uuid:d0f04b2e-ca2f-47cd-abe3-b736bec77744"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Awaru Wao Naawa",
+        "region": "Deep South",
+        "caption": "Eu incididunt pariatur et aliquip"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.89631531422492,
+          2.923110476601869
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Kerri Castillo",
+        "what": "Illegal Fishing",
+        "impacts": "Deforestation",
+        "placename": "Avoca Chamberino",
+        "today": "2013-04-16",
+        "meta": {
+          "instanceId": "uuid:0f05835c-b88d-4353-9045-bb9aaf8f1f99"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Katoonarub",
+        "region": "Deep South",
+        "caption": "Fugiat exercitation exercitation reprehenderit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.746469597914256,
+          3.023412066185847
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Tamera Doyle",
+        "what": "Illegal Grazing",
+        "impacts": "Damage to water source / watershed",
+        "placename": "Disautel Bascom",
+        "today": "2013-04-28",
+        "meta": {
+          "instanceId": "uuid:efc097fd-e5ca-49c3-9857-d47546064445"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+        },
+        "area": "Upper Rupununi",
+        "village": "Aishara Toon",
+        "region": "Deep South",
+        "caption": "Labore exercitation ea exercitation anim"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.82371620228514,
+          3.0766934965737165
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Imogene Gibbs",
+        "what": "Illegal Grazing",
+        "impacts": "FPIC violation",
+        "placename": "Unionville Newkirk",
+        "today": "2014-10-30",
+        "meta": {
+          "instanceId": "uuid:46c18029-c589-47e0-973e-d618860c64f1"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+        },
+        "area": "Rii Wao",
+        "village": "Karaodaz Naawa",
+        "region": "South Central",
+        "caption": "Reprehenderit cillum minim ipsum non"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.85875749657862,
+          3.027139023435302
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Spence Parks",
+        "what": "Crossing",
+        "impacts": "Social harm or abuse",
+        "placename": "Lisco Emory",
+        "today": "2013-07-09",
+        "meta": {
+          "instanceId": "uuid:2c17973e-2bf8-4958-9630-5033c5bfb75c"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Rii Wao",
+        "village": "Parikowaro Naawa",
+        "region": "South Central",
+        "caption": "Ut non veniam sint"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.922910966328345,
+          2.73806342438329
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Alba Pratt",
+        "what": "Rustling",
+        "impacts": "Depletion of game",
+        "placename": "Buxton Carlos",
+        "today": "2013-05-04",
+        "meta": {
+          "instanceId": "uuid:613e140f-2447-499d-a5d3-afd8678d9c8c"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+        },
+        "area": "Kosad",
+        "village": "Awaru Wao Naawa",
+        "region": "South Central",
+        "caption": "Labore sunt consectetur voluptate nisi"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.90777417633217,
+          2.994484682241455
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Allison Carver",
+        "what": "Rustling",
+        "impacts": "FPIC violation",
+        "placename": "Keyport Rosine",
+        "today": "2015-03-21",
+        "meta": {
+          "instanceId": "uuid:0541b8bc-6282-4bee-96bb-cccb62c9b556"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Darichibai",
+        "village": "Parikowaro Naawa",
+        "region": "South Central",
+        "caption": "Magna incididunt in"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.92779755103402,
+          3.0222877086140216
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Guzman Marks",
+        "what": "Rustling",
+        "impacts": "Deforestation",
+        "placename": "Dante Harmon",
+        "today": "2014-03-13",
+        "meta": {
+          "instanceId": "uuid:41042d91-18b6-40b5-a59f-84eb118a8f73"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Shorinab",
+        "region": "South Central",
+        "caption": "Aliqua tempor nisi elit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.52015858748928,
+          2.9166988770244644
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Bette Ramos",
+        "what": "Illegal Fishing",
+        "impacts": "Water poisoned",
+        "placename": "Boykin Clara",
+        "today": "2015-02-19",
+        "meta": {
+          "instanceId": "uuid:d174fbd5-9103-4f58-883c-553d480bc5b7"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Sawari Wao",
+        "region": "Deep South",
+        "caption": "Id pariatur reprehenderit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.779539377312176,
+          2.6079265554668383
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Kristin Ellis",
+        "what": "Stealing Artefacts",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Bendon Rodanthe",
+        "today": "2013-03-18",
+        "meta": {
+          "instanceId": "uuid:333ee196-cba1-4093-a14c-b408c023ce8b"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Mamidi",
+        "village": "Zoopo Naawa",
+        "region": "Deep South",
+        "caption": "In eu duis eiusmod aliqua"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.83445188589394,
+          2.86943238300737
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Brock Roach",
+        "what": "Illegal Grazing",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Madaket Sanborn",
+        "today": "2013-08-02",
+        "meta": {
+          "instanceId": "uuid:68d0c9f1-866f-4381-9a58-d98b0a8a02d3"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Shorinab Mountain Foot",
+        "village": "Karaodaz Naawa",
+        "region": "Deep South",
+        "caption": "Eu tempor mollit esse"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.57087356678676,
+          2.9982606288045646
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Lana Hickman",
+        "what": "Illegal Trapping",
+        "impacts": "Social harm or abuse",
+        "placename": "Downsville Nogal",
+        "today": "2015-01-21",
+        "meta": {
+          "instanceId": "uuid:4a19fcfa-8b95-4ecc-ae14-c2f3df626829"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Shorinab",
+        "region": "South Central",
+        "caption": "Pariatur occaecat ex"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.70335932332091,
+          3.0881655401550234
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Beth Kidd",
+        "what": "Tourism Violation",
+        "impacts": "Depletion of fish",
+        "placename": "Tonopah Stouchsburg",
+        "today": "2015-05-31",
+        "meta": {
+          "instanceId": "uuid:e4a63438-5f1d-4cea-ab64-ba4a92a149a1"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Lower Kuyuwini",
+        "village": "Achawib",
+        "region": "Deep South",
+        "caption": "Dolor sunt incididunt ea"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.896167287020944,
+          3.081409640633501
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Faith Hamilton",
+        "what": "Illegal Trapping",
+        "impacts": "Harm to community conserved site",
+        "placename": "Rodman Talpa",
+        "today": "2014-07-15",
+        "meta": {
+          "instanceId": "uuid:753da3a2-68c9-41dd-b7fb-2eeb0ae4c7e1"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Sawari Wao",
+        "region": "Deep South",
+        "caption": "Non consectetur et"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.84920786845032,
+          2.915012958832085
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Marshall Stanton",
+        "what": "Illegal Trapping",
+        "impacts": "Deforestation",
+        "placename": "Mappsville Condon",
+        "today": "2013-08-19",
+        "meta": {
+          "instanceId": "uuid:56a7aa12-9c0c-4d85-a014-62328a0affc6"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Marora Naawa",
+        "region": "Deep South",
+        "caption": "Ipsum id dolor"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.81728545820806,
+          2.7433844127459452
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Thelma Cummings",
+        "what": "Illegal Hunting",
+        "impacts": "Violation of sensitive site",
+        "placename": "Salvo Hollins",
+        "today": "2015-01-31",
+        "meta": {
+          "instanceId": "uuid:9cc878d9-b541-45ed-8b78-289face28b11"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+        },
+        "area": "Kashiwiizi",
+        "village": "Achawib",
+        "region": "South Central",
+        "caption": "Consequat officia esse amet elit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.722703462000936,
+          2.891482105734758
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Francis Blair",
+        "what": "Rustling",
+        "impacts": "Harm to community conserved site",
+        "placename": "Venice Zortman",
+        "today": "2013-09-20",
+        "meta": {
+          "instanceId": "uuid:777d908c-0014-4391-a9c4-03ddbea4650c"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Darichibai",
+        "village": "Aishara Toon",
+        "region": "Deep South",
+        "caption": "Reprehenderit et reprehenderit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.52196072251536,
+          2.9208484553033487
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Swanson Todd",
+        "what": "Mining",
+        "impacts": "Deforestation",
+        "placename": "Floris Herald",
+        "today": "2014-03-11",
+        "meta": {
+          "instanceId": "uuid:dbc7e784-8cfc-4dc1-82a6-e7e3c4e5cc89"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Potari Naawa",
+        "region": "Deep South",
+        "caption": "Minim laboris pariatur labore aute"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.58529033942614,
+          2.6177640272304417
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Michele Gonzales",
+        "what": "Logging",
+        "impacts": "Social harm or abuse",
+        "placename": "Biehle National",
+        "today": "2014-10-21",
+        "meta": {
+          "instanceId": "uuid:d4f1871e-48ab-4cbd-ade6-86d562ba9010"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Soburun",
+        "region": "Deep South",
+        "caption": "Voluptate reprehenderit dolore officia"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.58680245641153,
+          2.62473404572811
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Latasha Joyce",
+        "what": "Illegal Fishing",
+        "impacts": "Damage to farming grounds",
+        "placename": "Duryea Orick",
+        "today": "2014-10-02",
+        "meta": {
+          "instanceId": "uuid:dd16bb9c-7f2c-4f7c-81ac-261d828702d4"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Darichibai",
+        "village": "Marora Naawa",
+        "region": "South Central",
+        "caption": "Exercitation nostrud amet"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.7885625269264,
+          2.985657037724741
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Guy Ellison",
+        "what": "Tourism Violation",
+        "impacts": "Deforestation",
+        "placename": "Limestone Graball",
+        "today": "2013-10-09",
+        "meta": {
+          "instanceId": "uuid:a171d9ba-dbfd-4c95-81e8-362382b2792b"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Shii",
+        "region": "South Central",
+        "caption": "Reprehenderit officia esse excepteur nulla"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.629817805369385,
+          2.758226939267479
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Karin Lloyd",
+        "what": "Illegal Grazing",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Naomi Drummond",
+        "today": "2014-04-29",
+        "meta": {
+          "instanceId": "uuid:36db9f80-f135-4a06-a264-0022cc9533a5"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Mamidi",
+        "village": "Shii",
+        "region": "Deep South",
+        "caption": "Labore nisi ex"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.500893358141184,
+          2.8976834372384475
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Meyer Bird",
+        "what": "Rustling",
+        "impacts": "Social harm or abuse",
+        "placename": "Brantleyville Dalton",
+        "today": "2014-01-30",
+        "meta": {
+          "instanceId": "uuid:308bb321-e81c-4c26-95b3-872d90b7973b"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Kwitaro",
+        "village": "Karaodaz Naawa",
+        "region": "South Central",
+        "caption": "Incididunt qui irure"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.94140685827006,
+          2.880445757554844
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Jillian Aguilar",
+        "what": "Illegal Hunting",
+        "impacts": "Depletion of fish",
+        "placename": "Rowe Bellamy",
+        "today": "2013-07-17",
+        "meta": {
+          "instanceId": "uuid:d5a37fb8-ed1e-4c2d-a5c4-baff808d01d4"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Potari Naawa",
+        "region": "Deep South",
+        "caption": "Ullamco proident labore ipsum ea"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.56301022414118,
+          2.953939354303293
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Ava Clark",
+        "what": "Illegal Grazing",
+        "impacts": "FPIC violation",
+        "placename": "Vicksburg Watrous",
+        "today": "2015-03-22",
+        "meta": {
+          "instanceId": "uuid:24f6542e-085c-4f03-92a3-81daa66870df"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Darichibai",
+        "village": "Marora Naawa",
+        "region": "Deep South",
+        "caption": "Excepteur eiusmod commodo pariatur ex"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.72623467759695,
+          2.9161473547806964
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Maynard Alford",
+        "what": "Rustling",
+        "impacts": "Harm to community conserved site",
+        "placename": "Gila Herlong",
+        "today": "2013-08-02",
+        "meta": {
+          "instanceId": "uuid:893daeba-f326-4c22-962c-23be123d9df4"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Sawari Wao",
+        "region": "Deep South",
+        "caption": "In et cillum deserunt eu"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.77654973161407,
+          3.027990551921539
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Rosario Livingston",
+        "what": "Illegal Trapping",
+        "impacts": "Deforestation",
+        "placename": "Coaldale Whitewater",
+        "today": "2015-04-07",
+        "meta": {
+          "instanceId": "uuid:62d66329-5baf-435f-803f-6bc3c9f7d64d"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Lower Kuyuwini",
+        "village": "Karaodaz Naawa",
+        "region": "South Central",
+        "caption": "Do in exercitation sint consectetur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.90955520106945,
+          2.9416828719200567
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Merle Alvarez",
+        "what": "Mining",
+        "impacts": "Deforestation",
+        "placename": "Nash Blandburg",
+        "today": "2013-05-24",
+        "meta": {
+          "instanceId": "uuid:ff79775a-47f6-46f1-8ed5-ef245c277f04"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Upper Kuyuwini",
+        "village": "Potari Naawa",
+        "region": "South Central",
+        "caption": "Cupidatat qui adipisicing"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.71819682337809,
+          3.0074069327907638
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Crystal Boone",
+        "what": "Mining",
+        "impacts": "Deforestation",
+        "placename": "Trail Islandia",
+        "today": "2013-09-10",
+        "meta": {
+          "instanceId": "uuid:8bfba0f5-2cce-45c9-8e80-e427b15f6972"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Karaodaz Naawa",
+        "region": "Deep South",
+        "caption": "Sit deserunt nulla"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.82964011502918,
+          2.837651144852862
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Dana Zamora",
+        "what": "Illegal Grazing",
+        "impacts": "Depletion of fish",
+        "placename": "Emerald Cornfields",
+        "today": "2014-03-29",
+        "meta": {
+          "instanceId": "uuid:d9af75a3-2501-4bfb-b3d5-6cc40d961799"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+        },
+        "area": "Upper Kuyuwini",
+        "village": "Achawib",
+        "region": "South Central",
+        "caption": "Laborum exercitation do reprehenderit aliqua"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.55592909606639,
+          2.6722957123070956
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Olsen Bailey",
+        "what": "Tourism Violation",
+        "impacts": "Harm to community conserved site",
+        "placename": "Nile Cedarville",
+        "today": "2014-01-17",
+        "meta": {
+          "instanceId": "uuid:3af209f4-6d2b-4cfe-8fc2-9b050b25f196"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Potari Naawa",
+        "region": "Deep South",
+        "caption": "Laborum ullamco consectetur Lorem"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.51332254707813,
+          3.0454620647011326
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Castaneda Farmer",
+        "what": "Crossing",
+        "impacts": "Deforestation",
+        "placename": "Hiko Gardners",
+        "today": "2014-09-14",
+        "meta": {
+          "instanceId": "uuid:4e24525a-e22e-475b-b7aa-a71137be8d65"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+        },
+        "area": "Rii Wao",
+        "village": "Zoopo Naawa",
+        "region": "Deep South",
+        "caption": "Minim ipsum culpa reprehenderit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.62434374098666,
+          2.732445369497873
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Warren Gillespie",
+        "what": "Logging",
+        "impacts": "Loss of cultural heritage",
+        "placename": "Freeburn Brookfield",
+        "today": "2015-02-26",
+        "meta": {
+          "instanceId": "uuid:d6595970-62dd-466a-bd93-a18c33c8f23d"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Kamodukuo",
+        "village": "Shii",
+        "region": "South Central",
+        "caption": "Ut nisi duis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.57793289422989,
+          2.7069678337080405
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Newton Hays",
+        "what": "Rustling",
+        "impacts": "Water poisoned",
+        "placename": "Allamuchy Collins",
+        "today": "2013-07-22",
+        "meta": {
+          "instanceId": "uuid:ee06314b-d6af-4599-bd2f-d9db10e41de2"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+        },
+        "area": "Marudi",
+        "village": "Marora Naawa",
+        "region": "South Central",
+        "caption": "Id dolor consectetur et incididunt"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.867823392152786,
+          2.8590908902930097
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Avila Farley",
+        "what": "Mining",
+        "impacts": "FPIC violation",
+        "placename": "Brady Blackgum",
+        "today": "2015-03-11",
+        "meta": {
+          "instanceId": "uuid:f7d5084b-f794-40e0-9c61-2ec3c8688482"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+        },
+        "area": "Upper Takatu",
+        "village": "Parikowaro Naawa",
+        "region": "Deep South",
+        "caption": "Mollit officia minim veniam"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.93305941601284,
+          2.678772644046694
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Francine Bowen",
+        "what": "Tourism Violation",
+        "impacts": "Water pollution",
+        "placename": "Kieler Vienna",
+        "today": "2013-10-07",
+        "meta": {
+          "instanceId": "uuid:ba2d20bd-3373-4925-a58c-3637ce10a3e4"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Potari Naawa",
+        "region": "Deep South",
+        "caption": "Elit nulla quis sunt sit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.700368893914856,
+          2.989014030690305
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Humphrey Gill",
+        "what": "Illegal Hunting",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Helen Dawn",
+        "today": "2015-03-25",
+        "meta": {
+          "instanceId": "uuid:391d1531-0479-4c3c-a6ed-48eefab1fce7"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Zoopo Naawa",
+        "region": "Deep South",
+        "caption": "Consequat commodo anim excepteur tempor"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.77220084157307,
+          3.0486669346224518
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Mullen Roberts",
+        "what": "Tourism Violation",
+        "impacts": "Water poisoned",
+        "placename": "Steinhatchee Cutter",
+        "today": "2015-02-14",
+        "meta": {
+          "instanceId": "uuid:784314b7-f0cc-43c3-8b6f-e9aa5349c285"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Rii Wao",
+        "village": "Achawib",
+        "region": "South Central",
+        "caption": "Ullamco sit et elit dolor"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.57526477298234,
+          3.07066716698464
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Wanda Andrews",
+        "what": "Stealing Artefacts",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Bloomington Terlingua",
+        "today": "2014-10-02",
+        "meta": {
+          "instanceId": "uuid:24ae9f7a-bcc7-49d5-8b47-1de3f8bfd505"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Washarar Wao",
+        "village": "Sawari Wao",
+        "region": "South Central",
+        "caption": "Ut irure Lorem excepteur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.8980324100703,
+          2.988482051319443
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Jimenez Mcfadden",
+        "what": "Illegal Trapping",
+        "impacts": "Violation of sensitive site",
+        "placename": "Nelson Sutton",
+        "today": "2013-10-19",
+        "meta": {
+          "instanceId": "uuid:3e467378-481a-4bea-bce5-8b9f269f9586"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Aishara Toon",
+        "region": "Deep South",
+        "caption": "Ea elit velit elit pariatur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.84731557208579,
+          2.849804722843692
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Mara Walls",
+        "what": "Tourism Violation",
+        "impacts": "Depletion of fish",
+        "placename": "Trona Camptown",
+        "today": "2015-05-08",
+        "meta": {
+          "instanceId": "uuid:e9ce52f9-289b-4d60-883d-1e4c5b578538"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Shizizi",
+        "village": "Potari Naawa",
+        "region": "Deep South",
+        "caption": "Tempor officia eiusmod"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.78345068357885,
+          2.746992698777467
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Glenda Vazquez",
+        "what": "Illegal Hunting",
+        "impacts": "FPIC violation",
+        "placename": "Bordelonville Farmington",
+        "today": "2013-07-07",
+        "meta": {
+          "instanceId": "uuid:ababdf05-f7dc-4099-846e-539529149111"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Sawari Wao",
+        "region": "Deep South",
+        "caption": "Lorem pariatur quis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.51567742344923,
+          2.993100430024788
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Evangeline Tyson",
+        "what": "Illegal Trapping",
+        "impacts": "Damage to water source / watershed",
+        "placename": "Sanders Sussex",
+        "today": "2014-09-02",
+        "meta": {
+          "instanceId": "uuid:d51548ae-9c39-4f09-bb3d-f5ea67a77468"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Washarar Wao",
+        "village": "Awaru Wao Naawa",
+        "region": "Deep South",
+        "caption": "Ad consectetur et irure"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.806104505085386,
+          2.782697664014995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Browning Wilder",
+        "what": "Crossing",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Florence Hamilton",
+        "today": "2015-06-29",
+        "meta": {
+          "instanceId": "uuid:25ea66ce-d6ff-4533-bba7-ebf146ae3a03"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Bakawadataawa",
+        "village": "Awaru Wao Naawa",
+        "region": "Deep South",
+        "caption": "Ea id id cillum"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.81834964361042,
+          2.654459368577227
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Kelley Mcneil",
+        "what": "Tourism Violation",
+        "impacts": "Depletion of game",
+        "placename": "Nettie Klondike",
+        "today": "2014-12-02",
+        "meta": {
+          "instanceId": "uuid:f3d07b47-aac0-4168-8cfa-c0f8d1832b80"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Parikowaro Naawa",
+        "region": "Deep South",
+        "caption": "Tempor reprehenderit nulla exercitation"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.89743615954649,
+          2.6028774871025235
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Lyons Sellers",
+        "what": "Tourism Violation",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Freelandville Garfield",
+        "today": "2015-04-15",
+        "meta": {
+          "instanceId": "uuid:39d53c66-532e-407d-960a-a1309d322477"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+        },
+        "area": "Lower Kuyuwini",
+        "village": "Shii",
+        "region": "South Central",
+        "caption": "Deserunt consectetur irure aliquip"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.785728433635086,
+          2.8274631555192173
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Petra Strickland",
+        "what": "Rustling",
+        "impacts": "Depletion of fish",
+        "placename": "Gadsden Tryon",
+        "today": "2013-11-08",
+        "meta": {
+          "instanceId": "uuid:a41b49fd-528d-4dfa-b45a-cc9a6bb39b98"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+        },
+        "area": "Tamtoon",
+        "village": "Achawib",
+        "region": "Deep South",
+        "caption": "Ad sunt fugiat exercitation laborum"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.82418737921398,
+          2.7352806537179277
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Joyner Newman",
+        "what": "Stealing Artefacts",
+        "impacts": "Damage to farming grounds",
+        "placename": "Edenburg Bellfountain",
+        "today": "2013-09-05",
+        "meta": {
+          "instanceId": "uuid:f4b48032-e641-44f8-a59d-b86a15c407a7"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Kashiwiizi",
+        "village": "Karaodaz Naawa",
+        "region": "Deep South",
+        "caption": "Et qui dolore magna"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.84342101344373,
+          2.853388478071429
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Short Padilla",
+        "what": "Illegal Hunting",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Lynn Corinne",
+        "today": "2014-05-01",
+        "meta": {
+          "instanceId": "uuid:cd9c91a5-ccf2-4115-bad9-252b82909b54"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Darichibai",
+        "village": "Potari Naawa",
+        "region": "South Central",
+        "caption": "Amet ipsum nisi dolor"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.646115563227795,
+          2.9234612982487307
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Darcy Bond",
+        "what": "Stealing Artefacts",
+        "impacts": "Depletion of fish",
+        "placename": "Wollochet Wildwood",
+        "today": "2013-08-16",
+        "meta": {
+          "instanceId": "uuid:82742817-1e97-41f1-8a73-7e1be778f9f8"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+        },
+        "area": "Lower Kuyuwini",
+        "village": "Sawari Wao",
+        "region": "South Central",
+        "caption": "Amet ut cupidatat"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.589659134391695,
+          2.7454773970181123
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Ayala Bradshaw",
+        "what": "Illegal Hunting",
+        "impacts": "Depletion of game",
+        "placename": "Bonanza Roeville",
+        "today": "2013-08-10",
+        "meta": {
+          "instanceId": "uuid:cbc52005-6f53-46b8-8a59-630563c8d49e"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Darichibai",
+        "village": "Soburun",
+        "region": "South Central",
+        "caption": "Et aliquip sint nulla id"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.962648613145575,
+          2.9607967601856218
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Bolton Small",
+        "what": "Illegal Hunting",
+        "impacts": "Water poisoned",
+        "placename": "Holcombe Elliott",
+        "today": "2013-02-06",
+        "meta": {
+          "instanceId": "uuid:0c90a7eb-7ff6-4725-b5d7-eb3691211c72"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+        },
+        "area": "Upper Takatu",
+        "village": "Parobaz",
+        "region": "South Central",
+        "caption": "Amet minim quis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.599297995097004,
+          2.763439643685706
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Byrd Brown",
+        "what": "Stealing Artefacts",
+        "impacts": "Harm to community conserved site",
+        "placename": "Leola Kempton",
+        "today": "2014-10-28",
+        "meta": {
+          "instanceId": "uuid:5a24c1e8-c8f7-424b-8e11-c2f8b7e74c4c"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Aishara Toon",
+        "region": "South Central",
+        "caption": "Anim dolor do proident"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.850139324204065,
+          2.974024313874543
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Monroe Osborn",
+        "what": "Logging",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Farmers Bagtown",
+        "today": "2015-03-30",
+        "meta": {
+          "instanceId": "uuid:d4df5c30-374e-4d5d-837c-8ffc2aa3d8d2"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Upper Rupununi",
+        "village": "Soburun",
+        "region": "South Central",
+        "caption": "Excepteur et velit veniam"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.59909302892629,
+          2.8984498254954816
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Nanette Mcdaniel",
+        "what": "Rustling",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Vivian Wells",
+        "today": "2013-03-13",
+        "meta": {
+          "instanceId": "uuid:acbe5a41-ff58-4a91-8f95-a4b452b0e596"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Sawari Wao",
+        "region": "South Central",
+        "caption": "Reprehenderit ea laboris cupidatat"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6539559304947,
+          2.9726541723590345
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Tina Carpenter",
+        "what": "Logging",
+        "impacts": "FPIC violation",
+        "placename": "Darlington Thornport",
+        "today": "2014-12-01",
+        "meta": {
+          "instanceId": "uuid:c141ce42-1ea4-442b-9952-bbddca601706"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Korowin",
+        "village": "Marora Naawa",
+        "region": "South Central",
+        "caption": "Cillum commodo reprehenderit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6593608034309,
+          2.662150440644473
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Pauline Shepherd",
+        "what": "Crossing",
+        "impacts": "Depletion of fish",
+        "placename": "Linwood Moscow",
+        "today": "2015-06-28",
+        "meta": {
+          "instanceId": "uuid:49d6b3d2-b9a9-4168-a6f4-48782481dca6"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Shorinab Mountain Foot",
+        "village": "Potari Naawa",
+        "region": "South Central",
+        "caption": "Occaecat laborum nulla minim nisi"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.81060939305462,
+          2.8965653877472506
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Belinda Hull",
+        "what": "Illegal Grazing",
+        "impacts": "Social harm or abuse",
+        "placename": "Topanga Flintville",
+        "today": "2015-02-09",
+        "meta": {
+          "instanceId": "uuid:f95feac2-b5af-4ccf-be5d-8d816cb8bef0"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Katoonarub",
+        "region": "South Central",
+        "caption": "Deserunt proident nulla eiusmod"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.56905763235409,
+          3.0000366769032554
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Sally Berger",
+        "what": "Illegal Hunting",
+        "impacts": "Water poisoned",
+        "placename": "Fairmount Homestead",
+        "today": "2013-07-09",
+        "meta": {
+          "instanceId": "uuid:a2ac3db3-8f74-4b1a-83a7-92d3f8b49095"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Korowin",
+        "village": "Shorinab",
+        "region": "Deep South",
+        "caption": "Laboris sunt esse"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.860104316612706,
+          3.077132409461774
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Mays Mitchell",
+        "what": "Crossing",
+        "impacts": "Water poisoned",
+        "placename": "Williams Tyhee",
+        "today": "2014-01-18",
+        "meta": {
+          "instanceId": "uuid:8f680a74-125d-4d5a-9c67-6e5e344e4d9d"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+        },
+        "area": "Darichibai",
+        "village": "Potari Naawa",
+        "region": "South Central",
+        "caption": "Mollit deserunt deserunt ullamco irure"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.74566397955641,
+          2.718971206014976
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Keith Underwood",
+        "what": "Logging",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Kipp Riegelwood",
+        "today": "2013-10-12",
+        "meta": {
+          "instanceId": "uuid:af9800a8-426b-4223-bbb5-3175188ae323"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Shorinab",
+        "region": "Deep South",
+        "caption": "Velit proident consequat do in"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.84897866414394,
+          2.771001558424905
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Gilda Holt",
+        "what": "Crossing",
+        "impacts": "FPIC violation",
+        "placename": "Leeper Deercroft",
+        "today": "2013-09-04",
+        "meta": {
+          "instanceId": "uuid:1cf896c7-e4ae-4d48-82dc-f5c51dfebbe3"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Kashiwiizi",
+        "village": "Potari Naawa",
+        "region": "Deep South",
+        "caption": "Mollit laborum magna officia"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.5769760964904,
+          2.651837323815562
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Bond Sparks",
+        "what": "Illegal Hunting",
+        "impacts": "FPIC violation",
+        "placename": "Hebron Boomer",
+        "today": "2014-09-18",
+        "meta": {
+          "instanceId": "uuid:6e30d229-34bf-46fd-8123-f6ac11c2def3"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+        },
+        "area": "Shizizi",
+        "village": "Awaru Wao Naawa",
+        "region": "Deep South",
+        "caption": "Minim duis aute nisi"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.69816288445145,
+          3.0868763502454386
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Tamika Henson",
+        "what": "Rustling",
+        "impacts": "Water pollution",
+        "placename": "Sehili Brandermill",
+        "today": "2013-03-27",
+        "meta": {
+          "instanceId": "uuid:03f782bd-6787-4aec-90ce-5f29b75ee4fd"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+        },
+        "area": "Bakawadataawa",
+        "village": "Shorinab",
+        "region": "South Central",
+        "caption": "Aliquip dolor consectetur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.82204803393688,
+          2.7494990369537846
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Hoover England",
+        "what": "Illegal Trapping",
+        "impacts": "Deforestation",
+        "placename": "Homeworth Soudan",
+        "today": "2013-11-03",
+        "meta": {
+          "instanceId": "uuid:542f56d8-ba66-48c1-bd6d-7bb3764bc8fa"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+        },
+        "area": "Tamtoon",
+        "village": "Zoopo Naawa",
+        "region": "Deep South",
+        "caption": "Ex id veniam Lorem officia"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.89296784426551,
+          2.6779708861373366
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Lolita Hatfield",
+        "what": "Stealing Artefacts",
+        "impacts": "Harm to community conserved site",
+        "placename": "Albrightsville Cresaptown",
+        "today": "2014-11-13",
+        "meta": {
+          "instanceId": "uuid:4e93b59d-d499-4e5d-9675-81fc828f81af"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Awaru Wao Naawa",
+        "region": "South Central",
+        "caption": "Aliquip ad qui laborum incididunt"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.73726820095908,
+          2.6500067945104093
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Trudy White",
+        "what": "Crossing",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Suitland Fontanelle",
+        "today": "2015-01-07",
+        "meta": {
+          "instanceId": "uuid:0a0ee948-ae42-4acf-91f9-99d52f49378f"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Tamtoon",
+        "village": "Marora Naawa",
+        "region": "Deep South",
+        "caption": "Proident esse quis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.99310308555141,
+          2.9665919249178843
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Holloway Bullock",
+        "what": "Illegal Fishing",
+        "impacts": "Water poisoned",
+        "placename": "Tetherow Salix",
+        "today": "2014-08-18",
+        "meta": {
+          "instanceId": "uuid:f2e42989-b0c7-46bc-a6d0-ca225ecd340b"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Marudi",
+        "village": "Soburun",
+        "region": "Deep South",
+        "caption": "Reprehenderit cupidatat excepteur do"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.88657266285736,
+          3.05069357205648
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Dolly Madden",
+        "what": "Illegal Grazing",
+        "impacts": "Depletion of fish",
+        "placename": "Waukeenah Oneida",
+        "today": "2014-11-03",
+        "meta": {
+          "instanceId": "uuid:2b1ba56e-84e2-408d-884c-08c73f41a195"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Kwitaro",
+        "village": "Shorinab",
+        "region": "South Central",
+        "caption": "Amet est non esse consequat"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.643828110885806,
+          2.632103354576975
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Elvira Welch",
+        "what": "Illegal Hunting",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Thynedale Bancroft",
+        "today": "2015-05-03",
+        "meta": {
+          "instanceId": "uuid:64777b10-1a87-488f-95f2-6863cf5edfc7"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Awaru Wao Naawa",
+        "region": "Deep South",
+        "caption": "Sunt esse sint"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.906677752383985,
+          3.0638852638890968
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Jolene Kirkland",
+        "what": "Mining",
+        "impacts": "Social harm or abuse",
+        "placename": "Worcester Springdale",
+        "today": "2014-06-23",
+        "meta": {
+          "instanceId": "uuid:63b1c77b-fa1c-4901-97f1-d5bc98693686"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Shii",
+        "region": "Deep South",
+        "caption": "Cillum fugiat eiusmod"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.657777217100374,
+          2.8641739868558944
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Marissa Dunn",
+        "what": "Illegal Grazing",
+        "impacts": "Harm to community conserved site",
+        "placename": "Wedgewood Crumpler",
+        "today": "2015-03-11",
+        "meta": {
+          "instanceId": "uuid:3063e71c-3a1e-4360-894f-29e67a5e0d6d"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Kashiwiizi",
+        "village": "Zoopo Naawa",
+        "region": "Deep South",
+        "caption": "Laboris velit aute elit consectetur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.61826579668559,
+          3.0585320001933725
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Parker Bates",
+        "what": "Illegal Grazing",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Spelter Welda",
+        "today": "2013-10-29",
+        "meta": {
+          "instanceId": "uuid:1320473f-e10a-4737-ae42-d244b14f0760"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Kosad",
+        "village": "Parobaz",
+        "region": "Deep South",
+        "caption": "Duis magna anim nulla"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.96621330513153,
+          2.8277165494160728
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Whitehead Young",
+        "what": "Illegal Hunting",
+        "impacts": "Social harm or abuse",
+        "placename": "Lloyd Wikieup",
+        "today": "2013-10-08",
+        "meta": {
+          "instanceId": "uuid:d82894d7-55fb-442c-b2f7-ec2fa196dc56"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+        },
+        "area": "Kashiwiizi",
+        "village": "Parobaz",
+        "region": "South Central",
+        "caption": "Nisi est mollit officia in"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.928223676164635,
+          2.6434493850916625
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Moses Williamson",
+        "what": "Illegal Hunting",
+        "impacts": "Depletion of game",
+        "placename": "Waterloo Fillmore",
+        "today": "2013-04-22",
+        "meta": {
+          "instanceId": "uuid:85926de1-86b4-4ecd-b92b-7608464a183b"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Toridukuo",
+        "village": "Aishara Toon",
+        "region": "South Central",
+        "caption": "Laborum officia aute"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.826341764535755,
+          3.0678720687516035
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Peters Hawkins",
+        "what": "Tourism Violation",
+        "impacts": "FPIC violation",
+        "placename": "Castleton Chaparrito",
+        "today": "2014-03-08",
+        "meta": {
+          "instanceId": "uuid:31b1f5f7-75df-4e46-b20c-7061009ee701"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Marora Naawa",
+        "region": "South Central",
+        "caption": "Et aliquip nulla"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.59474616672378,
+          2.9598211908247323
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Shana Robertson",
+        "what": "Crossing",
+        "impacts": "Harm to community conserved site",
+        "placename": "Chilton Ellerslie",
+        "today": "2013-05-02",
+        "meta": {
+          "instanceId": "uuid:99c4f390-a1c9-490b-9041-0adadc4fc8ec"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Tamtoon",
+        "village": "Sawari Wao",
+        "region": "South Central",
+        "caption": "Elit nulla duis consequat officia"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.977724329102784,
+          2.859131425758824
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Christian Warren",
+        "what": "Stealing Artefacts",
+        "impacts": "Violation of sensitive site",
+        "placename": "Walker Knowlton",
+        "today": "2015-03-27",
+        "meta": {
+          "instanceId": "uuid:8902b320-e67d-412e-a2aa-c6166ee85bbe"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Tamtoon",
+        "village": "Zoopo Naawa",
+        "region": "South Central",
+        "caption": "Do commodo reprehenderit proident commodo"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.55620934069157,
+          2.731978110759519
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Abigail Richardson",
+        "what": "Mining",
+        "impacts": "Water poisoned",
+        "placename": "Rivers Rehrersburg",
+        "today": "2013-08-01",
+        "meta": {
+          "instanceId": "uuid:c7d0a958-7627-4c89-8b93-b8a7ae3563c3"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Parikowaro Naawa",
+        "region": "South Central",
+        "caption": "Magna occaecat dolore sint pariatur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.798762291204184,
+          2.9790250137681142
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Anne Whitney",
+        "what": "Logging",
+        "impacts": "Depletion of game",
+        "placename": "Genoa Brecon",
+        "today": "2015-03-01",
+        "meta": {
+          "instanceId": "uuid:61c599b3-5fef-4b96-af4f-528c6eb868c6"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Upper Rupununi",
+        "village": "Shii",
+        "region": "Deep South",
+        "caption": "Do fugiat cupidatat"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.670010561007075,
+          2.9223777362145484
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Jaime William",
+        "what": "Logging",
+        "impacts": "Violation of sensitive site",
+        "placename": "Seymour Hachita",
+        "today": "2013-11-11",
+        "meta": {
+          "instanceId": "uuid:c1d98c7c-3040-4bff-9f8b-20839bfc491d"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Tamtoon",
+        "village": "Parikowaro Naawa",
+        "region": "Deep South",
+        "caption": "Officia officia laboris incididunt eiusmod"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.79983335419092,
+          2.87551553666126
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Hensley Potter",
+        "what": "Logging",
+        "impacts": "Deforestation",
+        "placename": "Yonah Maury",
+        "today": "2013-03-18",
+        "meta": {
+          "instanceId": "uuid:e796aeb3-9464-45c5-8a3b-1056f9474dca"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Mamidi",
+        "village": "Zoopo Naawa",
+        "region": "Deep South",
+        "caption": "Labore duis aliquip"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.8937135922024,
+          2.701202767225914
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Concetta Goff",
+        "what": "Tourism Violation",
+        "impacts": "FPIC violation",
+        "placename": "Waiohinu Summertown",
+        "today": "2013-04-01",
+        "meta": {
+          "instanceId": "uuid:e3633dd5-ae58-4e3f-9455-0f972758984a"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Shorinab Mountain Foot",
+        "village": "Zoopo Naawa",
+        "region": "South Central",
+        "caption": "Proident deserunt sint"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.886199338012375,
+          2.86670152915176
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Maryann Chandler",
+        "what": "Rustling",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Kula Cassel",
+        "today": "2014-05-16",
+        "meta": {
+          "instanceId": "uuid:6fea6bbe-c486-453a-8ab5-3e207febd992"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Aishara Toon",
+        "region": "South Central",
+        "caption": "Dolor occaecat tempor reprehenderit cillum"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.862148310174234,
+          2.8554138886043803
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Isabelle Brooks",
+        "what": "Mining",
+        "impacts": "Damage to farming grounds",
+        "placename": "Escondida Romeville",
+        "today": "2015-06-03",
+        "meta": {
+          "instanceId": "uuid:5e30615a-5042-48c0-820a-2c7f1c158378"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Kashiwiizi",
+        "village": "Soburun",
+        "region": "South Central",
+        "caption": "Sunt reprehenderit esse"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.83947313029785,
+          3.0200200751656667
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Cassandra Franks",
+        "what": "Illegal Hunting",
+        "impacts": "Social harm or abuse",
+        "placename": "Wacissa Winchester",
+        "today": "2014-08-27",
+        "meta": {
+          "instanceId": "uuid:2f764ca9-5eba-4f56-af1c-918fba9234b8"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Marora Naawa",
+        "region": "Deep South",
+        "caption": "Sit aute enim est duis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.65987125609536,
+          2.794783288636245
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Johns Landry",
+        "what": "Illegal Grazing",
+        "impacts": "Damage to water source / watershed",
+        "placename": "Loma Brewster",
+        "today": "2015-06-28",
+        "meta": {
+          "instanceId": "uuid:d0784fba-8a9a-4a57-9076-86920bff4940"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+        },
+        "area": "Darichibai",
+        "village": "Katoonarub",
+        "region": "South Central",
+        "caption": "Consectetur dolore ut tempor"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.75753281626385,
+          3.0796239673160017
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Jerri Yates",
+        "what": "Illegal Grazing",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Blue Vaughn",
+        "today": "2014-05-05",
+        "meta": {
+          "instanceId": "uuid:4060670c-066e-46d5-bef9-2252572863cf"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Other",
+        "village": "Parobaz",
+        "region": "Deep South",
+        "caption": "Aliquip voluptate incididunt ut dolore"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.54872375598643,
+          2.9485936244251207
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Chandler Garrett",
+        "what": "Illegal Trapping",
+        "impacts": "FPIC violation",
+        "placename": "Kansas Greenbackville",
+        "today": "2013-08-26",
+        "meta": {
+          "instanceId": "uuid:c97b0f1d-9e92-4a7b-a610-81fa946eff21"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Shorinab",
+        "region": "South Central",
+        "caption": "Deserunt anim duis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.88995188777335,
+          3.0611966987140478
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Tran Fuentes",
+        "what": "Crossing",
+        "impacts": "Social harm or abuse",
+        "placename": "Sisquoc Fairforest",
+        "today": "2013-07-19",
+        "meta": {
+          "instanceId": "uuid:c9173e5a-cbaa-4da5-9feb-f2896888d600"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Karaodaz Naawa",
+        "region": "Deep South",
+        "caption": "Do cillum pariatur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.8709888557205,
+          2.953210189030506
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Brock Fields",
+        "what": "Illegal Hunting",
+        "impacts": "FPIC violation",
+        "placename": "Brantleyville Cloverdale",
+        "today": "2013-11-01",
+        "meta": {
+          "instanceId": "uuid:30f3215b-e13b-4052-8e7e-d5dd608fda08"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+        },
+        "area": "Shizizi",
+        "village": "Shorinab",
+        "region": "Deep South",
+        "caption": "Ex ea cillum Lorem"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.99891204002779,
+          2.765813428699039
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Espinoza Mcdaniel",
+        "what": "Illegal Hunting",
+        "impacts": "Deforestation",
+        "placename": "Riverton Spelter",
+        "today": "2014-05-03",
+        "meta": {
+          "instanceId": "uuid:630f82f5-0cd5-45f3-ac6c-bdffa39ce383"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Shorinab",
+        "region": "South Central",
+        "caption": "Aliquip officia consequat aliquip"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.53983356337994,
+          2.8068013675743715
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Ola Fowler",
+        "what": "Tourism Violation",
+        "impacts": "Violation of sensitive site",
+        "placename": "Suitland Irwin",
+        "today": "2013-03-25",
+        "meta": {
+          "instanceId": "uuid:ef39d0f6-bcbc-420b-9c53-e246ac01678f"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Upper Rupununi",
+        "village": "Parobaz",
+        "region": "South Central",
+        "caption": "Duis duis qui sit duis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.832702403422445,
+          3.069277239055373
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Fern Huffman",
+        "what": "Rustling",
+        "impacts": "Loss of cultural heritage",
+        "placename": "Cowiche Summertown",
+        "today": "2014-02-07",
+        "meta": {
+          "instanceId": "uuid:d6c334b0-1467-4292-b46f-869f3f8064b4"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+        },
+        "area": "Darichibai",
+        "village": "Potari Naawa",
+        "region": "South Central",
+        "caption": "Sit nostrud pariatur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.88771261961665,
+          2.6426061229081825
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Joyce Rosales",
+        "what": "Tourism Violation",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Harborton Hannasville",
+        "today": "2013-02-16",
+        "meta": {
+          "instanceId": "uuid:d26634fa-2765-4253-bedc-bf7f9e4ea3c0"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+        },
+        "area": "Upper Rupununi",
+        "village": "Zoopo Naawa",
+        "region": "South Central",
+        "caption": "Mollit duis irure"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.56151501322165,
+          2.911421015416272
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Phelps Morgan",
+        "what": "Illegal Fishing",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Thornport Ona",
+        "today": "2013-11-07",
+        "meta": {
+          "instanceId": "uuid:ac86272a-713c-478d-921c-d1975f84b7aa"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Upper Kuyuwini",
+        "village": "Soburun",
+        "region": "Deep South",
+        "caption": "Esse ullamco aute Lorem"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.64375669672154,
+          3.082540997094475
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Love Rivas",
+        "what": "Logging",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Bethpage Freeburn",
+        "today": "2013-07-05",
+        "meta": {
+          "instanceId": "uuid:0931f373-f5de-49bd-912a-988deee3057a"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Aishara Toon",
+        "region": "South Central",
+        "caption": "Tempor commodo excepteur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.70266276563052,
+          2.994878550665453
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Wyatt David",
+        "what": "Illegal Fishing",
+        "impacts": "Deforestation",
+        "placename": "Watrous Wollochet",
+        "today": "2015-02-04",
+        "meta": {
+          "instanceId": "uuid:bc78f173-3f66-4df7-b5e3-614d44b5c791"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Upper Kuyuwini",
+        "village": "Parikowaro Naawa",
+        "region": "South Central",
+        "caption": "Esse sit eiusmod"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.876057715155184,
+          2.635290172090754
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Lesa Lynn",
+        "what": "Illegal Fishing",
+        "impacts": "Social harm or abuse",
+        "placename": "Columbus Zarephath",
+        "today": "2014-11-25",
+        "meta": {
+          "instanceId": "uuid:b5fed023-4a71-4bee-b108-32e81bc6fc12"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+        },
+        "area": "Upper Kuyuwini",
+        "village": "Awaru Wao Naawa",
+        "region": "Deep South",
+        "caption": "Quis sit ullamco irure"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.8970799484523,
+          2.823976890789345
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Valencia Collier",
+        "what": "Illegal Fishing",
+        "impacts": "Water pollution",
+        "placename": "Farmers Enetai",
+        "today": "2015-04-17",
+        "meta": {
+          "instanceId": "uuid:e3a6d58a-7e9c-4769-9cc0-edcde070ade5"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Achawib",
+        "region": "Deep South",
+        "caption": "Id nostrud veniam"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.59708199859597,
+          2.900392238306813
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Powers Rosa",
+        "what": "Logging",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Vernon Bordelonville",
+        "today": "2014-12-04",
+        "meta": {
+          "instanceId": "uuid:ce38683f-8a9e-4dbf-b840-74cca7707d2c"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Kashiwiizi",
+        "village": "Katoonarub",
+        "region": "South Central",
+        "caption": "Amet ad commodo ex"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.73829965561163,
+          3.067498209909536
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Fuller Benton",
+        "what": "Illegal Grazing",
+        "impacts": "Depletion of game",
+        "placename": "Dana Cumminsville",
+        "today": "2013-02-15",
+        "meta": {
+          "instanceId": "uuid:a7337033-6305-480b-a722-144919d7a6e5"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Lower Kuyuwini",
+        "village": "Aishara Toon",
+        "region": "South Central",
+        "caption": "Non nostrud minim duis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.84356002777349,
+          2.9205753733636812
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Cassandra Baird",
+        "what": "Mining",
+        "impacts": "Loss of cultural heritage",
+        "placename": "Sexton Florence",
+        "today": "2013-01-16",
+        "meta": {
+          "instanceId": "uuid:d647046d-ca84-4716-becf-1bbc7b0c1684"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Shii",
+        "region": "South Central",
+        "caption": "Quis exercitation eiusmod"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.842453539720736,
+          3.060332419956103
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Brittney Reilly",
+        "what": "Crossing",
+        "impacts": "FPIC violation",
+        "placename": "Finzel Graniteville",
+        "today": "2015-06-26",
+        "meta": {
+          "instanceId": "uuid:43d9d192-e74b-44d7-a596-990eaccbb009"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Lower Kuyuwini",
+        "village": "Soburun",
+        "region": "Deep South",
+        "caption": "Lorem ad voluptate aliquip"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.82538303604815,
+          2.8742165972013027
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Frankie Marks",
+        "what": "Illegal Fishing",
+        "impacts": "Damage to water source / watershed",
+        "placename": "Alden Corriganville",
+        "today": "2014-10-26",
+        "meta": {
+          "instanceId": "uuid:440ace1b-a365-4ed3-9aab-29ddb6e5479a"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Kanowadtao",
+        "village": "Awaru Wao Naawa",
+        "region": "Deep South",
+        "caption": "Non nulla in"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.80535765399691,
+          3.0402738235658036
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Margarita Cochran",
+        "what": "Logging",
+        "impacts": "Depletion of fish",
+        "placename": "Caln Lumberton",
+        "today": "2015-05-19",
+        "meta": {
+          "instanceId": "uuid:2d8fc0e5-c77b-45a1-b83e-e01228add6ef"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+        },
+        "area": "Korowin",
+        "village": "Shii",
+        "region": "South Central",
+        "caption": "Anim ipsum eu ea consequat"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.75418719265144,
+          2.77197774827946
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Mcknight Kirby",
+        "what": "Illegal Trapping",
+        "impacts": "Depletion of game",
+        "placename": "Vincent Longoria",
+        "today": "2014-10-24",
+        "meta": {
+          "instanceId": "uuid:c8b6ac65-bb2b-483f-969c-945c3de77b5a"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Shorinab",
+        "region": "Deep South",
+        "caption": "Cillum ullamco occaecat"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.68614742648788,
+          3.081471295002848
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Boyle Cardenas",
+        "what": "Illegal Fishing",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Sunriver Gibbsville",
+        "today": "2015-01-20",
+        "meta": {
+          "instanceId": "uuid:d6fe480c-eb19-4da7-8ad6-f9cfb48a3426"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Karaodaz Naawa",
+        "region": "Deep South",
+        "caption": "Aliqua adipisicing reprehenderit occaecat"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.62712089053821,
+          2.828577869711444
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Darla Key",
+        "what": "Tourism Violation",
+        "impacts": "Water poisoned",
+        "placename": "Gouglersville Harrodsburg",
+        "today": "2013-09-30",
+        "meta": {
+          "instanceId": "uuid:657e2268-f1ce-40c1-8e3d-7ab293eeceb6"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Upper Rupununi",
+        "village": "Karaodaz Naawa",
+        "region": "South Central",
+        "caption": "Ut laborum labore occaecat"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.634100568131544,
+          2.877623672154732
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Shauna Floyd",
+        "what": "Illegal Hunting",
+        "impacts": "Damage to farming grounds",
+        "placename": "Frank Crisman",
+        "today": "2014-06-28",
+        "meta": {
+          "instanceId": "uuid:1c325f92-e24d-482f-bc4d-784efa042b08"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Parobaz",
+        "region": "South Central",
+        "caption": "Exercitation veniam commodo est esse"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.72063212515786,
+          2.89224312317092
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Harrington Witt",
+        "what": "Illegal Fishing",
+        "impacts": "Deforestation",
+        "placename": "Stewartville Cavalero",
+        "today": "2014-12-12",
+        "meta": {
+          "instanceId": "uuid:83dc18da-a122-457f-ac40-cc163264c851"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Upper Kuyuwini",
+        "village": "Shii",
+        "region": "South Central",
+        "caption": "Et irure ipsum qui"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.962568894494325,
+          3.0030485913390295
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Cecilia Contreras",
+        "what": "Rustling",
+        "impacts": "Water poisoned",
+        "placename": "Albany Yukon",
+        "today": "2013-10-18",
+        "meta": {
+          "instanceId": "uuid:2e224c36-13f4-4f4a-a85e-31e2afc5c1bf"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Aishara Toon",
+        "region": "Deep South",
+        "caption": "Eu exercitation enim proident cillum"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.828406921355054,
+          2.9956695003435017
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Hurley Ramos",
+        "what": "Illegal Hunting",
+        "impacts": "Violation of sensitive site",
+        "placename": "Camas Tyhee",
+        "today": "2013-08-06",
+        "meta": {
+          "instanceId": "uuid:b2e7416a-dcaf-47c9-a122-d5f655c85367"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Achawib",
+        "region": "South Central",
+        "caption": "Deserunt in commodo"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.90995592973195,
+          3.0775376435136423
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Rosie Frank",
+        "what": "Illegal Grazing",
+        "impacts": "Deforestation",
+        "placename": "Canterwood Goodville",
+        "today": "2014-08-13",
+        "meta": {
+          "instanceId": "uuid:ffc37a6b-2f8b-424d-af6f-5f5f352e634f"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Upper Rupununi",
+        "village": "Katoonarub",
+        "region": "Deep South",
+        "caption": "Commodo duis deserunt reprehenderit sint"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.99692130368203,
+          2.826613497477956
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Williams Cantrell",
+        "what": "Illegal Trapping",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Orviston Glasgow",
+        "today": "2014-08-31",
+        "meta": {
+          "instanceId": "uuid:bb16b18a-3834-46ad-916f-9f7140629aed"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+        },
+        "area": "Marudi",
+        "village": "Shii",
+        "region": "South Central",
+        "caption": "Sunt exercitation sunt"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.72205194050912,
+          3.064676688425243
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Morse Gregory",
+        "what": "Tourism Violation",
+        "impacts": "Damage to water source / watershed",
+        "placename": "Kenmar Marenisco",
+        "today": "2013-09-02",
+        "meta": {
+          "instanceId": "uuid:397c5a14-2a96-4407-85a2-3a391d932ae3"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Marora Naawa",
+        "region": "Deep South",
+        "caption": "Occaecat Lorem nostrud"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.686900030239485,
+          3.069418775755912
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Santiago Villarreal",
+        "what": "Illegal Grazing",
+        "impacts": "Harm to community conserved site",
+        "placename": "Condon Edinburg",
+        "today": "2013-05-27",
+        "meta": {
+          "instanceId": "uuid:fd22aa8c-ee65-4395-95cc-92b18df1b9d9"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Potari Naawa",
+        "region": "South Central",
+        "caption": "Do duis proident amet"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.89132025872823,
+          2.723886615387164
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Susanne Bright",
+        "what": "Mining",
+        "impacts": "Violation of sensitive site",
+        "placename": "Trucksville Byrnedale",
+        "today": "2014-04-13",
+        "meta": {
+          "instanceId": "uuid:bf386f60-3df6-4c6d-b5f7-0f3d83e51f08"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Other",
+        "village": "Shorinab",
+        "region": "South Central",
+        "caption": "Duis magna cillum laborum dolor"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.99659088731278,
+          2.803023773850873
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Annie Guzman",
+        "what": "Tourism Violation",
+        "impacts": "Depletion of fish",
+        "placename": "Sparkill Calvary",
+        "today": "2013-02-18",
+        "meta": {
+          "instanceId": "uuid:85a19c9b-b5dc-460a-9f40-738f7ecd6318"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+        },
+        "area": "Rii Wao",
+        "village": "Katoonarub",
+        "region": "Deep South",
+        "caption": "Labore do nostrud Lorem"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.707190206390806,
+          3.0882203167071567
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Duncan Kim",
+        "what": "Illegal Grazing",
+        "impacts": "Harm to community conserved site",
+        "placename": "Breinigsville Jamestown",
+        "today": "2013-08-13",
+        "meta": {
+          "instanceId": "uuid:3bbe9c40-821a-4650-9ed7-d861196ab5ea"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Upper Kuyuwini",
+        "village": "Karaodaz Naawa",
+        "region": "South Central",
+        "caption": "Velit esse nostrud pariatur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.87310646264814,
+          3.043015168653801
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Jenkins Weiss",
+        "what": "Tourism Violation",
+        "impacts": "Depletion of game",
+        "placename": "Brewster Kenvil",
+        "today": "2015-01-28",
+        "meta": {
+          "instanceId": "uuid:a1f8144b-89b8-4c3b-a046-0c0c77c65486"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Zoopo Naawa",
+        "region": "Deep South",
+        "caption": "Elit excepteur reprehenderit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.903729794197716,
+          2.6214904453605414
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Sullivan Delacruz",
+        "what": "Tourism Violation",
+        "impacts": "Depletion of fish",
+        "placename": "Gallina Klagetoh",
+        "today": "2013-09-21",
+        "meta": {
+          "instanceId": "uuid:1154c781-6c77-40f9-a6bc-5e1faf97f608"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Other",
+        "village": "Aishara Toon",
+        "region": "Deep South",
+        "caption": "Id id duis aliqua"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.95259690482635,
+          2.646454008552246
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Rose Parks",
+        "what": "Illegal Trapping",
+        "impacts": "Water poisoned",
+        "placename": "Rodman Wanship",
+        "today": "2014-01-25",
+        "meta": {
+          "instanceId": "uuid:9edfb62f-b143-42dd-ad6c-e8d7660636b3"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Potari Naawa",
+        "region": "Deep South",
+        "caption": "Anim ad quis dolor aute"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.86600462568458,
+          2.6970294810831548
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Regina England",
+        "what": "Illegal Hunting",
+        "impacts": "Violation of sensitive site",
+        "placename": "Chelsea Coyote",
+        "today": "2014-07-08",
+        "meta": {
+          "instanceId": "uuid:d719e2e5-d987-45e9-9e71-b0c692cdc3e0"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Marudi",
+        "village": "Potari Naawa",
+        "region": "Deep South",
+        "caption": "Commodo in aliquip duis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.96866739401594,
+          3.082730618212372
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Carolyn Alston",
+        "what": "Illegal Grazing",
+        "impacts": "Social harm or abuse",
+        "placename": "Bagtown Brecon",
+        "today": "2015-01-12",
+        "meta": {
+          "instanceId": "uuid:c5a67ba5-1a20-47d6-81db-7d20503e29b8"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Upper Rupununi",
+        "village": "Katoonarub",
+        "region": "South Central",
+        "caption": "Magna voluptate veniam"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.74371046037413,
+          2.9265264304354788
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Marshall Stevenson",
+        "what": "Stealing Artefacts",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Baker Sugartown",
+        "today": "2014-09-08",
+        "meta": {
+          "instanceId": "uuid:bc1c89fd-59ed-447d-9b54-f5b3292652ad"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Rii Wao",
+        "village": "Awaru Wao Naawa",
+        "region": "South Central",
+        "caption": "Esse sunt nulla irure"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.69530547934119,
+          2.7325470480369405
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Angelia Bender",
+        "what": "Logging",
+        "impacts": "Depletion of fish",
+        "placename": "Layhill Mansfield",
+        "today": "2014-07-23",
+        "meta": {
+          "instanceId": "uuid:75a2d196-0d9d-436b-bfaf-490e038a5840"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+        },
+        "area": "Raada",
+        "village": "Parobaz",
+        "region": "Deep South",
+        "caption": "Id et duis magna"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.584345558076166,
+          2.8827243718784303
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Richmond Nieves",
+        "what": "Mining",
+        "impacts": "Water pollution",
+        "placename": "Lindisfarne Bloomington",
+        "today": "2013-12-26",
+        "meta": {
+          "instanceId": "uuid:b24a0e72-acb7-4514-8736-e3869a559639"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Sawari Wao",
+        "region": "Deep South",
+        "caption": "Sunt ex voluptate officia"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.682443228084594,
+          2.6718194083310665
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Rodriguez Moon",
+        "what": "Illegal Hunting",
+        "impacts": "Depletion of game",
+        "placename": "Fedora Rushford",
+        "today": "2015-05-24",
+        "meta": {
+          "instanceId": "uuid:11a1f2cf-15c8-4470-bbf9-02b097d9a296"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+        },
+        "area": "Kamodukuo",
+        "village": "Zoopo Naawa",
+        "region": "Deep South",
+        "caption": "Labore commodo et"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.62622497940902,
+          2.7516940749716015
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Ashley Adams",
+        "what": "Tourism Violation",
+        "impacts": "FPIC violation",
+        "placename": "Veyo Boonville",
+        "today": "2014-06-05",
+        "meta": {
+          "instanceId": "uuid:809a5f19-8f00-4b16-a408-704fca9d546a"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Lower Kuyuwini",
+        "village": "Zoopo Naawa",
+        "region": "Deep South",
+        "caption": "Amet commodo ullamco nisi"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.74502480041701,
+          2.7313004061812536
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Reid Howell",
+        "what": "Illegal Grazing",
+        "impacts": "Depletion of game",
+        "placename": "Northridge Rote",
+        "today": "2014-02-05",
+        "meta": {
+          "instanceId": "uuid:ddca387c-5fcd-4405-a64c-6a23289381ff"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Washarar Wao",
+        "village": "Aishara Toon",
+        "region": "South Central",
+        "caption": "Qui occaecat duis deserunt"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.618039260734804,
+          2.990607023611665
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Daugherty Carr",
+        "what": "Crossing",
+        "impacts": "Depletion of game",
+        "placename": "Abrams Nanafalia",
+        "today": "2013-10-05",
+        "meta": {
+          "instanceId": "uuid:ca03df03-9c9b-410b-bb32-320befe63475"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+        },
+        "area": "Washarar Wao",
+        "village": "Parikowaro Naawa",
+        "region": "Deep South",
+        "caption": "Laborum voluptate dolore tempor"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.67722970608156,
+          3.0304706987459213
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Earlene Chan",
+        "what": "Logging",
+        "impacts": "Water poisoned",
+        "placename": "Mathews Cascades",
+        "today": "2013-12-04",
+        "meta": {
+          "instanceId": "uuid:2d5efc8e-e3f6-4b27-bc18-53b7f7081657"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Sawari Wao",
+        "region": "South Central",
+        "caption": "Quis voluptate elit sit amet"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.725588938221335,
+          3.0525990169495345
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Myra Bridges",
+        "what": "Rustling",
+        "impacts": "Depletion of fish",
+        "placename": "Thynedale Gadsden",
+        "today": "2014-09-16",
+        "meta": {
+          "instanceId": "uuid:696cf7a7-d56d-44f0-b9a2-8cbcae40042c"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Upper Takatu",
+        "village": "Soburun",
+        "region": "South Central",
+        "caption": "Aute exercitation occaecat"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.812510533374734,
+          2.835604878515005
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Mccormick Fulton",
+        "what": "Illegal Fishing",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Sperryville Bridgetown",
+        "today": "2015-05-22",
+        "meta": {
+          "instanceId": "uuid:a009d2f6-a453-4a4c-b080-3b3af0ac85a1"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Shii",
+        "region": "South Central",
+        "caption": "Eu ex voluptate nostrud proident"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.57214373489842,
+          2.887218814599328
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Ayers Goodwin",
+        "what": "Illegal Grazing",
+        "impacts": "Depletion of fish",
+        "placename": "Dawn Hall",
+        "today": "2013-01-24",
+        "meta": {
+          "instanceId": "uuid:99f1be6c-82ad-427b-93a6-615cc4071857"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+        },
+        "area": "Rii Wao",
+        "village": "Katoonarub",
+        "region": "Deep South",
+        "caption": "Sunt aliqua pariatur fugiat nulla"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.60634264338296,
+          2.6989723274251447
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Parsons Knight",
+        "what": "Tourism Violation",
+        "impacts": "Violation of sensitive site",
+        "placename": "Chumuckla Succasunna",
+        "today": "2014-09-02",
+        "meta": {
+          "instanceId": "uuid:998e5d12-b9c0-4516-8ecd-2e8dcdf03846"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+        },
+        "area": "Kanowadtao",
+        "village": "Awaru Wao Naawa",
+        "region": "South Central",
+        "caption": "Ex ea nulla ullamco aute"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.66748221835587,
+          2.8383465968305246
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "White Farmer",
+        "what": "Illegal Fishing",
+        "impacts": "Harm to community conserved site",
+        "placename": "Marysville Babb",
+        "today": "2014-01-27",
+        "meta": {
+          "instanceId": "uuid:70b255a6-00a8-44e2-b9b2-76e8af7b11ed"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Karaodaz Naawa",
+        "region": "Deep South",
+        "caption": "Tempor Lorem anim labore excepteur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.615426426404156,
+          2.690093614649959
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Mejia English",
+        "what": "Mining",
+        "impacts": "Depletion of game",
+        "placename": "Mulino Draper",
+        "today": "2014-12-10",
+        "meta": {
+          "instanceId": "uuid:ec70ce99-33e9-4cfa-bdee-0d6969203ac9"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+        },
+        "area": "Other",
+        "village": "Katoonarub",
+        "region": "South Central",
+        "caption": "Est magna nulla qui"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.96425521967467,
+          2.721864591841586
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Esperanza Hughes",
+        "what": "Illegal Grazing",
+        "impacts": "Harm to community conserved site",
+        "placename": "Clara Wadsworth",
+        "today": "2014-05-11",
+        "meta": {
+          "instanceId": "uuid:2734df90-4765-4394-b16b-844156674eb1"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Katoonarub",
+        "region": "Deep South",
+        "caption": "Sint adipisicing proident duis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.71218997030519,
+          2.9152568276273088
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Hernandez Lawrence",
+        "what": "Mining",
+        "impacts": "Water poisoned",
+        "placename": "Lutsen Blue",
+        "today": "2014-06-06",
+        "meta": {
+          "instanceId": "uuid:af0f52d8-3f19-4d73-a392-9520d609c47b"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Marudi",
+        "village": "Achawib",
+        "region": "Deep South",
+        "caption": "Id anim nisi commodo eiusmod"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.531148227863014,
+          2.8840035038534553
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Anita Franklin",
+        "what": "Logging",
+        "impacts": "Deforestation",
+        "placename": "Saddlebrooke Riner",
+        "today": "2014-10-12",
+        "meta": {
+          "instanceId": "uuid:027b4af7-bb86-4aff-b29d-2bec4ced8ae9"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+        },
+        "area": "Upper Kuyuwini",
+        "village": "Parobaz",
+        "region": "Deep South",
+        "caption": "Lorem voluptate in reprehenderit cupidatat"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.69338531966787,
+          2.914604501822032
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Letitia Galloway",
+        "what": "Illegal Trapping",
+        "impacts": "Loss of cultural heritage",
+        "placename": "Lawrence Jeff",
+        "today": "2014-02-26",
+        "meta": {
+          "instanceId": "uuid:06597411-51f3-4986-b41d-32965cab67af"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Rii Wao",
+        "village": "Achawib",
+        "region": "Deep South",
+        "caption": "Enim proident aliqua aute"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.989549484685995,
+          2.7486809613415972
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Bridget Duke",
+        "what": "Crossing",
+        "impacts": "Deforestation",
+        "placename": "Grimsley Innsbrook",
+        "today": "2014-08-28",
+        "meta": {
+          "instanceId": "uuid:25f141d1-fc6c-48ee-b457-91f2f861e6ec"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Washarar Wao",
+        "village": "Aishara Toon",
+        "region": "South Central",
+        "caption": "Nulla ad magna ad"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.592314480571076,
+          3.072694728989154
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Katelyn Morrison",
+        "what": "Illegal Grazing",
+        "impacts": "FPIC violation",
+        "placename": "Bethany Ivanhoe",
+        "today": "2013-12-04",
+        "meta": {
+          "instanceId": "uuid:609e6cb8-c576-415e-975d-6aeff46462bf"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Katoonarub",
+        "region": "Deep South",
+        "caption": "Pariatur laborum quis tempor sit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.77722202509176,
+          2.8747514015063644
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Jana Velez",
+        "what": "Illegal Grazing",
+        "impacts": "Harm to community conserved site",
+        "placename": "Greer Fairacres",
+        "today": "2013-01-04",
+        "meta": {
+          "instanceId": "uuid:69797ac4-93f0-4e1d-9a24-61a8098ee983"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Korowin",
+        "village": "Soburun",
+        "region": "Deep South",
+        "caption": "In id labore"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.737089651986025,
+          2.6726664969697596
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Maynard Allison",
+        "what": "Stealing Artefacts",
+        "impacts": "Damage to farming grounds",
+        "placename": "Groton Grapeview",
+        "today": "2015-01-30",
+        "meta": {
+          "instanceId": "uuid:1382a21c-686d-499a-a3c4-fba0d84ad8a1"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+        },
+        "area": "Kosad",
+        "village": "Achawib",
+        "region": "South Central",
+        "caption": "Ex ipsum enim non"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.51162384892814,
+          2.805212399712764
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Marcella Spencer",
+        "what": "Illegal Hunting",
+        "impacts": "Deforestation",
+        "placename": "Glenville Kanauga",
+        "today": "2014-07-02",
+        "meta": {
+          "instanceId": "uuid:5910e818-bcdd-437e-9c0e-526911c7b5d4"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Soburun",
+        "region": "South Central",
+        "caption": "Lorem sit officia"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.64082502608653,
+          2.6581676237052307
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Smith Gallagher",
+        "what": "Tourism Violation",
+        "impacts": "Damage to farming grounds",
+        "placename": "Bluffview Sunnyside",
+        "today": "2014-03-16",
+        "meta": {
+          "instanceId": "uuid:9d1deba6-f11a-4345-aabf-7e1102eb728c"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Kwitaro",
+        "village": "Aishara Toon",
+        "region": "South Central",
+        "caption": "Anim occaecat duis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.89301791950129,
+          2.9192648930707947
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Marcy Edwards",
+        "what": "Illegal Fishing",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Roeville Winchester",
+        "today": "2015-04-08",
+        "meta": {
+          "instanceId": "uuid:65ea2c75-5300-4e26-9416-ef31f53f5af4"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+        },
+        "area": "Tamtoon",
+        "village": "Katoonarub",
+        "region": "South Central",
+        "caption": "Sit sint esse commodo nisi"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.70312226051465,
+          2.7443484860938043
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Misty Sykes",
+        "what": "Illegal Hunting",
+        "impacts": "Water pollution",
+        "placename": "Jessie Ezel",
+        "today": "2014-12-20",
+        "meta": {
+          "instanceId": "uuid:3273ebcb-78fc-4140-9ec1-0658ae5f4915"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Washarar Wao",
+        "village": "Parobaz",
+        "region": "Deep South",
+        "caption": "Laborum Lorem minim qui"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.931036593276076,
+          3.063204879080877
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Marisa Spears",
+        "what": "Crossing",
+        "impacts": "Loss of cultural heritage",
+        "placename": "Graball Abiquiu",
+        "today": "2013-05-14",
+        "meta": {
+          "instanceId": "uuid:6fac3679-3a9e-46d0-a601-98dc43755266"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Shorinab",
+        "region": "South Central",
+        "caption": "Incididunt qui enim sit ut"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.617491850978695,
+          2.8940020998939873
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Amie Sellers",
+        "what": "Tourism Violation",
+        "impacts": "Loss of cultural heritage",
+        "placename": "Dupuyer Kingstowne",
+        "today": "2013-04-05",
+        "meta": {
+          "instanceId": "uuid:1313525f-d42f-4cf0-9d49-942c3332aaa5"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Achawib",
+        "region": "Deep South",
+        "caption": "Dolore velit dolore"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.847073516459204,
+          2.8850631579058246
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Lester Mullen",
+        "what": "Illegal Trapping",
+        "impacts": "Water poisoned",
+        "placename": "Bannock Leola",
+        "today": "2015-05-22",
+        "meta": {
+          "instanceId": "uuid:1e08d745-3999-4990-ba4b-44b76fffa0ef"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Lower Kuyuwini",
+        "village": "Parikowaro Naawa",
+        "region": "Deep South",
+        "caption": "Aliquip commodo eu"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.590038953116164,
+          2.926541113317944
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Morin Frost",
+        "what": "Rustling",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Connerton Matthews",
+        "today": "2014-11-05",
+        "meta": {
+          "instanceId": "uuid:6505cae9-0d4f-4510-b926-e45701b42365"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+        },
+        "area": "Upper Rupununi",
+        "village": "Katoonarub",
+        "region": "Deep South",
+        "caption": "Magna esse qui"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.501008349237964,
+          3.0706262565450744
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Levy Garrison",
+        "what": "Tourism Violation",
+        "impacts": "Damage to farming grounds",
+        "placename": "Broadlands Greenbackville",
+        "today": "2014-07-21",
+        "meta": {
+          "instanceId": "uuid:1d6292d6-2f34-4666-8b52-a61b313dc810"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Zoopo Naawa",
+        "region": "South Central",
+        "caption": "Ad fugiat aute"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.854523778078146,
+          2.721550966403447
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Hayes Burch",
+        "what": "Logging",
+        "impacts": "FPIC violation",
+        "placename": "Lodoga Juntura",
+        "today": "2014-06-18",
+        "meta": {
+          "instanceId": "uuid:4df72668-d3e7-4ef2-a6fb-a3efea8a87ae"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+        },
+        "area": "Washarar Wao",
+        "village": "Parobaz",
+        "region": "Deep South",
+        "caption": "Duis ea incididunt pariatur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.58230985305272,
+          2.970358961983584
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Soto Gaines",
+        "what": "Stealing Artefacts",
+        "impacts": "Harm to community conserved site",
+        "placename": "Cetronia Noblestown",
+        "today": "2014-11-12",
+        "meta": {
+          "instanceId": "uuid:b9faaa76-044f-497a-8649-373d129b199f"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+        },
+        "area": "Washarar Wao",
+        "village": "Aishara Toon",
+        "region": "South Central",
+        "caption": "Anim velit consequat sint officia"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.82787639624439,
+          2.623165436112322
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Pitts Lyons",
+        "what": "Illegal Fishing",
+        "impacts": "Damage to water source / watershed",
+        "placename": "Aurora Nettie",
+        "today": "2014-10-28",
+        "meta": {
+          "instanceId": "uuid:9a410bc5-c3ce-4bb7-8db3-f6f2bcbed7b3"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Upper Rupununi",
+        "village": "Shorinab",
+        "region": "South Central",
+        "caption": "Esse sit id dolore"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.858104958198965,
+          3.015826151496731
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Carlene Wong",
+        "what": "Illegal Trapping",
+        "impacts": "Damage to water source / watershed",
+        "placename": "Woodruff Darrtown",
+        "today": "2014-10-09",
+        "meta": {
+          "instanceId": "uuid:9b2487be-aad0-40c7-af70-98a9feccb028"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Kosad",
+        "village": "Parobaz",
+        "region": "South Central",
+        "caption": "Elit aute cillum consectetur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.535416395170614,
+          2.656984053226188
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Joni Hansen",
+        "what": "Logging",
+        "impacts": "Deforestation",
+        "placename": "Vicksburg Gorst",
+        "today": "2013-03-06",
+        "meta": {
+          "instanceId": "uuid:743a88b5-46b1-44d9-bba5-5b9e1193d710"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Kamodukuo",
+        "village": "Parobaz",
+        "region": "Deep South",
+        "caption": "Et anim duis nostrud"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.673008383018896,
+          3.0517845739610494
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Tucker Barlow",
+        "what": "Crossing",
+        "impacts": "Water pollution",
+        "placename": "Haena Townsend",
+        "today": "2013-05-22",
+        "meta": {
+          "instanceId": "uuid:a1923c7f-a344-4cda-9803-0f7a5001e86b"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+        },
+        "area": "Middle Kuyuwini",
+        "village": "Shii",
+        "region": "South Central",
+        "caption": "Duis reprehenderit consequat laborum"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.56708891398739,
+          3.087103250110522
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Colon Randall",
+        "what": "Rustling",
+        "impacts": "Water poisoned",
+        "placename": "Tecolotito Defiance",
+        "today": "2013-06-16",
+        "meta": {
+          "instanceId": "uuid:0e54b7bd-bfff-4dbf-9415-d1d7afcc632b"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Kanowadtao",
+        "village": "Shorinab",
+        "region": "Deep South",
+        "caption": "Voluptate quis elit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.654187847394496,
+          2.963656592438929
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Alberta Gibbs",
+        "what": "Logging",
+        "impacts": "Damage to water source / watershed",
+        "placename": "Monument Oneida",
+        "today": "2015-01-08",
+        "meta": {
+          "instanceId": "uuid:603dfd2b-e743-4c25-9fa4-b3c1691bf652"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+        },
+        "area": "Tamtoon",
+        "village": "Marora Naawa",
+        "region": "Deep South",
+        "caption": "Dolore non irure et nostrud"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.944225391955115,
+          2.841841941373423
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Isabelle Hodge",
+        "what": "Stealing Artefacts",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Tolu Villarreal",
+        "today": "2013-05-27",
+        "meta": {
+          "instanceId": "uuid:45af1239-f686-4b02-aa9c-720399cc185f"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Bakawadataawa",
+        "village": "Achawib",
+        "region": "Deep South",
+        "caption": "Officia amet id"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.76443887874484,
+          3.0862636702600867
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Gracie Neal",
+        "what": "Logging",
+        "impacts": "Violation of sensitive site",
+        "placename": "Salunga Hiseville",
+        "today": "2015-06-03",
+        "meta": {
+          "instanceId": "uuid:09fc793e-7fd7-4f6f-8ebf-4cd6f7f137d1"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Korowin",
+        "village": "Parobaz",
+        "region": "Deep South",
+        "caption": "Elit minim commodo"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.58300212328322,
+          2.65396649974864
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Giles Riley",
+        "what": "Stealing Artefacts",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Gerber Lindcove",
+        "today": "2013-08-21",
+        "meta": {
+          "instanceId": "uuid:0e6e351a-50ce-4de4-97d3-7f0812f115be"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Upper Kuyuwini",
+        "village": "Awaru Wao Naawa",
+        "region": "South Central",
+        "caption": "Consequat proident laboris"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.94431130774319,
+          2.614763350482099
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Chris Olson",
+        "what": "Mining",
+        "impacts": "Water pollution",
+        "placename": "Beaulieu Tetherow",
+        "today": "2015-04-09",
+        "meta": {
+          "instanceId": "uuid:3552ff65-977b-4cc0-8f21-c8fad9631e00"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Soburun",
+        "region": "South Central",
+        "caption": "Voluptate dolore nisi sunt"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.96773429599125,
+          2.842422493523918
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Judy Russo",
+        "what": "Mining",
+        "impacts": "Damage to water source / watershed",
+        "placename": "Alderpoint Chaparrito",
+        "today": "2014-10-24",
+        "meta": {
+          "instanceId": "uuid:ff2a16d8-674f-4520-8fd2-235816eac7b8"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Shorinab",
+        "region": "Deep South",
+        "caption": "Non do tempor veniam"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.72688383073546,
+          3.0259252804331482
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Brandi Shaffer",
+        "what": "Illegal Hunting",
+        "impacts": "Water poisoned",
+        "placename": "Coultervillle Duryea",
+        "today": "2014-10-05",
+        "meta": {
+          "instanceId": "uuid:d793667f-89c6-4f76-9d8d-acbf2b48294e"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Kanowadtao",
+        "village": "Shorinab",
+        "region": "Deep South",
+        "caption": "Minim ex labore aute dolor"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.96359966089949,
+          3.0700633590109647
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Ernestine Fleming",
+        "what": "Tourism Violation",
+        "impacts": "FPIC violation",
+        "placename": "Harviell Grill",
+        "today": "2013-07-28",
+        "meta": {
+          "instanceId": "uuid:421679e6-ea19-4896-935a-fd18cdf66edc"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+        },
+        "area": "Toridukuo",
+        "village": "Shorinab",
+        "region": "South Central",
+        "caption": "Sunt irure est"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.74878911138512,
+          2.841049281321466
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Madge Henry",
+        "what": "Tourism Violation",
+        "impacts": "Violation of sensitive site",
+        "placename": "Woodburn Bawcomville",
+        "today": "2014-01-29",
+        "meta": {
+          "instanceId": "uuid:9ef2005c-975e-4a5a-81cf-02a3aae8c568"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+        },
+        "area": "Lower Takatu",
+        "village": "Sawari Wao",
+        "region": "Deep South",
+        "caption": "Ad officia excepteur enim quis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.78079198976047,
+          2.764061792427674
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Barnes Roy",
+        "what": "Rustling",
+        "impacts": "Deforestation",
+        "placename": "Edmund Roy",
+        "today": "2014-12-03",
+        "meta": {
+          "instanceId": "uuid:49c2e00c-2b03-4e2e-ab71-e5a63e429800"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+        },
+        "area": "Bakawadataawa",
+        "village": "Sawari Wao",
+        "region": "South Central",
+        "caption": "Do deserunt excepteur aliqua voluptate"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.77486999344546,
+          2.7452347583835945
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Potter Garrett",
+        "what": "Stealing Artefacts",
+        "impacts": "Loss of cultural heritage",
+        "placename": "Bergoo Woodlake",
+        "today": "2013-04-01",
+        "meta": {
+          "instanceId": "uuid:de58f642-9597-4016-89e7-5a2a67aaba27"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Korowin",
+        "village": "Awaru Wao Naawa",
+        "region": "South Central",
+        "caption": "Veniam nulla Lorem"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.72736481006723,
+          2.990896961442195
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Kirk Mccormick",
+        "what": "Illegal Fishing",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Fostoria Campo",
+        "today": "2013-03-06",
+        "meta": {
+          "instanceId": "uuid:b1d70c7b-e083-4350-89da-72496d6d6b9a"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Kwitaro",
+        "village": "Parobaz",
+        "region": "Deep South",
+        "caption": "Amet culpa aliquip"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.993300145841204,
+          3.0818067573942245
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Kerry Robles",
+        "what": "Illegal Hunting",
+        "impacts": "Depletion of game",
+        "placename": "Gratton Eden",
+        "today": "2013-01-06",
+        "meta": {
+          "instanceId": "uuid:1d2e9e2c-2a6b-474a-b045-6dd0f873177f"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Shii",
+        "region": "South Central",
+        "caption": "Reprehenderit reprehenderit veniam minim"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.88173475652002,
+          2.777431697025895
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Mollie Savage",
+        "what": "Tourism Violation",
+        "impacts": "Depletion of fish",
+        "placename": "Navarre Templeton",
+        "today": "2015-02-12",
+        "meta": {
+          "instanceId": "uuid:2e4ea539-e22c-4708-95f8-43f65ea27e69"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+        },
+        "area": "Kanowadtao",
+        "village": "Sawari Wao",
+        "region": "Deep South",
+        "caption": "Nisi culpa duis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.83151385153178,
+          3.0567836896749214
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Stevenson Logan",
+        "what": "Rustling",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Coral Rosine",
+        "today": "2015-04-21",
+        "meta": {
+          "instanceId": "uuid:8f34a2ba-1f5a-46e5-912a-8eb12f40360c"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Raada",
+        "village": "Potari Naawa",
+        "region": "South Central",
+        "caption": "Culpa do eiusmod"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.91402048675809,
+          3.0754144513281063
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Hopper Pollard",
+        "what": "Illegal Trapping",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Garberville Walton",
+        "today": "2015-04-17",
+        "meta": {
+          "instanceId": "uuid:e5323efc-dbe3-4724-9dc6-2f87248edac2"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Kamodukuo",
+        "village": "Marora Naawa",
+        "region": "Deep South",
+        "caption": "Aliquip ea incididunt est"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.99756242369767,
+          2.710897700651549
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Elvia Page",
+        "what": "Illegal Grazing",
+        "impacts": "Depletion of fish",
+        "placename": "Greenfields Morgandale",
+        "today": "2014-03-09",
+        "meta": {
+          "instanceId": "uuid:ee6d19a3-88c6-454d-b506-4f77b923e0fc"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+        },
+        "area": "Essequibo / Chiip Wao",
+        "village": "Aishara Toon",
+        "region": "Deep South",
+        "caption": "Ex nostrud sit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.642566281952895,
+          2.8132092280080543
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Kate Harris",
+        "what": "Tourism Violation",
+        "impacts": "Deforestation",
+        "placename": "Groveville Warren",
+        "today": "2013-01-31",
+        "meta": {
+          "instanceId": "uuid:bc1a696d-c097-471a-b078-bebc10d3ed85"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+        },
+        "area": "Middle Rupununi",
+        "village": "Katoonarub",
+        "region": "South Central",
+        "caption": "Pariatur eiusmod Lorem"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6764781344682,
+          3.062618338991888
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Pierce Mendez",
+        "what": "Stealing Artefacts",
+        "impacts": "Damage to wildlife / habitat",
+        "placename": "Albrightsville Kula",
+        "today": "2013-10-26",
+        "meta": {
+          "instanceId": "uuid:cf2cd930-ffd3-46cf-b084-ab7db9c68971"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+        },
+        "area": "Kosad",
+        "village": "Parobaz",
+        "region": "Deep South",
+        "caption": "Tempor officia magna"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.60269770771265,
+          2.795278470288031
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Black Wilder",
+        "what": "Illegal Hunting",
+        "impacts": "Social harm or abuse",
+        "placename": "Snelling Ogema",
+        "today": "2013-04-26",
+        "meta": {
+          "instanceId": "uuid:a497f9ca-88ad-40f6-8fe9-de52f01f0151"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+        },
+        "area": "Darichibai",
+        "village": "Katoonarub",
+        "region": "Deep South",
+        "caption": "Officia incididunt ea pariatur"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.61703396856319,
+          3.05913999422919
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Robertson Best",
+        "what": "Mining",
+        "impacts": "Social harm or abuse",
+        "placename": "Dahlen Henrietta",
+        "today": "2015-04-04",
+        "meta": {
+          "instanceId": "uuid:3c3319cf-3a3f-4d7b-a547-68a7f34b5332"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Kashiwiizi",
+        "village": "Achawib",
+        "region": "Deep South",
+        "caption": "Proident elit commodo quis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.82794876722619,
+          2.8208714295411483
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Eula Wilkinson",
+        "what": "Tourism Violation",
+        "impacts": "Damage to gathering grounds",
+        "placename": "Blanford Witmer",
+        "today": "2014-02-28",
+        "meta": {
+          "instanceId": "uuid:6ab19ae5-8c38-4d20-b0f3-86ac35a35e82"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+        },
+        "area": "Washarar Wao",
+        "village": "Shorinab",
+        "region": "South Central",
+        "caption": "Amet sunt minim"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.84921225672588,
+          2.8302958896616475
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Kristy Burt",
+        "what": "Illegal Trapping",
+        "impacts": "Water pollution",
+        "placename": "Fivepointville Chapin",
+        "today": "2013-12-02",
+        "meta": {
+          "instanceId": "uuid:1318d4b2-9f64-44b4-aea9-32392c526f82"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+        },
+        "area": "Kashiwiizi",
+        "village": "Parobaz",
+        "region": "South Central",
+        "caption": "Commodo esse Lorem nulla"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.551676292088814,
+          2.9829637630842627
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Foreman Kelly",
+        "what": "Illegal Grazing",
+        "impacts": "Depletion of fish",
+        "placename": "Convent Ypsilanti",
+        "today": "2015-01-26",
+        "meta": {
+          "instanceId": "uuid:cdc34c34-b78f-4d6c-8b09-ee2449fca582"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+        },
+        "area": "Lower Kuyuwini",
+        "village": "Zoopo Naawa",
+        "region": "South Central",
+        "caption": "Nulla cillum aliquip quis"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.81650775077287,
+          2.9377689216285945
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Josefa Carson",
+        "what": "Mining",
+        "impacts": "Loss of cultural heritage",
+        "placename": "Hayes Waiohinu",
+        "today": "2014-04-04",
+        "meta": {
+          "instanceId": "uuid:c267d655-259f-4654-8335-89e2b888301f"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+        },
+        "area": "Upper Takatu",
+        "village": "Marora Naawa",
+        "region": "Deep South",
+        "caption": "Do sint officia"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.82541444001254,
+          2.793124787998386
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Susie Leonard",
+        "what": "Stealing Artefacts",
+        "impacts": "Damage to farming grounds",
+        "placename": "Wheatfields Beason",
+        "today": "2013-07-03",
+        "meta": {
+          "instanceId": "uuid:e6a58217-c0a0-4726-bec2-6c97244d36b2"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+        },
+        "area": "Shorinab Mountain Foot",
+        "village": "Potari Naawa",
+        "region": "Deep South",
+        "caption": "Labore minim enim ex fugiat"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.76041184843052,
+          2.7420339626492933
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Bruce Cole",
+        "what": "Logging",
+        "impacts": "Social harm or abuse",
+        "placename": "Kennedyville Logan",
+        "today": "2014-01-28",
+        "meta": {
+          "instanceId": "uuid:250820ae-5854-4727-8a44-e8b3fc77475c"
+        },
+        "picture": {
+          "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+        },
+        "area": "Kwitaro",
+        "village": "Katoonarub",
+        "region": "Deep South",
+        "caption": "Laborum dolore sit"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.78694368293509,
+          3.0675914235413075
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}
