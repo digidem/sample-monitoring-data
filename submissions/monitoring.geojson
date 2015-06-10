@@ -4,7 +4,7 @@
     {
       "properties": {
         "name": "Zelma Norris",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Loss of cultural heritage",
         "placename": "Devon Whitestone",
         "today": "2015-01-19",
@@ -31,7 +31,7 @@
     {
       "properties": {
         "name": "Jamie Marquez",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Water poisoned",
         "placename": "Lupton Delco",
         "today": "2013-04-27",
@@ -58,7 +58,7 @@
     {
       "properties": {
         "name": "Dyer Trujillo",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Water poisoned",
         "placename": "Kanauga Cherokee",
         "today": "2015-05-21",
@@ -85,7 +85,7 @@
     {
       "properties": {
         "name": "Baxter Velazquez",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Deforestation",
         "placename": "Courtland Teasdale",
         "today": "2013-05-06",
@@ -112,7 +112,7 @@
     {
       "properties": {
         "name": "Montgomery Lawrence",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Harm to community conserved site",
         "placename": "Hickory Jessie",
         "today": "2013-08-21",
@@ -139,7 +139,7 @@
     {
       "properties": {
         "name": "Rhoda Prince",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Depletion of fish",
         "placename": "Wanamie Marne",
         "today": "2013-04-08",
@@ -166,7 +166,7 @@
     {
       "properties": {
         "name": "Jackson Blake",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "FPIC violation",
         "placename": "Henrietta Bowden",
         "today": "2015-02-06",
@@ -193,7 +193,7 @@
     {
       "properties": {
         "name": "Langley Ray",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Violation of sensitive site",
         "placename": "Bakersville Norvelt",
         "today": "2015-01-26",
@@ -220,7 +220,7 @@
     {
       "properties": {
         "name": "Collier Serrano",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Loss of cultural heritage",
         "placename": "Hegins Muse",
         "today": "2013-01-13",
@@ -247,7 +247,7 @@
     {
       "properties": {
         "name": "Cobb Stevenson",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Damage to water source / watershed",
         "placename": "Brenton Brethren",
         "today": "2013-09-12",
@@ -274,7 +274,7 @@
     {
       "properties": {
         "name": "Sandy Reyes",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Violation of sensitive site",
         "placename": "Gambrills Groton",
         "today": "2015-02-03",
@@ -301,7 +301,7 @@
     {
       "properties": {
         "name": "Kerri Castillo",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Deforestation",
         "placename": "Avoca Chamberino",
         "today": "2013-04-16",
@@ -328,7 +328,7 @@
     {
       "properties": {
         "name": "Tamera Doyle",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Damage to water source / watershed",
         "placename": "Disautel Bascom",
         "today": "2013-04-28",
@@ -355,7 +355,7 @@
     {
       "properties": {
         "name": "Imogene Gibbs",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "FPIC violation",
         "placename": "Unionville Newkirk",
         "today": "2014-10-30",
@@ -382,7 +382,7 @@
     {
       "properties": {
         "name": "Spence Parks",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Social harm or abuse",
         "placename": "Lisco Emory",
         "today": "2013-07-09",
@@ -409,7 +409,7 @@
     {
       "properties": {
         "name": "Alba Pratt",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Depletion of game",
         "placename": "Buxton Carlos",
         "today": "2013-05-04",
@@ -436,7 +436,7 @@
     {
       "properties": {
         "name": "Allison Carver",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "FPIC violation",
         "placename": "Keyport Rosine",
         "today": "2015-03-21",
@@ -463,7 +463,7 @@
     {
       "properties": {
         "name": "Guzman Marks",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Deforestation",
         "placename": "Dante Harmon",
         "today": "2014-03-13",
@@ -490,7 +490,7 @@
     {
       "properties": {
         "name": "Bette Ramos",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Water poisoned",
         "placename": "Boykin Clara",
         "today": "2015-02-19",
@@ -517,7 +517,7 @@
     {
       "properties": {
         "name": "Kristin Ellis",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Bendon Rodanthe",
         "today": "2013-03-18",
@@ -544,7 +544,7 @@
     {
       "properties": {
         "name": "Brock Roach",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Madaket Sanborn",
         "today": "2013-08-02",
@@ -571,7 +571,7 @@
     {
       "properties": {
         "name": "Lana Hickman",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Social harm or abuse",
         "placename": "Downsville Nogal",
         "today": "2015-01-21",
@@ -598,7 +598,7 @@
     {
       "properties": {
         "name": "Beth Kidd",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Depletion of fish",
         "placename": "Tonopah Stouchsburg",
         "today": "2015-05-31",
@@ -625,7 +625,7 @@
     {
       "properties": {
         "name": "Faith Hamilton",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Harm to community conserved site",
         "placename": "Rodman Talpa",
         "today": "2014-07-15",
@@ -652,7 +652,7 @@
     {
       "properties": {
         "name": "Marshall Stanton",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Deforestation",
         "placename": "Mappsville Condon",
         "today": "2013-08-19",
@@ -679,7 +679,7 @@
     {
       "properties": {
         "name": "Thelma Cummings",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Violation of sensitive site",
         "placename": "Salvo Hollins",
         "today": "2015-01-31",
@@ -706,7 +706,7 @@
     {
       "properties": {
         "name": "Francis Blair",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Harm to community conserved site",
         "placename": "Venice Zortman",
         "today": "2013-09-20",
@@ -733,7 +733,7 @@
     {
       "properties": {
         "name": "Swanson Todd",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Deforestation",
         "placename": "Floris Herald",
         "today": "2014-03-11",
@@ -760,7 +760,7 @@
     {
       "properties": {
         "name": "Michele Gonzales",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Social harm or abuse",
         "placename": "Biehle National",
         "today": "2014-10-21",
@@ -787,7 +787,7 @@
     {
       "properties": {
         "name": "Latasha Joyce",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Damage to farming grounds",
         "placename": "Duryea Orick",
         "today": "2014-10-02",
@@ -814,7 +814,7 @@
     {
       "properties": {
         "name": "Guy Ellison",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Deforestation",
         "placename": "Limestone Graball",
         "today": "2013-10-09",
@@ -841,7 +841,7 @@
     {
       "properties": {
         "name": "Karin Lloyd",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Naomi Drummond",
         "today": "2014-04-29",
@@ -868,7 +868,7 @@
     {
       "properties": {
         "name": "Meyer Bird",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Social harm or abuse",
         "placename": "Brantleyville Dalton",
         "today": "2014-01-30",
@@ -895,7 +895,7 @@
     {
       "properties": {
         "name": "Jillian Aguilar",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Depletion of fish",
         "placename": "Rowe Bellamy",
         "today": "2013-07-17",
@@ -922,7 +922,7 @@
     {
       "properties": {
         "name": "Ava Clark",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "FPIC violation",
         "placename": "Vicksburg Watrous",
         "today": "2015-03-22",
@@ -949,7 +949,7 @@
     {
       "properties": {
         "name": "Maynard Alford",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Harm to community conserved site",
         "placename": "Gila Herlong",
         "today": "2013-08-02",
@@ -976,7 +976,7 @@
     {
       "properties": {
         "name": "Rosario Livingston",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Deforestation",
         "placename": "Coaldale Whitewater",
         "today": "2015-04-07",
@@ -1003,7 +1003,7 @@
     {
       "properties": {
         "name": "Merle Alvarez",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Deforestation",
         "placename": "Nash Blandburg",
         "today": "2013-05-24",
@@ -1030,7 +1030,7 @@
     {
       "properties": {
         "name": "Crystal Boone",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Deforestation",
         "placename": "Trail Islandia",
         "today": "2013-09-10",
@@ -1057,7 +1057,7 @@
     {
       "properties": {
         "name": "Dana Zamora",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Depletion of fish",
         "placename": "Emerald Cornfields",
         "today": "2014-03-29",
@@ -1084,7 +1084,7 @@
     {
       "properties": {
         "name": "Olsen Bailey",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Harm to community conserved site",
         "placename": "Nile Cedarville",
         "today": "2014-01-17",
@@ -1111,7 +1111,7 @@
     {
       "properties": {
         "name": "Castaneda Farmer",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Deforestation",
         "placename": "Hiko Gardners",
         "today": "2014-09-14",
@@ -1138,7 +1138,7 @@
     {
       "properties": {
         "name": "Warren Gillespie",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Loss of cultural heritage",
         "placename": "Freeburn Brookfield",
         "today": "2015-02-26",
@@ -1165,7 +1165,7 @@
     {
       "properties": {
         "name": "Newton Hays",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Water poisoned",
         "placename": "Allamuchy Collins",
         "today": "2013-07-22",
@@ -1192,7 +1192,7 @@
     {
       "properties": {
         "name": "Avila Farley",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "FPIC violation",
         "placename": "Brady Blackgum",
         "today": "2015-03-11",
@@ -1219,7 +1219,7 @@
     {
       "properties": {
         "name": "Francine Bowen",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Water pollution",
         "placename": "Kieler Vienna",
         "today": "2013-10-07",
@@ -1246,7 +1246,7 @@
     {
       "properties": {
         "name": "Humphrey Gill",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Damage to gathering grounds",
         "placename": "Helen Dawn",
         "today": "2015-03-25",
@@ -1273,7 +1273,7 @@
     {
       "properties": {
         "name": "Mullen Roberts",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Water poisoned",
         "placename": "Steinhatchee Cutter",
         "today": "2015-02-14",
@@ -1300,7 +1300,7 @@
     {
       "properties": {
         "name": "Wanda Andrews",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Damage to gathering grounds",
         "placename": "Bloomington Terlingua",
         "today": "2014-10-02",
@@ -1327,7 +1327,7 @@
     {
       "properties": {
         "name": "Jimenez Mcfadden",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Violation of sensitive site",
         "placename": "Nelson Sutton",
         "today": "2013-10-19",
@@ -1354,7 +1354,7 @@
     {
       "properties": {
         "name": "Mara Walls",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Depletion of fish",
         "placename": "Trona Camptown",
         "today": "2015-05-08",
@@ -1381,7 +1381,7 @@
     {
       "properties": {
         "name": "Glenda Vazquez",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "FPIC violation",
         "placename": "Bordelonville Farmington",
         "today": "2013-07-07",
@@ -1408,7 +1408,7 @@
     {
       "properties": {
         "name": "Evangeline Tyson",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Damage to water source / watershed",
         "placename": "Sanders Sussex",
         "today": "2014-09-02",
@@ -1435,7 +1435,7 @@
     {
       "properties": {
         "name": "Browning Wilder",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Damage to gathering grounds",
         "placename": "Florence Hamilton",
         "today": "2015-06-29",
@@ -1462,7 +1462,7 @@
     {
       "properties": {
         "name": "Kelley Mcneil",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Depletion of game",
         "placename": "Nettie Klondike",
         "today": "2014-12-02",
@@ -1489,7 +1489,7 @@
     {
       "properties": {
         "name": "Lyons Sellers",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Damage to gathering grounds",
         "placename": "Freelandville Garfield",
         "today": "2015-04-15",
@@ -1516,7 +1516,7 @@
     {
       "properties": {
         "name": "Petra Strickland",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Depletion of fish",
         "placename": "Gadsden Tryon",
         "today": "2013-11-08",
@@ -1543,7 +1543,7 @@
     {
       "properties": {
         "name": "Joyner Newman",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Damage to farming grounds",
         "placename": "Edenburg Bellfountain",
         "today": "2013-09-05",
@@ -1570,7 +1570,7 @@
     {
       "properties": {
         "name": "Short Padilla",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Lynn Corinne",
         "today": "2014-05-01",
@@ -1597,7 +1597,7 @@
     {
       "properties": {
         "name": "Darcy Bond",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Depletion of fish",
         "placename": "Wollochet Wildwood",
         "today": "2013-08-16",
@@ -1624,7 +1624,7 @@
     {
       "properties": {
         "name": "Ayala Bradshaw",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Depletion of game",
         "placename": "Bonanza Roeville",
         "today": "2013-08-10",
@@ -1651,7 +1651,7 @@
     {
       "properties": {
         "name": "Bolton Small",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Water poisoned",
         "placename": "Holcombe Elliott",
         "today": "2013-02-06",
@@ -1678,7 +1678,7 @@
     {
       "properties": {
         "name": "Byrd Brown",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Harm to community conserved site",
         "placename": "Leola Kempton",
         "today": "2014-10-28",
@@ -1705,7 +1705,7 @@
     {
       "properties": {
         "name": "Monroe Osborn",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Farmers Bagtown",
         "today": "2015-03-30",
@@ -1732,7 +1732,7 @@
     {
       "properties": {
         "name": "Nanette Mcdaniel",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Damage to gathering grounds",
         "placename": "Vivian Wells",
         "today": "2013-03-13",
@@ -1759,7 +1759,7 @@
     {
       "properties": {
         "name": "Tina Carpenter",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "FPIC violation",
         "placename": "Darlington Thornport",
         "today": "2014-12-01",
@@ -1786,7 +1786,7 @@
     {
       "properties": {
         "name": "Pauline Shepherd",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Depletion of fish",
         "placename": "Linwood Moscow",
         "today": "2015-06-28",
@@ -1813,7 +1813,7 @@
     {
       "properties": {
         "name": "Belinda Hull",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Social harm or abuse",
         "placename": "Topanga Flintville",
         "today": "2015-02-09",
@@ -1840,7 +1840,7 @@
     {
       "properties": {
         "name": "Sally Berger",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Water poisoned",
         "placename": "Fairmount Homestead",
         "today": "2013-07-09",
@@ -1867,7 +1867,7 @@
     {
       "properties": {
         "name": "Mays Mitchell",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Water poisoned",
         "placename": "Williams Tyhee",
         "today": "2014-01-18",
@@ -1894,7 +1894,7 @@
     {
       "properties": {
         "name": "Keith Underwood",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Kipp Riegelwood",
         "today": "2013-10-12",
@@ -1921,7 +1921,7 @@
     {
       "properties": {
         "name": "Gilda Holt",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "FPIC violation",
         "placename": "Leeper Deercroft",
         "today": "2013-09-04",
@@ -1948,7 +1948,7 @@
     {
       "properties": {
         "name": "Bond Sparks",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "FPIC violation",
         "placename": "Hebron Boomer",
         "today": "2014-09-18",
@@ -1975,7 +1975,7 @@
     {
       "properties": {
         "name": "Tamika Henson",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Water pollution",
         "placename": "Sehili Brandermill",
         "today": "2013-03-27",
@@ -2002,7 +2002,7 @@
     {
       "properties": {
         "name": "Hoover England",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Deforestation",
         "placename": "Homeworth Soudan",
         "today": "2013-11-03",
@@ -2029,7 +2029,7 @@
     {
       "properties": {
         "name": "Lolita Hatfield",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Harm to community conserved site",
         "placename": "Albrightsville Cresaptown",
         "today": "2014-11-13",
@@ -2056,7 +2056,7 @@
     {
       "properties": {
         "name": "Trudy White",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Damage to gathering grounds",
         "placename": "Suitland Fontanelle",
         "today": "2015-01-07",
@@ -2083,7 +2083,7 @@
     {
       "properties": {
         "name": "Holloway Bullock",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Water poisoned",
         "placename": "Tetherow Salix",
         "today": "2014-08-18",
@@ -2110,7 +2110,7 @@
     {
       "properties": {
         "name": "Dolly Madden",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Depletion of fish",
         "placename": "Waukeenah Oneida",
         "today": "2014-11-03",
@@ -2137,7 +2137,7 @@
     {
       "properties": {
         "name": "Elvira Welch",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Damage to gathering grounds",
         "placename": "Thynedale Bancroft",
         "today": "2015-05-03",
@@ -2164,7 +2164,7 @@
     {
       "properties": {
         "name": "Jolene Kirkland",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Social harm or abuse",
         "placename": "Worcester Springdale",
         "today": "2014-06-23",
@@ -2191,7 +2191,7 @@
     {
       "properties": {
         "name": "Marissa Dunn",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Harm to community conserved site",
         "placename": "Wedgewood Crumpler",
         "today": "2015-03-11",
@@ -2218,7 +2218,7 @@
     {
       "properties": {
         "name": "Parker Bates",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Damage to gathering grounds",
         "placename": "Spelter Welda",
         "today": "2013-10-29",
@@ -2245,7 +2245,7 @@
     {
       "properties": {
         "name": "Whitehead Young",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Social harm or abuse",
         "placename": "Lloyd Wikieup",
         "today": "2013-10-08",
@@ -2272,7 +2272,7 @@
     {
       "properties": {
         "name": "Moses Williamson",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Depletion of game",
         "placename": "Waterloo Fillmore",
         "today": "2013-04-22",
@@ -2299,7 +2299,7 @@
     {
       "properties": {
         "name": "Peters Hawkins",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "FPIC violation",
         "placename": "Castleton Chaparrito",
         "today": "2014-03-08",
@@ -2326,7 +2326,7 @@
     {
       "properties": {
         "name": "Shana Robertson",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Harm to community conserved site",
         "placename": "Chilton Ellerslie",
         "today": "2013-05-02",
@@ -2353,7 +2353,7 @@
     {
       "properties": {
         "name": "Christian Warren",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Violation of sensitive site",
         "placename": "Walker Knowlton",
         "today": "2015-03-27",
@@ -2380,7 +2380,7 @@
     {
       "properties": {
         "name": "Abigail Richardson",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Water poisoned",
         "placename": "Rivers Rehrersburg",
         "today": "2013-08-01",
@@ -2407,7 +2407,7 @@
     {
       "properties": {
         "name": "Anne Whitney",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Depletion of game",
         "placename": "Genoa Brecon",
         "today": "2015-03-01",
@@ -2434,7 +2434,7 @@
     {
       "properties": {
         "name": "Jaime William",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Violation of sensitive site",
         "placename": "Seymour Hachita",
         "today": "2013-11-11",
@@ -2461,7 +2461,7 @@
     {
       "properties": {
         "name": "Hensley Potter",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Deforestation",
         "placename": "Yonah Maury",
         "today": "2013-03-18",
@@ -2488,7 +2488,7 @@
     {
       "properties": {
         "name": "Concetta Goff",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "FPIC violation",
         "placename": "Waiohinu Summertown",
         "today": "2013-04-01",
@@ -2515,7 +2515,7 @@
     {
       "properties": {
         "name": "Maryann Chandler",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Kula Cassel",
         "today": "2014-05-16",
@@ -2542,7 +2542,7 @@
     {
       "properties": {
         "name": "Isabelle Brooks",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Damage to farming grounds",
         "placename": "Escondida Romeville",
         "today": "2015-06-03",
@@ -2569,7 +2569,7 @@
     {
       "properties": {
         "name": "Cassandra Franks",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Social harm or abuse",
         "placename": "Wacissa Winchester",
         "today": "2014-08-27",
@@ -2596,7 +2596,7 @@
     {
       "properties": {
         "name": "Johns Landry",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Damage to water source / watershed",
         "placename": "Loma Brewster",
         "today": "2015-06-28",
@@ -2623,7 +2623,7 @@
     {
       "properties": {
         "name": "Jerri Yates",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Damage to gathering grounds",
         "placename": "Blue Vaughn",
         "today": "2014-05-05",
@@ -2650,7 +2650,7 @@
     {
       "properties": {
         "name": "Chandler Garrett",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "FPIC violation",
         "placename": "Kansas Greenbackville",
         "today": "2013-08-26",
@@ -2677,7 +2677,7 @@
     {
       "properties": {
         "name": "Tran Fuentes",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Social harm or abuse",
         "placename": "Sisquoc Fairforest",
         "today": "2013-07-19",
@@ -2704,7 +2704,7 @@
     {
       "properties": {
         "name": "Brock Fields",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "FPIC violation",
         "placename": "Brantleyville Cloverdale",
         "today": "2013-11-01",
@@ -2731,7 +2731,7 @@
     {
       "properties": {
         "name": "Espinoza Mcdaniel",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Deforestation",
         "placename": "Riverton Spelter",
         "today": "2014-05-03",
@@ -2758,7 +2758,7 @@
     {
       "properties": {
         "name": "Ola Fowler",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Violation of sensitive site",
         "placename": "Suitland Irwin",
         "today": "2013-03-25",
@@ -2785,7 +2785,7 @@
     {
       "properties": {
         "name": "Fern Huffman",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Loss of cultural heritage",
         "placename": "Cowiche Summertown",
         "today": "2014-02-07",
@@ -2812,7 +2812,7 @@
     {
       "properties": {
         "name": "Joyce Rosales",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Damage to gathering grounds",
         "placename": "Harborton Hannasville",
         "today": "2013-02-16",
@@ -2839,7 +2839,7 @@
     {
       "properties": {
         "name": "Phelps Morgan",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Thornport Ona",
         "today": "2013-11-07",
@@ -2866,7 +2866,7 @@
     {
       "properties": {
         "name": "Love Rivas",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Damage to gathering grounds",
         "placename": "Bethpage Freeburn",
         "today": "2013-07-05",
@@ -2893,7 +2893,7 @@
     {
       "properties": {
         "name": "Wyatt David",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Deforestation",
         "placename": "Watrous Wollochet",
         "today": "2015-02-04",
@@ -2920,7 +2920,7 @@
     {
       "properties": {
         "name": "Lesa Lynn",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Social harm or abuse",
         "placename": "Columbus Zarephath",
         "today": "2014-11-25",
@@ -2947,7 +2947,7 @@
     {
       "properties": {
         "name": "Valencia Collier",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Water pollution",
         "placename": "Farmers Enetai",
         "today": "2015-04-17",
@@ -2974,7 +2974,7 @@
     {
       "properties": {
         "name": "Powers Rosa",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Vernon Bordelonville",
         "today": "2014-12-04",
@@ -3001,7 +3001,7 @@
     {
       "properties": {
         "name": "Fuller Benton",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Depletion of game",
         "placename": "Dana Cumminsville",
         "today": "2013-02-15",
@@ -3028,7 +3028,7 @@
     {
       "properties": {
         "name": "Cassandra Baird",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Loss of cultural heritage",
         "placename": "Sexton Florence",
         "today": "2013-01-16",
@@ -3055,7 +3055,7 @@
     {
       "properties": {
         "name": "Brittney Reilly",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "FPIC violation",
         "placename": "Finzel Graniteville",
         "today": "2015-06-26",
@@ -3082,7 +3082,7 @@
     {
       "properties": {
         "name": "Frankie Marks",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Damage to water source / watershed",
         "placename": "Alden Corriganville",
         "today": "2014-10-26",
@@ -3109,7 +3109,7 @@
     {
       "properties": {
         "name": "Margarita Cochran",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Depletion of fish",
         "placename": "Caln Lumberton",
         "today": "2015-05-19",
@@ -3136,7 +3136,7 @@
     {
       "properties": {
         "name": "Mcknight Kirby",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Depletion of game",
         "placename": "Vincent Longoria",
         "today": "2014-10-24",
@@ -3163,7 +3163,7 @@
     {
       "properties": {
         "name": "Boyle Cardenas",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Damage to gathering grounds",
         "placename": "Sunriver Gibbsville",
         "today": "2015-01-20",
@@ -3190,7 +3190,7 @@
     {
       "properties": {
         "name": "Darla Key",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Water poisoned",
         "placename": "Gouglersville Harrodsburg",
         "today": "2013-09-30",
@@ -3217,7 +3217,7 @@
     {
       "properties": {
         "name": "Shauna Floyd",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Damage to farming grounds",
         "placename": "Frank Crisman",
         "today": "2014-06-28",
@@ -3244,7 +3244,7 @@
     {
       "properties": {
         "name": "Harrington Witt",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Deforestation",
         "placename": "Stewartville Cavalero",
         "today": "2014-12-12",
@@ -3271,7 +3271,7 @@
     {
       "properties": {
         "name": "Cecilia Contreras",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Water poisoned",
         "placename": "Albany Yukon",
         "today": "2013-10-18",
@@ -3298,7 +3298,7 @@
     {
       "properties": {
         "name": "Hurley Ramos",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Violation of sensitive site",
         "placename": "Camas Tyhee",
         "today": "2013-08-06",
@@ -3325,7 +3325,7 @@
     {
       "properties": {
         "name": "Rosie Frank",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Deforestation",
         "placename": "Canterwood Goodville",
         "today": "2014-08-13",
@@ -3352,7 +3352,7 @@
     {
       "properties": {
         "name": "Williams Cantrell",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Orviston Glasgow",
         "today": "2014-08-31",
@@ -3379,7 +3379,7 @@
     {
       "properties": {
         "name": "Morse Gregory",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Damage to water source / watershed",
         "placename": "Kenmar Marenisco",
         "today": "2013-09-02",
@@ -3406,7 +3406,7 @@
     {
       "properties": {
         "name": "Santiago Villarreal",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Harm to community conserved site",
         "placename": "Condon Edinburg",
         "today": "2013-05-27",
@@ -3433,7 +3433,7 @@
     {
       "properties": {
         "name": "Susanne Bright",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Violation of sensitive site",
         "placename": "Trucksville Byrnedale",
         "today": "2014-04-13",
@@ -3460,7 +3460,7 @@
     {
       "properties": {
         "name": "Annie Guzman",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Depletion of fish",
         "placename": "Sparkill Calvary",
         "today": "2013-02-18",
@@ -3487,7 +3487,7 @@
     {
       "properties": {
         "name": "Duncan Kim",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Harm to community conserved site",
         "placename": "Breinigsville Jamestown",
         "today": "2013-08-13",
@@ -3514,7 +3514,7 @@
     {
       "properties": {
         "name": "Jenkins Weiss",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Depletion of game",
         "placename": "Brewster Kenvil",
         "today": "2015-01-28",
@@ -3541,7 +3541,7 @@
     {
       "properties": {
         "name": "Sullivan Delacruz",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Depletion of fish",
         "placename": "Gallina Klagetoh",
         "today": "2013-09-21",
@@ -3568,7 +3568,7 @@
     {
       "properties": {
         "name": "Rose Parks",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Water poisoned",
         "placename": "Rodman Wanship",
         "today": "2014-01-25",
@@ -3595,7 +3595,7 @@
     {
       "properties": {
         "name": "Regina England",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Violation of sensitive site",
         "placename": "Chelsea Coyote",
         "today": "2014-07-08",
@@ -3622,7 +3622,7 @@
     {
       "properties": {
         "name": "Carolyn Alston",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Social harm or abuse",
         "placename": "Bagtown Brecon",
         "today": "2015-01-12",
@@ -3649,7 +3649,7 @@
     {
       "properties": {
         "name": "Marshall Stevenson",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Damage to gathering grounds",
         "placename": "Baker Sugartown",
         "today": "2014-09-08",
@@ -3676,7 +3676,7 @@
     {
       "properties": {
         "name": "Angelia Bender",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Depletion of fish",
         "placename": "Layhill Mansfield",
         "today": "2014-07-23",
@@ -3703,7 +3703,7 @@
     {
       "properties": {
         "name": "Richmond Nieves",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Water pollution",
         "placename": "Lindisfarne Bloomington",
         "today": "2013-12-26",
@@ -3730,7 +3730,7 @@
     {
       "properties": {
         "name": "Rodriguez Moon",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Depletion of game",
         "placename": "Fedora Rushford",
         "today": "2015-05-24",
@@ -3757,7 +3757,7 @@
     {
       "properties": {
         "name": "Ashley Adams",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "FPIC violation",
         "placename": "Veyo Boonville",
         "today": "2014-06-05",
@@ -3784,7 +3784,7 @@
     {
       "properties": {
         "name": "Reid Howell",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Depletion of game",
         "placename": "Northridge Rote",
         "today": "2014-02-05",
@@ -3811,7 +3811,7 @@
     {
       "properties": {
         "name": "Daugherty Carr",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Depletion of game",
         "placename": "Abrams Nanafalia",
         "today": "2013-10-05",
@@ -3838,7 +3838,7 @@
     {
       "properties": {
         "name": "Earlene Chan",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Water poisoned",
         "placename": "Mathews Cascades",
         "today": "2013-12-04",
@@ -3865,7 +3865,7 @@
     {
       "properties": {
         "name": "Myra Bridges",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Depletion of fish",
         "placename": "Thynedale Gadsden",
         "today": "2014-09-16",
@@ -3892,7 +3892,7 @@
     {
       "properties": {
         "name": "Mccormick Fulton",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Sperryville Bridgetown",
         "today": "2015-05-22",
@@ -3919,7 +3919,7 @@
     {
       "properties": {
         "name": "Ayers Goodwin",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Depletion of fish",
         "placename": "Dawn Hall",
         "today": "2013-01-24",
@@ -3946,7 +3946,7 @@
     {
       "properties": {
         "name": "Parsons Knight",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Violation of sensitive site",
         "placename": "Chumuckla Succasunna",
         "today": "2014-09-02",
@@ -3973,7 +3973,7 @@
     {
       "properties": {
         "name": "White Farmer",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Harm to community conserved site",
         "placename": "Marysville Babb",
         "today": "2014-01-27",
@@ -4000,7 +4000,7 @@
     {
       "properties": {
         "name": "Mejia English",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Depletion of game",
         "placename": "Mulino Draper",
         "today": "2014-12-10",
@@ -4027,7 +4027,7 @@
     {
       "properties": {
         "name": "Esperanza Hughes",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Harm to community conserved site",
         "placename": "Clara Wadsworth",
         "today": "2014-05-11",
@@ -4054,7 +4054,7 @@
     {
       "properties": {
         "name": "Hernandez Lawrence",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Water poisoned",
         "placename": "Lutsen Blue",
         "today": "2014-06-06",
@@ -4081,7 +4081,7 @@
     {
       "properties": {
         "name": "Anita Franklin",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Deforestation",
         "placename": "Saddlebrooke Riner",
         "today": "2014-10-12",
@@ -4108,7 +4108,7 @@
     {
       "properties": {
         "name": "Letitia Galloway",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Loss of cultural heritage",
         "placename": "Lawrence Jeff",
         "today": "2014-02-26",
@@ -4135,7 +4135,7 @@
     {
       "properties": {
         "name": "Bridget Duke",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Deforestation",
         "placename": "Grimsley Innsbrook",
         "today": "2014-08-28",
@@ -4162,7 +4162,7 @@
     {
       "properties": {
         "name": "Katelyn Morrison",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "FPIC violation",
         "placename": "Bethany Ivanhoe",
         "today": "2013-12-04",
@@ -4189,7 +4189,7 @@
     {
       "properties": {
         "name": "Jana Velez",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Harm to community conserved site",
         "placename": "Greer Fairacres",
         "today": "2013-01-04",
@@ -4216,7 +4216,7 @@
     {
       "properties": {
         "name": "Maynard Allison",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Damage to farming grounds",
         "placename": "Groton Grapeview",
         "today": "2015-01-30",
@@ -4243,7 +4243,7 @@
     {
       "properties": {
         "name": "Marcella Spencer",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Deforestation",
         "placename": "Glenville Kanauga",
         "today": "2014-07-02",
@@ -4270,7 +4270,7 @@
     {
       "properties": {
         "name": "Smith Gallagher",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Damage to farming grounds",
         "placename": "Bluffview Sunnyside",
         "today": "2014-03-16",
@@ -4297,7 +4297,7 @@
     {
       "properties": {
         "name": "Marcy Edwards",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Roeville Winchester",
         "today": "2015-04-08",
@@ -4324,7 +4324,7 @@
     {
       "properties": {
         "name": "Misty Sykes",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Water pollution",
         "placename": "Jessie Ezel",
         "today": "2014-12-20",
@@ -4351,7 +4351,7 @@
     {
       "properties": {
         "name": "Marisa Spears",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Loss of cultural heritage",
         "placename": "Graball Abiquiu",
         "today": "2013-05-14",
@@ -4378,7 +4378,7 @@
     {
       "properties": {
         "name": "Amie Sellers",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Loss of cultural heritage",
         "placename": "Dupuyer Kingstowne",
         "today": "2013-04-05",
@@ -4405,7 +4405,7 @@
     {
       "properties": {
         "name": "Lester Mullen",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Water poisoned",
         "placename": "Bannock Leola",
         "today": "2015-05-22",
@@ -4432,7 +4432,7 @@
     {
       "properties": {
         "name": "Morin Frost",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Damage to gathering grounds",
         "placename": "Connerton Matthews",
         "today": "2014-11-05",
@@ -4459,7 +4459,7 @@
     {
       "properties": {
         "name": "Levy Garrison",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Damage to farming grounds",
         "placename": "Broadlands Greenbackville",
         "today": "2014-07-21",
@@ -4486,7 +4486,7 @@
     {
       "properties": {
         "name": "Hayes Burch",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "FPIC violation",
         "placename": "Lodoga Juntura",
         "today": "2014-06-18",
@@ -4513,7 +4513,7 @@
     {
       "properties": {
         "name": "Soto Gaines",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Harm to community conserved site",
         "placename": "Cetronia Noblestown",
         "today": "2014-11-12",
@@ -4540,7 +4540,7 @@
     {
       "properties": {
         "name": "Pitts Lyons",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Damage to water source / watershed",
         "placename": "Aurora Nettie",
         "today": "2014-10-28",
@@ -4567,7 +4567,7 @@
     {
       "properties": {
         "name": "Carlene Wong",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Damage to water source / watershed",
         "placename": "Woodruff Darrtown",
         "today": "2014-10-09",
@@ -4594,7 +4594,7 @@
     {
       "properties": {
         "name": "Joni Hansen",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Deforestation",
         "placename": "Vicksburg Gorst",
         "today": "2013-03-06",
@@ -4621,7 +4621,7 @@
     {
       "properties": {
         "name": "Tucker Barlow",
-        "what": "Crossing",
+        "happening": "Crossing",
         "impacts": "Water pollution",
         "placename": "Haena Townsend",
         "today": "2013-05-22",
@@ -4648,7 +4648,7 @@
     {
       "properties": {
         "name": "Colon Randall",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Water poisoned",
         "placename": "Tecolotito Defiance",
         "today": "2013-06-16",
@@ -4675,7 +4675,7 @@
     {
       "properties": {
         "name": "Alberta Gibbs",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Damage to water source / watershed",
         "placename": "Monument Oneida",
         "today": "2015-01-08",
@@ -4702,7 +4702,7 @@
     {
       "properties": {
         "name": "Isabelle Hodge",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Tolu Villarreal",
         "today": "2013-05-27",
@@ -4729,7 +4729,7 @@
     {
       "properties": {
         "name": "Gracie Neal",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Violation of sensitive site",
         "placename": "Salunga Hiseville",
         "today": "2015-06-03",
@@ -4756,7 +4756,7 @@
     {
       "properties": {
         "name": "Giles Riley",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Gerber Lindcove",
         "today": "2013-08-21",
@@ -4783,7 +4783,7 @@
     {
       "properties": {
         "name": "Chris Olson",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Water pollution",
         "placename": "Beaulieu Tetherow",
         "today": "2015-04-09",
@@ -4810,7 +4810,7 @@
     {
       "properties": {
         "name": "Judy Russo",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Damage to water source / watershed",
         "placename": "Alderpoint Chaparrito",
         "today": "2014-10-24",
@@ -4837,7 +4837,7 @@
     {
       "properties": {
         "name": "Brandi Shaffer",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Water poisoned",
         "placename": "Coultervillle Duryea",
         "today": "2014-10-05",
@@ -4864,7 +4864,7 @@
     {
       "properties": {
         "name": "Ernestine Fleming",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "FPIC violation",
         "placename": "Harviell Grill",
         "today": "2013-07-28",
@@ -4891,7 +4891,7 @@
     {
       "properties": {
         "name": "Madge Henry",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Violation of sensitive site",
         "placename": "Woodburn Bawcomville",
         "today": "2014-01-29",
@@ -4918,7 +4918,7 @@
     {
       "properties": {
         "name": "Barnes Roy",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Deforestation",
         "placename": "Edmund Roy",
         "today": "2014-12-03",
@@ -4945,7 +4945,7 @@
     {
       "properties": {
         "name": "Potter Garrett",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Loss of cultural heritage",
         "placename": "Bergoo Woodlake",
         "today": "2013-04-01",
@@ -4972,7 +4972,7 @@
     {
       "properties": {
         "name": "Kirk Mccormick",
-        "what": "Illegal Fishing",
+        "happening": "Illegal Fishing",
         "impacts": "Damage to gathering grounds",
         "placename": "Fostoria Campo",
         "today": "2013-03-06",
@@ -4999,7 +4999,7 @@
     {
       "properties": {
         "name": "Kerry Robles",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Depletion of game",
         "placename": "Gratton Eden",
         "today": "2013-01-06",
@@ -5026,7 +5026,7 @@
     {
       "properties": {
         "name": "Mollie Savage",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Depletion of fish",
         "placename": "Navarre Templeton",
         "today": "2015-02-12",
@@ -5053,7 +5053,7 @@
     {
       "properties": {
         "name": "Stevenson Logan",
-        "what": "Rustling",
+        "happening": "Rustling",
         "impacts": "Damage to gathering grounds",
         "placename": "Coral Rosine",
         "today": "2015-04-21",
@@ -5080,7 +5080,7 @@
     {
       "properties": {
         "name": "Hopper Pollard",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Garberville Walton",
         "today": "2015-04-17",
@@ -5107,7 +5107,7 @@
     {
       "properties": {
         "name": "Elvia Page",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Depletion of fish",
         "placename": "Greenfields Morgandale",
         "today": "2014-03-09",
@@ -5134,7 +5134,7 @@
     {
       "properties": {
         "name": "Kate Harris",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Deforestation",
         "placename": "Groveville Warren",
         "today": "2013-01-31",
@@ -5161,7 +5161,7 @@
     {
       "properties": {
         "name": "Pierce Mendez",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Damage to wildlife / habitat",
         "placename": "Albrightsville Kula",
         "today": "2013-10-26",
@@ -5188,7 +5188,7 @@
     {
       "properties": {
         "name": "Black Wilder",
-        "what": "Illegal Hunting",
+        "happening": "Illegal Hunting",
         "impacts": "Social harm or abuse",
         "placename": "Snelling Ogema",
         "today": "2013-04-26",
@@ -5215,7 +5215,7 @@
     {
       "properties": {
         "name": "Robertson Best",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Social harm or abuse",
         "placename": "Dahlen Henrietta",
         "today": "2015-04-04",
@@ -5242,7 +5242,7 @@
     {
       "properties": {
         "name": "Eula Wilkinson",
-        "what": "Tourism Violation",
+        "happening": "Tourism Violation",
         "impacts": "Damage to gathering grounds",
         "placename": "Blanford Witmer",
         "today": "2014-02-28",
@@ -5269,7 +5269,7 @@
     {
       "properties": {
         "name": "Kristy Burt",
-        "what": "Illegal Trapping",
+        "happening": "Illegal Trapping",
         "impacts": "Water pollution",
         "placename": "Fivepointville Chapin",
         "today": "2013-12-02",
@@ -5296,7 +5296,7 @@
     {
       "properties": {
         "name": "Foreman Kelly",
-        "what": "Illegal Grazing",
+        "happening": "Illegal Grazing",
         "impacts": "Depletion of fish",
         "placename": "Convent Ypsilanti",
         "today": "2015-01-26",
@@ -5323,7 +5323,7 @@
     {
       "properties": {
         "name": "Josefa Carson",
-        "what": "Mining",
+        "happening": "Mining",
         "impacts": "Loss of cultural heritage",
         "placename": "Hayes Waiohinu",
         "today": "2014-04-04",
@@ -5350,7 +5350,7 @@
     {
       "properties": {
         "name": "Susie Leonard",
-        "what": "Stealing Artefacts",
+        "happening": "Stealing Artefacts",
         "impacts": "Damage to farming grounds",
         "placename": "Wheatfields Beason",
         "today": "2013-07-03",
@@ -5377,7 +5377,7 @@
     {
       "properties": {
         "name": "Bruce Cole",
-        "what": "Logging",
+        "happening": "Logging",
         "impacts": "Social harm or abuse",
         "placename": "Kennedyville Logan",
         "today": "2014-01-28",
