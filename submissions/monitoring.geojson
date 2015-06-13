@@ -142,7 +142,7 @@
       "happening": "rustling",
       "impacts": "Water pollution",
       "placename": "Chamizal Inkerman",
-      "today": "2013-12-21",
+      "today": "2014-12-21",
       "meta": {
         "instanceId": "uuid:2574eb7c-3a27-46df-ad74-c89749fe9c93"
       },
@@ -169,7 +169,7 @@
       "happening": "rustling",
       "impacts": "Damage to farming grounds",
       "placename": "Fairfield Edneyville",
-      "today": "2015-06-23",
+      "today": "2014-06-23",
       "meta": {
         "instanceId": "uuid:7d991e3a-0a5a-4974-bdbd-b692e3128bae"
       },
@@ -196,7 +196,7 @@
       "happening": "hunting",
       "impacts": "Damage to water source / watershed",
       "placename": "Williston Brookfield",
-      "today": "2013-11-01",
+      "today": "2014-11-01",
       "meta": {
         "instanceId": "uuid:64833de5-ecb5-4321-8afc-cd0a6b19becc"
       },
@@ -223,7 +223,7 @@
       "happening": "other",
       "impacts": "FPIC violation",
       "placename": "Sterling Springville",
-      "today": "2013-04-14",
+      "today": "2014-04-14",
       "meta": {
         "instanceId": "uuid:7bbc0adc-bff9-4df7-833d-1863c7be9c6a"
       },
@@ -250,7 +250,7 @@
       "happening": "hunting",
       "impacts": "Damage to water source / watershed",
       "placename": "Walland Fairforest",
-      "today": "2013-02-28",
+      "today": "2014-02-28",
       "meta": {
         "instanceId": "uuid:78e3bb1c-95a7-4934-a03d-c6f7f2fc3c33"
       },
@@ -277,7 +277,7 @@
       "happening": "mining",
       "impacts": "Damage to gathering grounds",
       "placename": "Caspar Magnolia",
-      "today": "2013-09-19",
+      "today": "2014-09-19",
       "meta": {
         "instanceId": "uuid:7379afac-5597-4a9c-8bad-a6c38f2b22fe"
       },
@@ -412,7 +412,7 @@
       "happening": "artefacts",
       "impacts": "FPIC violation",
       "placename": "Greensburg Whitmer",
-      "today": "2013-06-22",
+      "today": "2014-06-22",
       "meta": {
         "instanceId": "uuid:42ac8bec-18dc-4d02-985f-d13e2fcba938"
       },
@@ -466,7 +466,7 @@
       "happening": "hunting",
       "impacts": "Water pollution",
       "placename": "Sena Spelter",
-      "today": "2015-01-11",
+      "today": "2014-01-11",
       "meta": {
         "instanceId": "uuid:071f7115-6b12-4aae-82d9-1b5ff456efc9"
       },
@@ -493,7 +493,7 @@
       "happening": "other",
       "impacts": "Violation of sensitive site",
       "placename": "Outlook Connerton",
-      "today": "2013-06-30",
+      "today": "2014-06-30",
       "meta": {
         "instanceId": "uuid:3b147905-3772-40ed-93c1-5759041b57f7"
       },
@@ -547,7 +547,7 @@
       "happening": "other",
       "impacts": "Damage to wildlife / habitat",
       "placename": "Otranto Wright",
-      "today": "2015-05-13",
+      "today": "2014-05-13",
       "meta": {
         "instanceId": "uuid:1a8b74c9-f345-4441-9627-62f350691309"
       },
@@ -601,7 +601,7 @@
       "happening": "crossing",
       "impacts": "Damage to farming grounds",
       "placename": "Salvo Loretto",
-      "today": "2013-04-03",
+      "today": "2014-04-03",
       "meta": {
         "instanceId": "uuid:ee694132-64e5-4598-9c82-c0c0840ede87"
       },
@@ -682,7 +682,7 @@
       "happening": "crossing",
       "impacts": "Water poisoned",
       "placename": "Wolcott Bascom",
-      "today": "2015-06-28",
+      "today": "2014-06-28",
       "meta": {
         "instanceId": "uuid:0296923d-94db-4746-9687-56ffce39560b"
       },
@@ -736,7 +736,7 @@
       "happening": "logging",
       "impacts": "Depletion of game",
       "placename": "Edgar Villarreal",
-      "today": "2013-06-19",
+      "today": "2014-06-19",
       "meta": {
         "instanceId": "uuid:59d68a74-ff30-48d7-a69c-53c501534acf"
       },
@@ -763,7 +763,7 @@
       "happening": "grazing",
       "impacts": "Water pollution",
       "placename": "Wanship Washington",
-      "today": "2013-02-21",
+      "today": "2014-02-21",
       "meta": {
         "instanceId": "uuid:a0b776d9-ddcb-4a6e-af04-1a2d675b9235"
       },
@@ -817,7 +817,7 @@
       "happening": "mining",
       "impacts": "Damage to gathering grounds",
       "placename": "Conway Greenock",
-      "today": "2013-11-22",
+      "today": "2014-11-22",
       "meta": {
         "instanceId": "uuid:4e10e24d-d3be-4f55-93df-ec3369e352e2"
       },
@@ -898,7 +898,7 @@
       "happening": "hunting",
       "impacts": "Depletion of game",
       "placename": "Cherokee Campo",
-      "today": "2013-06-09",
+      "today": "2014-06-09",
       "meta": {
         "instanceId": "uuid:bc2753d8-b548-4bc4-a862-544e6c1fa4db"
       },
@@ -925,7 +925,7 @@
       "happening": "artefacts",
       "impacts": "Violation of sensitive site",
       "placename": "Wheaton Cowiche",
-      "today": "2015-06-02",
+      "today": "2014-06-02",
       "meta": {
         "instanceId": "uuid:9a4be4d7-98d6-4b56-a82b-dfadbea2049b"
       },
@@ -1060,7 +1060,7 @@
       "happening": "fishing",
       "impacts": "Damage to wildlife / habitat",
       "placename": "Devon Tecolotito",
-      "today": "2015-03-05",
+      "today": "2014-03-05",
       "meta": {
         "instanceId": "uuid:3b82b0b6-08eb-4f71-bb84-9bc6be1de9a3"
       },
@@ -1114,7 +1114,7 @@
       "happening": "fishing",
       "impacts": "Damage to wildlife / habitat",
       "placename": "Reinerton Springdale",
-      "today": "2013-10-30",
+      "today": "2014-10-30",
       "meta": {
         "instanceId": "uuid:bd82f5e4-201c-4a59-aba2-10d804f52a75"
       },
@@ -1249,7 +1249,7 @@
       "happening": "grazing",
       "impacts": "Deforestation",
       "placename": "Tuttle Breinigsville",
-      "today": "2013-09-22",
+      "today": "2014-09-22",
       "meta": {
         "instanceId": "uuid:c5b4e489-e317-4a71-bf9d-b26a9d481d03"
       },
@@ -1303,7 +1303,7 @@
       "happening": "tourism",
       "impacts": "Depletion of fish",
       "placename": "Lumberton Camas",
-      "today": "2013-10-23",
+      "today": "2014-10-23",
       "meta": {
         "instanceId": "uuid:2553928b-9bc2-4b0a-89c6-967e5b7451f7"
       },
@@ -1330,7 +1330,7 @@
       "happening": "tourism",
       "impacts": "Damage to water source / watershed",
       "placename": "Beason Robinette",
-      "today": "2015-01-13",
+      "today": "2014-01-13",
       "meta": {
         "instanceId": "uuid:9b44046b-be12-4544-8f55-4f075e0d6c98"
       },
@@ -1384,7 +1384,7 @@
       "happening": "mining",
       "impacts": "Damage to farming grounds",
       "placename": "Eastvale Chicopee",
-      "today": "2013-08-07",
+      "today": "2014-08-07",
       "meta": {
         "instanceId": "uuid:b6671069-3182-4b3b-a05d-7389df5bb5f0"
       },
@@ -1438,7 +1438,7 @@
       "happening": "logging",
       "impacts": "Social harm or abuse",
       "placename": "Brambleton Garfield",
-      "today": "2013-02-16",
+      "today": "2014-02-16",
       "meta": {
         "instanceId": "uuid:b84d357a-9b82-4c8e-bee7-d40717be229b"
       },
@@ -1492,7 +1492,7 @@
       "happening": "artefacts",
       "impacts": "Depletion of game",
       "placename": "Lowell Tioga",
-      "today": "2013-03-22",
+      "today": "2014-03-22",
       "meta": {
         "instanceId": "uuid:3b42e5ec-ff3f-4ce7-8250-7e0cd336c6d2"
       },
@@ -1519,7 +1519,7 @@
       "happening": "tourism",
       "impacts": "Violation of sensitive site",
       "placename": "Sandston Leeper",
-      "today": "2015-01-13",
+      "today": "2014-01-13",
       "meta": {
         "instanceId": "uuid:cff58b4a-4708-4d84-99fc-621ed9640711"
       },
@@ -1546,7 +1546,7 @@
       "happening": "crossing",
       "impacts": "Damage to water source / watershed",
       "placename": "Chumuckla Westphalia",
-      "today": "2013-03-21",
+      "today": "2014-03-21",
       "meta": {
         "instanceId": "uuid:84679099-0eab-4868-b18c-92fe14bb35d4"
       },
@@ -1573,7 +1573,7 @@
       "happening": "artefacts",
       "impacts": "Violation of sensitive site",
       "placename": "Rosine Masthope",
-      "today": "2013-10-12",
+      "today": "2014-10-12",
       "meta": {
         "instanceId": "uuid:7d2adca5-53a1-419b-9eae-70b7b49acde2"
       },
@@ -1600,7 +1600,7 @@
       "happening": "fishing",
       "impacts": "Water poisoned",
       "placename": "Islandia Sidman",
-      "today": "2015-01-02",
+      "today": "2014-01-02",
       "meta": {
         "instanceId": "uuid:da3e6046-bf53-4993-a808-541e5c55a0a3"
       },
@@ -1654,7 +1654,7 @@
       "happening": "logging",
       "impacts": "Damage to water source / watershed",
       "placename": "Sunriver Sylvanite",
-      "today": "2013-07-31",
+      "today": "2014-07-31",
       "meta": {
         "instanceId": "uuid:54617f0f-2a11-4759-908b-4588a5b4517f"
       },
@@ -1708,7 +1708,7 @@
       "happening": "rustling",
       "impacts": "Violation of sensitive site",
       "placename": "Ronco Cleary",
-      "today": "2015-03-10",
+      "today": "2014-03-10",
       "meta": {
         "instanceId": "uuid:88be8269-daad-47f8-a776-06b69dff1df4"
       },
@@ -1762,7 +1762,7 @@
       "happening": "rustling",
       "impacts": "Loss of cultural heritage",
       "placename": "Crenshaw Mahtowa",
-      "today": "2015-06-06",
+      "today": "2014-06-06",
       "meta": {
         "instanceId": "uuid:8b1aa3fb-ba56-489a-ba7c-5f2eb857f105"
       },
@@ -1789,7 +1789,7 @@
       "happening": "crossing",
       "impacts": "Deforestation",
       "placename": "Bath Waukeenah",
-      "today": "2013-03-14",
+      "today": "2014-03-14",
       "meta": {
         "instanceId": "uuid:cf6a0995-3b45-4cdc-9a57-78223343fe15"
       },
@@ -1843,7 +1843,7 @@
       "happening": "fishing",
       "impacts": "Loss of cultural heritage",
       "placename": "Bloomington Cumminsville",
-      "today": "2015-01-25",
+      "today": "2014-01-25",
       "meta": {
         "instanceId": "uuid:84340f81-f6da-42dd-a159-6523210f5f7b"
       },
@@ -1897,7 +1897,7 @@
       "happening": "hunting",
       "impacts": "Social harm or abuse",
       "placename": "Onton Brandermill",
-      "today": "2013-05-11",
+      "today": "2014-05-11",
       "meta": {
         "instanceId": "uuid:9e5d8c58-d0dc-41e3-bffe-1d1b98cde6aa"
       },
@@ -1951,7 +1951,7 @@
       "happening": "grazing",
       "impacts": "Deforestation",
       "placename": "Coalmont Ernstville",
-      "today": "2015-03-12",
+      "today": "2014-03-12",
       "meta": {
         "instanceId": "uuid:1e349d5c-d7e7-4eaf-bb81-1c895cac4e65"
       },
@@ -1978,7 +1978,7 @@
       "happening": "tourism",
       "impacts": "Damage to farming grounds",
       "placename": "Kenwood Darlington",
-      "today": "2013-12-29",
+      "today": "2014-12-29",
       "meta": {
         "instanceId": "uuid:929dfa4f-ab23-48ac-88a9-ec0afbf70eb8"
       },
@@ -2032,7 +2032,7 @@
       "happening": "logging",
       "impacts": "Damage to wildlife / habitat",
       "placename": "Staples Riner",
-      "today": "2013-03-21",
+      "today": "2014-03-21",
       "meta": {
         "instanceId": "uuid:210f1d77-dc2c-4241-8853-a958d3f5abde"
       },
@@ -2059,7 +2059,7 @@
       "happening": "mining",
       "impacts": "Deforestation",
       "placename": "Fairview Dalton",
-      "today": "2015-03-23",
+      "today": "2014-03-23",
       "meta": {
         "instanceId": "uuid:e9dd1f19-4b15-4057-9cd3-826014ee4e81"
       },
@@ -2086,7 +2086,7 @@
       "happening": "tourism",
       "impacts": "Depletion of game",
       "placename": "Vandiver Centerville",
-      "today": "2015-05-29",
+      "today": "2014-05-29",
       "meta": {
         "instanceId": "uuid:fec78c1a-e6cb-4875-b570-dd691aeb9532"
       },
@@ -2113,7 +2113,7 @@
       "happening": "logging",
       "impacts": "Water poisoned",
       "placename": "Buxton Tilleda",
-      "today": "2013-04-20",
+      "today": "2014-04-20",
       "meta": {
         "instanceId": "uuid:fc5e6ff1-712d-43fa-81e4-18998b4eefc2"
       },
@@ -2194,7 +2194,7 @@
       "happening": "other",
       "impacts": "Deforestation",
       "placename": "Barronett Davenport",
-      "today": "2015-03-12",
+      "today": "2014-03-12",
       "meta": {
         "instanceId": "uuid:8564111e-1f3a-4b0c-91ff-ce06e524ae6b"
       },
@@ -2221,7 +2221,7 @@
       "happening": "logging",
       "impacts": "Deforestation",
       "placename": "Geyserville Hatteras",
-      "today": "2013-09-08",
+      "today": "2014-09-08",
       "meta": {
         "instanceId": "uuid:562a00f3-5174-48e6-81dd-1284083a640c"
       },
@@ -2302,7 +2302,7 @@
       "happening": "grazing",
       "impacts": "Violation of sensitive site",
       "placename": "Wanamie Grapeview",
-      "today": "2013-08-22",
+      "today": "2014-08-22",
       "meta": {
         "instanceId": "uuid:400963a3-b9a1-47a9-ae3d-8026366ce8d6"
       },
@@ -2356,7 +2356,7 @@
       "happening": "artefacts",
       "impacts": "Damage to farming grounds",
       "placename": "Lorraine Alleghenyville",
-      "today": "2013-09-20",
+      "today": "2014-09-20",
       "meta": {
         "instanceId": "uuid:994a0bb4-20fa-4325-b8ed-b1ebfbc0b4b6"
       },
@@ -2383,7 +2383,7 @@
       "happening": "tourism",
       "impacts": "Loss of cultural heritage",
       "placename": "Sheatown Veyo",
-      "today": "2013-11-02",
+      "today": "2014-11-02",
       "meta": {
         "instanceId": "uuid:c6dfeeb9-328b-481e-a110-b7fd49ab1743"
       },
@@ -2410,7 +2410,7 @@
       "happening": "fishing",
       "impacts": "Damage to farming grounds",
       "placename": "Leyner Somerset",
-      "today": "2015-04-17",
+      "today": "2014-04-17",
       "meta": {
         "instanceId": "uuid:6b38a6e3-b7df-4c4e-a1b0-fbcf8d773d54"
       },
@@ -2437,7 +2437,7 @@
       "happening": "grazing",
       "impacts": "Damage to water source / watershed",
       "placename": "Stonybrook Rockhill",
-      "today": "2013-01-22",
+      "today": "2014-01-22",
       "meta": {
         "instanceId": "uuid:a3a01a56-ec69-46bd-8d8e-f3a6d8b1f4ad"
       },
@@ -2491,7 +2491,7 @@
       "happening": "trapping",
       "impacts": "Damage to wildlife / habitat",
       "placename": "Croom Jacumba",
-      "today": "2015-03-07",
+      "today": "2014-03-07",
       "meta": {
         "instanceId": "uuid:cb54f547-4906-42b5-88e4-b03697113ba7"
       },
@@ -2518,7 +2518,7 @@
       "happening": "artefacts",
       "impacts": "Water poisoned",
       "placename": "Norris Thomasville",
-      "today": "2015-02-21",
+      "today": "2014-02-21",
       "meta": {
         "instanceId": "uuid:7c208f4d-ce2d-4e64-8299-6dd71d91f0ea"
       },
@@ -2599,7 +2599,7 @@
       "happening": "trapping",
       "impacts": "Deforestation",
       "placename": "Abiquiu Harborton",
-      "today": "2013-03-22",
+      "today": "2014-03-22",
       "meta": {
         "instanceId": "uuid:0c4df540-cacd-468f-af4a-46810bdce07e"
       },
@@ -2680,7 +2680,7 @@
       "happening": "tourism",
       "impacts": "Damage to water source / watershed",
       "placename": "Chase Longoria",
-      "today": "2013-09-26",
+      "today": "2014-09-26",
       "meta": {
         "instanceId": "uuid:b37ec611-864a-49c7-af8a-e5810637c1e1"
       },
@@ -2707,7 +2707,7 @@
       "happening": "fishing",
       "impacts": "Social harm or abuse",
       "placename": "Snelling Indio",
-      "today": "2015-03-25",
+      "today": "2014-03-25",
       "meta": {
         "instanceId": "uuid:ee70edbc-07cd-4a0a-b435-27084f50ce61"
       },
@@ -2734,7 +2734,7 @@
       "happening": "artefacts",
       "impacts": "Damage to gathering grounds",
       "placename": "Lowgap Tuskahoma",
-      "today": "2015-06-21",
+      "today": "2014-06-21",
       "meta": {
         "instanceId": "uuid:2c4b7628-e256-4a87-8552-ad8e8bd2a94b"
       },
@@ -2788,7 +2788,7 @@
       "happening": "crossing",
       "impacts": "Violation of sensitive site",
       "placename": "Albrightsville Orovada",
-      "today": "2015-05-04",
+      "today": "2014-05-04",
       "meta": {
         "instanceId": "uuid:02e5711d-ae70-4a53-85e3-729390a23982"
       },
@@ -2815,7 +2815,7 @@
       "happening": "other",
       "impacts": "Water pollution",
       "placename": "Dundee Lawrence",
-      "today": "2015-01-15",
+      "today": "2014-01-15",
       "meta": {
         "instanceId": "uuid:84aa9b24-6857-45e8-a74c-668f148a4a17"
       },
@@ -2950,7 +2950,7 @@
       "happening": "other",
       "impacts": "Damage to water source / watershed",
       "placename": "Waiohinu Kieler",
-      "today": "2015-04-29",
+      "today": "2014-04-29",
       "meta": {
         "instanceId": "uuid:760eb8df-0817-4fe9-8e8a-74f73b87afc3"
       },
@@ -3058,7 +3058,7 @@
       "happening": "crossing",
       "impacts": "FPIC violation",
       "placename": "Savage Adelino",
-      "today": "2015-01-10",
+      "today": "2014-01-10",
       "meta": {
         "instanceId": "uuid:477188f5-039b-4bf7-874e-eee7daacacc6"
       },
@@ -3085,7 +3085,7 @@
       "happening": "fishing",
       "impacts": "Damage to gathering grounds",
       "placename": "Masthope Grazierville",
-      "today": "2015-05-26",
+      "today": "2014-05-26",
       "meta": {
         "instanceId": "uuid:e82a189f-859c-431d-8857-2fc94e5dd67b"
       },
@@ -3220,7 +3220,7 @@
       "happening": "rustling",
       "impacts": "Depletion of game",
       "placename": "Rowe Tolu",
-      "today": "2015-04-02",
+      "today": "2014-04-02",
       "meta": {
         "instanceId": "uuid:95e5942d-e641-4ac5-805b-b1c868e56f33"
       },
@@ -3328,7 +3328,7 @@
       "happening": "trapping",
       "impacts": "Harm to community conserved site",
       "placename": "Skyland Watrous",
-      "today": "2015-02-19",
+      "today": "2014-02-19",
       "meta": {
         "instanceId": "uuid:1370f911-813e-4e21-83d1-d504477fcd72"
       },
@@ -3463,7 +3463,7 @@
       "happening": "grazing",
       "impacts": "Violation of sensitive site",
       "placename": "Crenshaw Stevens",
-      "today": "2015-02-14",
+      "today": "2014-02-14",
       "meta": {
         "instanceId": "uuid:314ddddc-f94a-49fe-885a-c7996fe10478"
       },
@@ -3544,7 +3544,7 @@
       "happening": "grazing",
       "impacts": "Water pollution",
       "placename": "Joppa Sterling",
-      "today": "2015-05-30",
+      "today": "2014-05-30",
       "meta": {
         "instanceId": "uuid:e2b15c0c-9af1-4254-926d-7cb278b3ed9f"
       },
@@ -3679,7 +3679,7 @@
       "happening": "tourism",
       "impacts": "FPIC violation",
       "placename": "Bentonville Nord",
-      "today": "2015-04-13",
+      "today": "2014-04-13",
       "meta": {
         "instanceId": "uuid:4d7f8759-994c-4e79-886c-5366a0f87f5f"
       },
@@ -3706,7 +3706,7 @@
       "happening": "rustling",
       "impacts": "Water pollution",
       "placename": "Hoagland Emison",
-      "today": "2015-04-11",
+      "today": "2014-04-11",
       "meta": {
         "instanceId": "uuid:ba2d611d-fbe5-4484-8303-7a25f72ee837"
       },
@@ -3814,7 +3814,7 @@
       "happening": "hunting",
       "impacts": "Violation of sensitive site",
       "placename": "Kingstowne Jessie",
-      "today": "2015-01-10",
+      "today": "2014-01-10",
       "meta": {
         "instanceId": "uuid:eba78fcc-2745-4199-928d-13b68a5806c7"
       },
@@ -3841,7 +3841,7 @@
       "happening": "tourism",
       "impacts": "Water poisoned",
       "placename": "Waterview Glenbrook",
-      "today": "2015-02-16",
+      "today": "2014-02-16",
       "meta": {
         "instanceId": "uuid:769cbecf-f85c-4f30-9105-2f87e1935033"
       },
@@ -3868,7 +3868,7 @@
       "happening": "tourism",
       "impacts": "Damage to wildlife / habitat",
       "placename": "Singer Crisman",
-      "today": "2015-06-07",
+      "today": "2014-06-07",
       "meta": {
         "instanceId": "uuid:6b414e00-9c0b-4c17-be6b-b32e81bb953d"
       },
@@ -3976,7 +3976,7 @@
       "happening": "fishing",
       "impacts": "Harm to community conserved site",
       "placename": "Westboro Thornport",
-      "today": "2015-02-09",
+      "today": "2014-02-09",
       "meta": {
         "instanceId": "uuid:e0895b1c-1aaf-4e88-8f56-7a5bf17c80d0"
       },
@@ -4165,7 +4165,7 @@
       "happening": "artefacts",
       "impacts": "Violation of sensitive site",
       "placename": "Clinton Shelby",
-      "today": "2015-05-04",
+      "today": "2014-05-04",
       "meta": {
         "instanceId": "uuid:30558b33-03f8-4cbf-85a7-3131e52ac034"
       },
@@ -4192,7 +4192,7 @@
       "happening": "other",
       "impacts": "FPIC violation",
       "placename": "Gorst Veyo",
-      "today": "2015-01-31",
+      "today": "2014-01-31",
       "meta": {
         "instanceId": "uuid:b2be3f3f-d818-42d6-b74f-22a5b24950ea"
       },
@@ -4219,7 +4219,7 @@
       "happening": "artefacts",
       "impacts": "Damage to gathering grounds",
       "placename": "Farmers Denio",
-      "today": "2015-02-18",
+      "today": "2014-02-18",
       "meta": {
         "instanceId": "uuid:1f7fcb67-e46a-4c4d-bd53-4bd01bd25cbd"
       },
@@ -4273,7 +4273,7 @@
       "happening": "hunting",
       "impacts": "Damage to water source / watershed",
       "placename": "Sandston Orason",
-      "today": "2015-04-16",
+      "today": "2014-04-16",
       "meta": {
         "instanceId": "uuid:52c651b3-c4e7-4abe-9a67-4813ab7d25c5"
       },
@@ -4300,7 +4300,7 @@
       "happening": "crossing",
       "impacts": "Depletion of fish",
       "placename": "Breinigsville Glasgow",
-      "today": "2015-02-06",
+      "today": "2014-02-06",
       "meta": {
         "instanceId": "uuid:4c39347f-7b21-4700-8084-f4cbc34cd5b9"
       },
@@ -4435,7 +4435,7 @@
       "happening": "grazing",
       "impacts": "Damage to water source / watershed",
       "placename": "Bayview Sattley",
-      "today": "2015-04-06",
+      "today": "2014-04-06",
       "meta": {
         "instanceId": "uuid:ade06157-53fc-4f0e-b4af-5909cde3c317"
       },
@@ -4489,7 +4489,7 @@
       "happening": "rustling",
       "impacts": "FPIC violation",
       "placename": "Yardville Mayfair",
-      "today": "2015-05-15",
+      "today": "2014-05-15",
       "meta": {
         "instanceId": "uuid:048e9b3a-a644-4b34-87cc-7d09e0c5bfc9"
       },
@@ -4516,7 +4516,7 @@
       "happening": "tourism",
       "impacts": "Depletion of game",
       "placename": "Klondike Winston",
-      "today": "2015-02-05",
+      "today": "2014-02-05",
       "meta": {
         "instanceId": "uuid:59f34047-6c90-4757-93f5-9733c7441ce8"
       },
@@ -4570,7 +4570,7 @@
       "happening": "hunting",
       "impacts": "Damage to water source / watershed",
       "placename": "Olney Robbins",
-      "today": "2015-01-12",
+      "today": "2014-01-12",
       "meta": {
         "instanceId": "uuid:8b2ad0e8-80b3-4456-8cc9-8aac66bcbe41"
       },
@@ -4705,7 +4705,7 @@
       "happening": "mining",
       "impacts": "Depletion of fish",
       "placename": "Hiko Boling",
-      "today": "2015-03-25",
+      "today": "2014-03-25",
       "meta": {
         "instanceId": "uuid:6fc1bb1a-a5d8-42ec-b0ce-a1179281fdc7"
       },
@@ -4759,7 +4759,7 @@
       "happening": "fishing",
       "impacts": "Damage to gathering grounds",
       "placename": "Lodoga Northchase",
-      "today": "2015-06-25",
+      "today": "2014-06-25",
       "meta": {
         "instanceId": "uuid:6d61be02-a5dd-4b1f-a90c-0d084c48d468"
       },
@@ -4840,7 +4840,7 @@
       "happening": "other",
       "impacts": "Water poisoned",
       "placename": "Imperial Caledonia",
-      "today": "2015-06-12",
+      "today": "2014-06-12",
       "meta": {
         "instanceId": "uuid:344edfae-4f49-4065-9857-cc052ba7f8dc"
       },
@@ -5056,7 +5056,7 @@
       "happening": "grazing",
       "impacts": "Violation of sensitive site",
       "placename": "Lloyd Groveville",
-      "today": "2015-01-27",
+      "today": "2014-01-27",
       "meta": {
         "instanceId": "uuid:def01a81-8401-42f5-bd8b-0a80c0eeb76d"
       },
@@ -5110,7 +5110,7 @@
       "happening": "tourism",
       "impacts": "Depletion of fish",
       "placename": "Hiseville Hebron",
-      "today": "2015-05-22",
+      "today": "2014-05-22",
       "meta": {
         "instanceId": "uuid:5906ef0d-cd64-4e63-86f9-eaa5e02d084f"
       },
@@ -5137,7 +5137,7 @@
       "happening": "crossing",
       "impacts": "Water pollution",
       "placename": "Chicopee Beason",
-      "today": "2015-04-12",
+      "today": "2014-04-12",
       "meta": {
         "instanceId": "uuid:944f2876-9ccb-41a9-a424-e3198fa2cd57"
       },
@@ -5191,7 +5191,7 @@
       "happening": "logging",
       "impacts": "Damage to water source / watershed",
       "placename": "Clarktown Hendersonville",
-      "today": "2015-06-19",
+      "today": "2014-06-19",
       "meta": {
         "instanceId": "uuid:b3df7100-a892-492e-8298-bcdb08eec658"
       },
