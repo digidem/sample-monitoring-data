@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "artefacts",
+    "impacts": "Violation of sensitive site",
+    "placename": "Clinton Shelby",
+    "today": "2014-05-04",
+    "meta": {
+      "instanceId": "uuid:30558b33-03f8-4cbf-85a7-3131e52ac034"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Marora Naawa",
+    "region": "South Central",
+    "caption": "Reprehenderit reprehenderit irure qui adipisicing"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.774185561342165,
+      3.0181147317867727
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

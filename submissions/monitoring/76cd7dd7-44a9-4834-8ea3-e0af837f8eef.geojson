@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "trapping",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Yonah Enlow",
+    "today": "2014-06-05",
+    "meta": {
+      "instanceId": "uuid:76cd7dd7-44a9-4834-8ea3-e0af837f8eef"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+    },
+    "area": "Kanowadtao",
+    "village": "Potari Naawa",
+    "region": "South Central",
+    "caption": "Exercitation magna sunt esse"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.190697039011866,
+      2.711914767185226
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

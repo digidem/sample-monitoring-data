@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "rustling",
+    "impacts": "FPIC violation",
+    "placename": "Yardville Mayfair",
+    "today": "2014-05-15",
+    "meta": {
+      "instanceId": "uuid:048e9b3a-a644-4b34-87cc-7d09e0c5bfc9"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+    },
+    "area": "Upper Kuyuwini",
+    "village": "Awaru Wao Naawa",
+    "region": "Deep South",
+    "caption": "Exercitation officia amet"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.42483776016161,
+      2.590566272987053
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

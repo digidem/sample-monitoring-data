@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "grazing",
+    "impacts": "Deforestation",
+    "placename": "Tuttle Breinigsville",
+    "today": "2014-09-22",
+    "meta": {
+      "instanceId": "uuid:c5b4e489-e317-4a71-bf9d-b26a9d481d03"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Kanowadtao",
+    "village": "Achawib",
+    "region": "Deep South",
+    "caption": "Enim officia consectetur"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.12545053451322,
+      2.7806241993326695
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

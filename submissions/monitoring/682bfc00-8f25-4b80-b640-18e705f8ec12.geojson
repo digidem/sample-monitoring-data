@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "trapping",
+    "impacts": "Social harm or abuse",
+    "placename": "Gilgo Bedias",
+    "today": "2014-05-17",
+    "meta": {
+      "instanceId": "uuid:682bfc00-8f25-4b80-b640-18e705f8ec12"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Upper Takatu",
+    "village": "Karaodaz Naawa",
+    "region": "South Central",
+    "caption": "Consequat incididunt ipsum"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.2263469544705,
+      2.1474900943227113
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

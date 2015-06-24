@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "hunting",
+    "impacts": "Water pollution",
+    "placename": "Kimmell Dubois",
+    "today": "2014-04-06",
+    "meta": {
+      "instanceId": "uuid:cf0c6319-e382-493d-89e2-89750a8cf650"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+    },
+    "area": "Lower Takatu",
+    "village": "Parikowaro Naawa",
+    "region": "Deep South",
+    "caption": "Mollit qui consequat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.15391008090228,
+      2.5939164684619755
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

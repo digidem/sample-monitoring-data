@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "mining",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Floriston Statenville",
+    "today": "2014-06-30",
+    "meta": {
+      "instanceId": "uuid:629d8411-e1ff-46c2-8013-5f78c20ea0a0"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+    },
+    "area": "Marudi",
+    "village": "Shii",
+    "region": "Deep South",
+    "caption": "Voluptate fugiat exercitation do amet"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.24066446535289,
+      2.701860509021208
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

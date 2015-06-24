@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "other",
+    "impacts": "Deforestation",
+    "placename": "Barronett Davenport",
+    "today": "2014-03-12",
+    "meta": {
+      "instanceId": "uuid:8564111e-1f3a-4b0c-91ff-ce06e524ae6b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Achawib",
+    "region": "Deep South",
+    "caption": "Ex et labore proident"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.69154882081784,
+      2.2003633411601187
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

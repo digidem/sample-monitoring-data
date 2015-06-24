@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "grazing",
+    "impacts": "Violation of sensitive site",
+    "placename": "Crenshaw Stevens",
+    "today": "2014-02-14",
+    "meta": {
+      "instanceId": "uuid:314ddddc-f94a-49fe-885a-c7996fe10478"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+    },
+    "area": "Tamtoon",
+    "village": "Karaodaz Naawa",
+    "region": "Deep South",
+    "caption": "Ea reprehenderit in"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.73410914535634,
+      2.2623084510210902
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

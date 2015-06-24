@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "tourism",
+    "impacts": "FPIC violation",
+    "placename": "Bentonville Nord",
+    "today": "2014-04-13",
+    "meta": {
+      "instanceId": "uuid:4d7f8759-994c-4e79-886c-5366a0f87f5f"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+    },
+    "area": "Lower Takatu",
+    "village": "Shii",
+    "region": "Deep South",
+    "caption": "Esse dolore nostrud"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.525297817075625,
+      2.321473904559389
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

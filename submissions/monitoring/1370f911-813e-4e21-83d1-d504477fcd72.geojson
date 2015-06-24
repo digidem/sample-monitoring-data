@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "trapping",
+    "impacts": "Harm to community conserved site",
+    "placename": "Skyland Watrous",
+    "today": "2014-02-19",
+    "meta": {
+      "instanceId": "uuid:1370f911-813e-4e21-83d1-d504477fcd72"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+    },
+    "area": "Mamidi",
+    "village": "Shii",
+    "region": "South Central",
+    "caption": "Ea anim adipisicing"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.20901022409089,
+      2.9491875738836826
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

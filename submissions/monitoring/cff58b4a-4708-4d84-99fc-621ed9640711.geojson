@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "tourism",
+    "impacts": "Violation of sensitive site",
+    "placename": "Sandston Leeper",
+    "today": "2014-01-13",
+    "meta": {
+      "instanceId": "uuid:cff58b4a-4708-4d84-99fc-621ed9640711"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Korowin",
+    "village": "Sawari Wao",
+    "region": "South Central",
+    "caption": "Aliquip cillum eu"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.83253376884386,
+      2.4068188077304513
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

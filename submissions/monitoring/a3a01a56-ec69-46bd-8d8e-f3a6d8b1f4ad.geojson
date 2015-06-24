@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "grazing",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Stonybrook Rockhill",
+    "today": "2014-01-22",
+    "meta": {
+      "instanceId": "uuid:a3a01a56-ec69-46bd-8d8e-f3a6d8b1f4ad"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Zoopo Naawa",
+    "region": "Deep South",
+    "caption": "Ex occaecat est do"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.80472228419967,
+      2.2885432300623507
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

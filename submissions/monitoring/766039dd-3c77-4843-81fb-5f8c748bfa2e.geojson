@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "trapping",
+    "impacts": "Violation of sensitive site",
+    "placename": "Chical Coloma",
+    "today": "2014-12-19",
+    "meta": {
+      "instanceId": "uuid:766039dd-3c77-4843-81fb-5f8c748bfa2e"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+    },
+    "area": "Kosad",
+    "village": "Shii",
+    "region": "South Central",
+    "caption": "Fugiat magna pariatur"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.64568074932322,
+      2.6788275019731373
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

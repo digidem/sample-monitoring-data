@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "logging",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Dola Fairhaven",
+    "today": "2014-09-23",
+    "meta": {
+      "instanceId": "uuid:ffcddc7c-f77e-41b6-a0fe-2d72a0d0e408"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Aishara Toon",
+    "region": "Deep South",
+    "caption": "Velit velit pariatur et ipsum"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.00231853686273,
+      3.0144752009306104
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

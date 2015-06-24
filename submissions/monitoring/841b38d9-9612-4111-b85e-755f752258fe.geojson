@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "other",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Ahwahnee Romeville",
+    "today": "2014-05-22",
+    "meta": {
+      "instanceId": "uuid:841b38d9-9612-4111-b85e-755f752258fe"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Katoonarub",
+    "region": "South Central",
+    "caption": "Pariatur Lorem ea non officia"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.66850574919954,
+      2.5585705352947117
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

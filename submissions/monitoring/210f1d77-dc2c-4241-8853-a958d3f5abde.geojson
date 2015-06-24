@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "logging",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Staples Riner",
+    "today": "2014-03-21",
+    "meta": {
+      "instanceId": "uuid:210f1d77-dc2c-4241-8853-a958d3f5abde"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+    },
+    "area": "Tamtoon",
+    "village": "Marora Naawa",
+    "region": "South Central",
+    "caption": "Ullamco non voluptate culpa velit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.20435508596711,
+      3.0899785190355034
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

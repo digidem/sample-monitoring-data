@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "trapping",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Sardis Tyhee",
+    "today": "2014-04-01",
+    "meta": {
+      "instanceId": "uuid:cf189604-1f26-479a-9a81-ce2347b6360b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Parikowaro Naawa",
+    "region": "Deep South",
+    "caption": "Laborum consequat eu irure"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.07002073270269,
+      2.9849382360931487
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

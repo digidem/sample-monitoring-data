@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "fishing",
+    "impacts": "Social harm or abuse",
+    "placename": "Snelling Indio",
+    "today": "2014-03-25",
+    "meta": {
+      "instanceId": "uuid:ee70edbc-07cd-4a0a-b435-27084f50ce61"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+    },
+    "area": "Other",
+    "village": "Awaru Wao Naawa",
+    "region": "Deep South",
+    "caption": "Id duis ex"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.82300513680093,
+      2.4282873949501664
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

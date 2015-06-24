@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "grazing",
+    "impacts": "Water pollution",
+    "placename": "Frank Cherokee",
+    "today": "2014-06-02",
+    "meta": {
+      "instanceId": "uuid:232cf6f1-09d3-4556-a678-81d15fc5eb45"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Shorinab Mountain Foot",
+    "village": "Shii",
+    "region": "Deep South",
+    "caption": "Enim et ullamco occaecat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.823618854396045,
+      2.5496714151464404
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

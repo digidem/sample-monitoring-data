@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "tourism",
+    "impacts": "Depletion of game",
+    "placename": "Klondike Winston",
+    "today": "2014-02-05",
+    "meta": {
+      "instanceId": "uuid:59f34047-6c90-4757-93f5-9733c7441ce8"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Kanowadtao",
+    "village": "Parobaz",
+    "region": "South Central",
+    "caption": "Tempor magna pariatur ut"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.218886031070724,
+      2.9194032767787577
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

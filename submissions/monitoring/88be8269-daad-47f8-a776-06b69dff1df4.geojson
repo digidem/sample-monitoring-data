@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "rustling",
+    "impacts": "Violation of sensitive site",
+    "placename": "Ronco Cleary",
+    "today": "2014-03-10",
+    "meta": {
+      "instanceId": "uuid:88be8269-daad-47f8-a776-06b69dff1df4"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Upper Takatu",
+    "village": "Parobaz",
+    "region": "South Central",
+    "caption": "Voluptate nulla magna adipisicing"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.174116192618385,
+      2.80305806491524
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

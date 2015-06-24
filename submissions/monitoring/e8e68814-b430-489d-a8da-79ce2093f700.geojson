@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "grazing",
+    "impacts": "Harm to community conserved site",
+    "placename": "Fredericktown Goochland",
+    "today": "2014-04-07",
+    "meta": {
+      "instanceId": "uuid:e8e68814-b430-489d-a8da-79ce2093f700"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+    },
+    "area": "Bakawadataawa",
+    "village": "Shorinab",
+    "region": "Deep South",
+    "caption": "Ad tempor ex excepteur"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.9179556556046,
+      2.6525520809460432
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

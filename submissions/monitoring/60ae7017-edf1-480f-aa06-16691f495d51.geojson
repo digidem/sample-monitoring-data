@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "fishing",
+    "impacts": "Harm to community conserved site",
+    "placename": "Comptche Tonopah",
+    "today": "2014-08-21",
+    "meta": {
+      "instanceId": "uuid:60ae7017-edf1-480f-aa06-16691f495d51"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+    },
+    "area": "Raada",
+    "village": "Achawib",
+    "region": "Deep South",
+    "caption": "Nostrud et reprehenderit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.452984353294596,
+      2.7909586424008013
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "other",
+    "impacts": "Depletion of fish",
+    "placename": "Crown Hasty",
+    "today": "2014-03-24",
+    "meta": {
+      "instanceId": "uuid:f709edb1-215c-455b-a53f-ca0febbfa97d"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Mamidi",
+    "village": "Katoonarub",
+    "region": "Deep South",
+    "caption": "Consequat adipisicing elit voluptate"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.55047673196532,
+      2.7195242737885565
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

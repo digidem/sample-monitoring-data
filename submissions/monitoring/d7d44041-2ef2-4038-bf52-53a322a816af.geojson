@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "trapping",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Whitehaven Fidelis",
+    "today": "2014-02-10",
+    "meta": {
+      "instanceId": "uuid:d7d44041-2ef2-4038-bf52-53a322a816af"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Soburun",
+    "region": "South Central",
+    "caption": "Ullamco culpa anim ex nulla"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.17905146908015,
+      2.643628352927044
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "fishing",
+    "impacts": "Harm to community conserved site",
+    "placename": "Westboro Thornport",
+    "today": "2014-02-09",
+    "meta": {
+      "instanceId": "uuid:e0895b1c-1aaf-4e88-8f56-7a5bf17c80d0"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+    },
+    "area": "Tamtoon",
+    "village": "Soburun",
+    "region": "Deep South",
+    "caption": "Magna nisi ullamco id"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.733567324699834,
+      3.0427118862513454
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "tourism",
+    "impacts": "FPIC violation",
+    "placename": "Roosevelt Fontanelle",
+    "today": "2014-09-28",
+    "meta": {
+      "instanceId": "uuid:64f769f5-8e27-47cd-b43f-3844e3c83403"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+    },
+    "area": "Kanowadtao",
+    "village": "Zoopo Naawa",
+    "region": "Deep South",
+    "caption": "Ullamco laborum irure ullamco"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.629726607585326,
+      2.618608421087265
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

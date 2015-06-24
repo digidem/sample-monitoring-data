@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "hunting",
+    "impacts": "Depletion of game",
+    "placename": "Cherokee Campo",
+    "today": "2014-06-09",
+    "meta": {
+      "instanceId": "uuid:bc2753d8-b548-4bc4-a862-544e6c1fa4db"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Soburun",
+    "region": "South Central",
+    "caption": "Ea velit incididunt minim adipisicing"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.27545058960095,
+      2.5491659831255675
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

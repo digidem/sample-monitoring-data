@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "rustling",
+    "impacts": "Water pollution",
+    "placename": "Hoagland Emison",
+    "today": "2014-04-11",
+    "meta": {
+      "instanceId": "uuid:ba2d611d-fbe5-4484-8303-7a25f72ee837"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+    },
+    "area": "Toridukuo",
+    "village": "Achawib",
+    "region": "Deep South",
+    "caption": "Quis id tempor pariatur"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.64734050119296,
+      2.275773893017322
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

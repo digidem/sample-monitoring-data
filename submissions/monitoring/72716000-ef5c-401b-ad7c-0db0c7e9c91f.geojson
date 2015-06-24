@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "fishing",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Dawn Ticonderoga",
+    "today": "2014-07-15",
+    "meta": {
+      "instanceId": "uuid:72716000-ef5c-401b-ad7c-0db0c7e9c91f"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+    },
+    "area": "Essequibo / Chiip Wao",
+    "village": "Aishara Toon",
+    "region": "Deep South",
+    "caption": "Eiusmod laboris incididunt ad dolore"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.87027347786352,
+      2.9053459546063096
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

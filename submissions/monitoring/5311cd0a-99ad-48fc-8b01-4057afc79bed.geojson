@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "grazing",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Springhill Gibsonia",
+    "today": "2014-01-16",
+    "meta": {
+      "instanceId": "uuid:5311cd0a-99ad-48fc-8b01-4057afc79bed"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Parikowaro Naawa",
+    "region": "South Central",
+    "caption": "Quis ipsum qui"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.60294225602411,
+      2.7756277745589615
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

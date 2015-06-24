@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "mining",
+    "impacts": "Deforestation",
+    "placename": "Fairview Dalton",
+    "today": "2014-03-23",
+    "meta": {
+      "instanceId": "uuid:e9dd1f19-4b15-4057-9cd3-826014ee4e81"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Shorinab Mountain Foot",
+    "village": "Shorinab",
+    "region": "Deep South",
+    "caption": "Consectetur consectetur irure adipisicing id"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.2135819834657,
+      2.8885258209425957
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

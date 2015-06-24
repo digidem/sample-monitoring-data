@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "artefacts",
+    "impacts": "Violation of sensitive site",
+    "placename": "Rosine Masthope",
+    "today": "2014-10-12",
+    "meta": {
+      "instanceId": "uuid:7d2adca5-53a1-419b-9eae-70b7b49acde2"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Shii",
+    "region": "South Central",
+    "caption": "Et cillum dolor proident consectetur"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.45737082906999,
+      2.4405755273997785
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

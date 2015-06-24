@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "artefacts",
+    "impacts": "Deforestation",
+    "placename": "Baden Hinsdale",
+    "today": "2014-07-21",
+    "meta": {
+      "instanceId": "uuid:33c9fa9b-9773-4afb-a913-5b1e72996515"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Kosad",
+    "village": "Parikowaro Naawa",
+    "region": "South Central",
+    "caption": "Commodo mollit non"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.99780995445326,
+      2.4673180958721788
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

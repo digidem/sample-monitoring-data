@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "tourism",
+    "impacts": "Depletion of fish",
+    "placename": "Wheaton Cloverdale",
+    "today": "2014-03-23",
+    "meta": {
+      "instanceId": "uuid:afbd58b6-201c-4e8f-9666-d3106f87e488"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Kanowadtao",
+    "village": "Aishara Toon",
+    "region": "South Central",
+    "caption": "Cupidatat Lorem voluptate sit reprehenderit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.783645186340436,
+      2.5341821195557714
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

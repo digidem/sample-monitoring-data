@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "hunting",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Curtice Cobbtown",
+    "today": "2014-07-28",
+    "meta": {
+      "instanceId": "uuid:6035ebdd-5699-49b4-a20c-2bab5df1d72a"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Tamtoon",
+    "village": "Karaodaz Naawa",
+    "region": "Deep South",
+    "caption": "Consequat ipsum tempor non laboris"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.915303035406396,
+      2.9521061337087304
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

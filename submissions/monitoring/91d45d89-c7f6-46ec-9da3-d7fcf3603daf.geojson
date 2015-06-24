@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "artefacts",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Elliston Brogan",
+    "today": "2014-01-13",
+    "meta": {
+      "instanceId": "uuid:91d45d89-c7f6-46ec-9da3-d7fcf3603daf"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Other",
+    "village": "Karaodaz Naawa",
+    "region": "South Central",
+    "caption": "Mollit anim laboris"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.3218189785257,
+      2.1056221431586892
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

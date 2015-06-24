@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "crossing",
+    "impacts": "Damage to farming grounds",
+    "placename": "Salvo Loretto",
+    "today": "2014-04-03",
+    "meta": {
+      "instanceId": "uuid:ee694132-64e5-4598-9c82-c0c0840ede87"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Marora Naawa",
+    "region": "Deep South",
+    "caption": "Aliquip in aute voluptate dolor"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.84528287430294,
+      2.861326178442687
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

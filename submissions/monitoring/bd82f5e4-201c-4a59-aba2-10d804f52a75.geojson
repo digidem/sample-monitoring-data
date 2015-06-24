@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "fishing",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Reinerton Springdale",
+    "today": "2014-10-30",
+    "meta": {
+      "instanceId": "uuid:bd82f5e4-201c-4a59-aba2-10d804f52a75"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Awaru Wao Naawa",
+    "region": "Deep South",
+    "caption": "Deserunt enim do"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.80160998669453,
+      2.175497412122786
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

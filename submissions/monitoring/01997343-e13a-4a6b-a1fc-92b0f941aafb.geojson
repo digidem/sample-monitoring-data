@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "artefacts",
+    "impacts": "FPIC violation",
+    "placename": "Glendale Ona",
+    "today": "2014-11-13",
+    "meta": {
+      "instanceId": "uuid:01997343-e13a-4a6b-a1fc-92b0f941aafb"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+    },
+    "area": "Darichibai",
+    "village": "Shorinab",
+    "region": "Deep South",
+    "caption": "Dolor exercitation quis ut"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.17605002573691,
+      2.422227076860145
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "grazing",
+    "impacts": "Damage to farming grounds",
+    "placename": "Hartsville/Hartley Kerby",
+    "today": "2014-07-19",
+    "meta": {
+      "instanceId": "uuid:7638fa9b-70cb-43ea-9647-cd39db468709"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+    },
+    "area": "Washarar Wao",
+    "village": "Soburun",
+    "region": "Deep South",
+    "caption": "Sit aliqua non irure duis"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.676105013815686,
+      2.242072325805202
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "grazing",
+    "impacts": "Deforestation",
+    "placename": "Coalmont Ernstville",
+    "today": "2014-03-12",
+    "meta": {
+      "instanceId": "uuid:1e349d5c-d7e7-4eaf-bb81-1c895cac4e65"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+    },
+    "area": "Upper Kuyuwini",
+    "village": "Potari Naawa",
+    "region": "Deep South",
+    "caption": "Aliquip qui occaecat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.00297057139687,
+      2.863412719592452
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

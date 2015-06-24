@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "fishing",
+    "impacts": "Violation of sensitive site",
+    "placename": "Devon Canterwood",
+    "today": "2014-03-16",
+    "meta": {
+      "instanceId": "uuid:d28cdadd-a815-4476-8939-b104ef4c87e2"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Awaru Wao Naawa",
+    "region": "South Central",
+    "caption": "Enim elit in laborum in"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.79906748794019,
+      2.8732367829885335
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

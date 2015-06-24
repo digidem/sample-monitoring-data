@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "mining",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Caspar Magnolia",
+    "today": "2014-09-19",
+    "meta": {
+      "instanceId": "uuid:7379afac-5597-4a9c-8bad-a6c38f2b22fe"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+    },
+    "area": "Darichibai",
+    "village": "Aishara Toon",
+    "region": "Deep South",
+    "caption": "Consequat ea consequat anim"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.720132077112794,
+      2.6337976056616754
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

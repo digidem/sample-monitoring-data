@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "other",
+    "impacts": "Water pollution",
+    "placename": "Dundee Lawrence",
+    "today": "2014-01-15",
+    "meta": {
+      "instanceId": "uuid:84aa9b24-6857-45e8-a74c-668f148a4a17"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Shorinab",
+    "region": "South Central",
+    "caption": "Ipsum aute ipsum"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.385352035518736,
+      2.1977798351086677
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

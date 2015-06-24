@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "logging",
+    "impacts": "Depletion of game",
+    "placename": "Edgar Villarreal",
+    "today": "2014-06-19",
+    "meta": {
+      "instanceId": "uuid:59d68a74-ff30-48d7-a69c-53c501534acf"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+    },
+    "area": "Darichibai",
+    "village": "Parikowaro Naawa",
+    "region": "South Central",
+    "caption": "Incididunt Lorem ut nulla nostrud"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.84593734052032,
+      2.481322689820081
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

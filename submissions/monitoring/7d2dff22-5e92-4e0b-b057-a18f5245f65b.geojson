@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "crossing",
+    "impacts": "Harm to community conserved site",
+    "placename": "Adamstown Sexton",
+    "today": "2014-04-18",
+    "meta": {
+      "instanceId": "uuid:7d2dff22-5e92-4e0b-b057-a18f5245f65b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+    },
+    "area": "Kwitaro Head",
+    "village": "Awaru Wao Naawa",
+    "region": "South Central",
+    "caption": "Eu fugiat nisi amet"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.69929304905236,
+      2.6134638706222177
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

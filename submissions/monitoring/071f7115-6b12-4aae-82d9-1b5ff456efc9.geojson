@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "hunting",
+    "impacts": "Water pollution",
+    "placename": "Sena Spelter",
+    "today": "2014-01-11",
+    "meta": {
+      "instanceId": "uuid:071f7115-6b12-4aae-82d9-1b5ff456efc9"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Aishara Toon",
+    "region": "South Central",
+    "caption": "Laboris enim proident amet do"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.48783681844361,
+      2.153082915954292
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

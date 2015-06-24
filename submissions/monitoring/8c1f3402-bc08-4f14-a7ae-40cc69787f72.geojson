@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "mining",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Blodgett Chemung",
+    "today": "2014-06-08",
+    "meta": {
+      "instanceId": "uuid:8c1f3402-bc08-4f14-a7ae-40cc69787f72"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+    },
+    "area": "Raada",
+    "village": "Awaru Wao Naawa",
+    "region": "South Central",
+    "caption": "Minim laboris cillum ex"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.39807371236384,
+      3.021289789257571
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "artefacts",
+    "impacts": "Damage to farming grounds",
+    "placename": "Lorraine Alleghenyville",
+    "today": "2014-09-20",
+    "meta": {
+      "instanceId": "uuid:994a0bb4-20fa-4325-b8ed-b1ebfbc0b4b6"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+    },
+    "area": "Shizizi",
+    "village": "Sawari Wao",
+    "region": "South Central",
+    "caption": "Voluptate culpa cupidatat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.68981477455236,
+      2.215407023113221
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

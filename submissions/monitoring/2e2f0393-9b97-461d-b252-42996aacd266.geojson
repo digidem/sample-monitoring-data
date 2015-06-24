@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "tourism",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Riverton Roberts",
+    "today": "2014-06-07",
+    "meta": {
+      "instanceId": "uuid:2e2f0393-9b97-461d-b252-42996aacd266"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+    },
+    "area": "Shizizi",
+    "village": "Zoopo Naawa",
+    "region": "Deep South",
+    "caption": "Laboris magna ipsum laborum"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.49908869503997,
+      2.2830809619277717
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

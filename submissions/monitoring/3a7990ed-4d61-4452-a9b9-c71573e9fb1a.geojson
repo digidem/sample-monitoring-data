@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "mining",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Choctaw Hartsville/Hartley",
+    "today": "2014-05-28",
+    "meta": {
+      "instanceId": "uuid:3a7990ed-4d61-4452-a9b9-c71573e9fb1a"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+    },
+    "area": "Shizizi",
+    "village": "Aishara Toon",
+    "region": "Deep South",
+    "caption": "Nostrud est anim laboris"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.9791889928747,
+      2.2101552126929165
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

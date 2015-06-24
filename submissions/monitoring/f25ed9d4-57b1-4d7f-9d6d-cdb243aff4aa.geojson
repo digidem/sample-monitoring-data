@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "rustling",
+    "impacts": "Social harm or abuse",
+    "placename": "Tilden Mulino",
+    "today": "2014-09-21",
+    "meta": {
+      "instanceId": "uuid:f25ed9d4-57b1-4d7f-9d6d-cdb243aff4aa"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+    },
+    "area": "Marudi",
+    "village": "Achawib",
+    "region": "South Central",
+    "caption": "Ipsum consectetur labore eu nisi"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.11364095937461,
+      2.458828856609762
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

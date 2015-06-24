@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "mining",
+    "impacts": "Social harm or abuse",
+    "placename": "Bowmansville Eureka",
+    "today": "2014-06-06",
+    "meta": {
+      "instanceId": "uuid:4aeb77e4-bb53-4233-b8e4-6def8b265782"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+    },
+    "area": "Kanowadtao",
+    "village": "Karaodaz Naawa",
+    "region": "South Central",
+    "caption": "Eiusmod incididunt ex"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.465975222410634,
+      2.5671998939011247
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

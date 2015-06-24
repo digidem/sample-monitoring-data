@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "logging",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Norfolk Goodville",
+    "today": "2014-02-03",
+    "meta": {
+      "instanceId": "uuid:262c4241-e701-44c8-8c9a-a9913fada5f1"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Sawari Wao",
+    "region": "Deep South",
+    "caption": "Esse eiusmod proident"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.84418470459059,
+      2.5857863418292255
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

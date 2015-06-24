@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "artefacts",
+    "impacts": "Deforestation",
+    "placename": "Weedville Trona",
+    "today": "2014-12-05",
+    "meta": {
+      "instanceId": "uuid:de54376b-f789-4bbe-a373-a8a1323564ca"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Rii Wao",
+    "village": "Soburun",
+    "region": "South Central",
+    "caption": "Excepteur enim id deserunt elit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.69986598496325,
+      2.253811196098104
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

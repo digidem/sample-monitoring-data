@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "grazing",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Faywood Campo",
+    "today": "2014-03-13",
+    "meta": {
+      "instanceId": "uuid:ce4401bd-0b7f-421c-8f96-b5634c0794bb"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Sawari Wao",
+    "region": "Deep South",
+    "caption": "Elit aliquip minim nisi"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.624520163750276,
+      2.472305407654494
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

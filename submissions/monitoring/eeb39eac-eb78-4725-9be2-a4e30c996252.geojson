@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "tourism",
+    "impacts": "Deforestation",
+    "placename": "Westerville Ebro",
+    "today": "2014-01-29",
+    "meta": {
+      "instanceId": "uuid:eeb39eac-eb78-4725-9be2-a4e30c996252"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Kashiwiizi",
+    "village": "Achawib",
+    "region": "South Central",
+    "caption": "Lorem minim mollit tempor"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.03629338229075,
+      2.579581890627742
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

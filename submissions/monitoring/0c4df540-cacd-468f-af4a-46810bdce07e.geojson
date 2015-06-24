@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "trapping",
+    "impacts": "Deforestation",
+    "placename": "Abiquiu Harborton",
+    "today": "2014-03-22",
+    "meta": {
+      "instanceId": "uuid:0c4df540-cacd-468f-af4a-46810bdce07e"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+    },
+    "area": "Essequibo / Chiip Wao",
+    "village": "Shii",
+    "region": "South Central",
+    "caption": "Veniam dolore dolore voluptate ea"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.01627418841235,
+      2.1223139943555
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

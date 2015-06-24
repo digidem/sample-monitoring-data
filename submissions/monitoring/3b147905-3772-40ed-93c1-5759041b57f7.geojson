@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "other",
+    "impacts": "Violation of sensitive site",
+    "placename": "Outlook Connerton",
+    "today": "2014-06-30",
+    "meta": {
+      "instanceId": "uuid:3b147905-3772-40ed-93c1-5759041b57f7"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+    },
+    "area": "Tamtoon",
+    "village": "Potari Naawa",
+    "region": "South Central",
+    "caption": "Exercitation ad ullamco laborum amet"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.74596204725094,
+      2.406794447125867
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

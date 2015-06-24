@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "other",
+    "impacts": "FPIC violation",
+    "placename": "Sterling Springville",
+    "today": "2014-04-14",
+    "meta": {
+      "instanceId": "uuid:7bbc0adc-bff9-4df7-833d-1863c7be9c6a"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+    },
+    "area": "Darichibai",
+    "village": "Karaodaz Naawa",
+    "region": "Deep South",
+    "caption": "Cillum duis eiusmod consequat exercitation"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.756967511959374,
+      2.5825075732078404
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

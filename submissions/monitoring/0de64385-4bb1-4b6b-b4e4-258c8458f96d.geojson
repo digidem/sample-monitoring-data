@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "trapping",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Collins Detroit",
+    "today": "2014-09-28",
+    "meta": {
+      "instanceId": "uuid:0de64385-4bb1-4b6b-b4e4-258c8458f96d"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Kwitaro Head",
+    "village": "Karaodaz Naawa",
+    "region": "South Central",
+    "caption": "Commodo consequat ullamco"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.75809289002791,
+      2.9216436901129783
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

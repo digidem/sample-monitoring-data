@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "fishing",
+    "impacts": "Harm to community conserved site",
+    "placename": "Marenisco Springdale",
+    "today": "2014-01-12",
+    "meta": {
+      "instanceId": "uuid:fc756391-5c64-4c1e-b9d9-a8570dc876f0"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Aishara Toon",
+    "region": "South Central",
+    "caption": "Voluptate voluptate aliquip enim"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.57600732031278,
+      2.887652667379007
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

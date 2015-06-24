@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "logging",
+    "impacts": "Depletion of game",
+    "placename": "Ronco Bannock",
+    "today": "2014-08-05",
+    "meta": {
+      "instanceId": "uuid:9749a03a-92e0-496c-aed1-c8a5b95a5f6b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Katoonarub",
+    "region": "Deep South",
+    "caption": "Laborum ut reprehenderit quis"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.464553573867306,
+      2.7850561131723226
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

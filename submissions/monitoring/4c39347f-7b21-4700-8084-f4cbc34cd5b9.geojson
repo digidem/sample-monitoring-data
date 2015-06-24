@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "crossing",
+    "impacts": "Depletion of fish",
+    "placename": "Breinigsville Glasgow",
+    "today": "2014-02-06",
+    "meta": {
+      "instanceId": "uuid:4c39347f-7b21-4700-8084-f4cbc34cd5b9"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+    },
+    "area": "Kwitaro Head",
+    "village": "Shii",
+    "region": "Deep South",
+    "caption": "Adipisicing veniam incididunt ea"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.179845846490934,
+      2.4347242132294924
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

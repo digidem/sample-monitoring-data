@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "other",
+    "impacts": "Water poisoned",
+    "placename": "Imperial Caledonia",
+    "today": "2014-06-12",
+    "meta": {
+      "instanceId": "uuid:344edfae-4f49-4065-9857-cc052ba7f8dc"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Parikowaro Naawa",
+    "region": "Deep South",
+    "caption": "Fugiat consequat ad dolor dolor"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.728414905490354,
+      2.9364927899092437
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

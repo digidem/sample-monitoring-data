@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "artefacts",
+    "impacts": "Water poisoned",
+    "placename": "Russellville Gardiner",
+    "today": "2014-06-20",
+    "meta": {
+      "instanceId": "uuid:dc583493-1d72-4871-b70e-ddd663cd85d6"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Aishara Toon",
+    "region": "Deep South",
+    "caption": "Veniam est sunt"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.08693260862492,
+      2.6842221402563156
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

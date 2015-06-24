@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "grazing",
+    "impacts": "Deforestation",
+    "placename": "Sparkill Torboy",
+    "today": "2014-02-08",
+    "meta": {
+      "instanceId": "uuid:553d2c23-732c-4c24-935c-5342b0d49694"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Zoopo Naawa",
+    "region": "Deep South",
+    "caption": "Dolor excepteur aliquip officia"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.553819477325305,
+      2.315879283612594
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

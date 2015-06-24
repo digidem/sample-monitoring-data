@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "trapping",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Croom Jacumba",
+    "today": "2014-03-07",
+    "meta": {
+      "instanceId": "uuid:cb54f547-4906-42b5-88e4-b03697113ba7"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Bakawadataawa",
+    "village": "Parikowaro Naawa",
+    "region": "Deep South",
+    "caption": "Commodo amet cupidatat nisi ad"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.88014235952869,
+      3.0094066084362567
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "mining",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Conway Greenock",
+    "today": "2014-11-22",
+    "meta": {
+      "instanceId": "uuid:4e10e24d-d3be-4f55-93df-ec3369e352e2"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Other",
+    "village": "Shii",
+    "region": "South Central",
+    "caption": "Cillum officia aliquip"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.812517672311515,
+      2.4066814329940827
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

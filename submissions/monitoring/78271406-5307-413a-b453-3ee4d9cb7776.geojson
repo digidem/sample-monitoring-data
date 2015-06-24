@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "fishing",
+    "impacts": "Social harm or abuse",
+    "placename": "Welda Cutter",
+    "today": "2014-02-12",
+    "meta": {
+      "instanceId": "uuid:78271406-5307-413a-b453-3ee4d9cb7776"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Raada",
+    "village": "Shii",
+    "region": "Deep South",
+    "caption": "Occaecat nostrud cillum est proident"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.79845950519666,
+      2.4826766363345087
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

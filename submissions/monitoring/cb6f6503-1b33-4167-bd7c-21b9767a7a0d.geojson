@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "logging",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Hilltop Collins",
+    "today": "2014-01-16",
+    "meta": {
+      "instanceId": "uuid:cb6f6503-1b33-4167-bd7c-21b9767a7a0d"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+    },
+    "area": "Kashiwiizi",
+    "village": "Potari Naawa",
+    "region": "Deep South",
+    "caption": "Ipsum nulla nostrud quis"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.68400786491111,
+      2.9360178796574474
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

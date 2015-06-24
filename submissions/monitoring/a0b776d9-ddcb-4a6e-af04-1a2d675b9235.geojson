@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "grazing",
+    "impacts": "Water pollution",
+    "placename": "Wanship Washington",
+    "today": "2014-02-21",
+    "meta": {
+      "instanceId": "uuid:a0b776d9-ddcb-4a6e-af04-1a2d675b9235"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+    },
+    "area": "Kashiwiizi",
+    "village": "Potari Naawa",
+    "region": "South Central",
+    "caption": "Lorem excepteur minim magna"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.445433230604976,
+      2.6851729335263372
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

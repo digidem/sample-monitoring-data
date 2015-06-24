@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "grazing",
+    "impacts": "FPIC violation",
+    "placename": "Homeland Mapletown",
+    "today": "2014-02-25",
+    "meta": {
+      "instanceId": "uuid:25c614be-8520-4e10-8f11-ecee3a47e8d1"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+    },
+    "area": "Darichibai",
+    "village": "Shii",
+    "region": "South Central",
+    "caption": "Proident aliqua cillum eiusmod"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.9493670896627,
+      2.4000979851931334
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

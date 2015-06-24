@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "trapping",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Chilton Dunbar",
+    "today": "2014-12-06",
+    "meta": {
+      "instanceId": "uuid:0019a1a5-e09b-49fb-bb48-52de581785f8"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Zoopo Naawa",
+    "region": "Deep South",
+    "caption": "Magna incididunt deserunt et amet"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.211536928778514,
+      2.2638132752850653
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

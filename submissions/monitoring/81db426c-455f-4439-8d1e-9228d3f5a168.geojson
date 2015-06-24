@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "grazing",
+    "impacts": "Water pollution",
+    "placename": "Cresaptown Hollins",
+    "today": "2014-03-10",
+    "meta": {
+      "instanceId": "uuid:81db426c-455f-4439-8d1e-9228d3f5a168"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+    },
+    "area": "Rii Wao",
+    "village": "Sawari Wao",
+    "region": "South Central",
+    "caption": "Ipsum dolore qui magna"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.170450523495674,
+      2.8891736186575145
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

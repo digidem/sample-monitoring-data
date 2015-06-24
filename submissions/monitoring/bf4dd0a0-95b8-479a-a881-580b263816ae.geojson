@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "logging",
+    "impacts": "Damage to farming grounds",
+    "placename": "Stagecoach Olney",
+    "today": "2014-12-15",
+    "meta": {
+      "instanceId": "uuid:bf4dd0a0-95b8-479a-a881-580b263816ae"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Kwitaro Head",
+    "village": "Parikowaro Naawa",
+    "region": "Deep South",
+    "caption": "Reprehenderit pariatur consequat ullamco"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.83631350635551,
+      2.1720310581382365
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

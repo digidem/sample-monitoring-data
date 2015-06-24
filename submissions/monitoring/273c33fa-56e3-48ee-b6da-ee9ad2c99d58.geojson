@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "other",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Zarephath Highland",
+    "today": "2014-09-21",
+    "meta": {
+      "instanceId": "uuid:273c33fa-56e3-48ee-b6da-ee9ad2c99d58"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Kamodukuo",
+    "village": "Shii",
+    "region": "South Central",
+    "caption": "Et ut culpa aliquip est"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.45723251556046,
+      3.080924287578091
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

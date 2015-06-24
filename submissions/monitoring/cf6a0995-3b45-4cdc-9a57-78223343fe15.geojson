@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "crossing",
+    "impacts": "Deforestation",
+    "placename": "Bath Waukeenah",
+    "today": "2014-03-14",
+    "meta": {
+      "instanceId": "uuid:cf6a0995-3b45-4cdc-9a57-78223343fe15"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+    },
+    "area": "Kwitaro Head",
+    "village": "Sawari Wao",
+    "region": "Deep South",
+    "caption": "Minim esse cillum"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.40065990225412,
+      2.3182204879354686
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

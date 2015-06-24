@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "rustling",
+    "impacts": "Water poisoned",
+    "placename": "Succasunna Beechmont",
+    "today": "2014-07-05",
+    "meta": {
+      "instanceId": "uuid:e62ef24b-7b36-4a35-9c40-8f9049341d40"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+    },
+    "area": "Washarar Wao",
+    "village": "Achawib",
+    "region": "South Central",
+    "caption": "Ex duis pariatur deserunt"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.75345570431091,
+      2.6599821822252125
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "trapping",
+    "impacts": "Depletion of fish",
+    "placename": "Bagtown Nicut",
+    "today": "2014-06-12",
+    "meta": {
+      "instanceId": "uuid:72320aba-613e-466e-b29f-ea73d215c971"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Parobaz",
+    "region": "South Central",
+    "caption": "Ut eiusmod culpa consectetur"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.485143375815824,
+      2.3943805544637145
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

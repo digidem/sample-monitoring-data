@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "tourism",
+    "impacts": "Damage to farming grounds",
+    "placename": "Kenwood Darlington",
+    "today": "2014-12-29",
+    "meta": {
+      "instanceId": "uuid:929dfa4f-ab23-48ac-88a9-ec0afbf70eb8"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+    },
+    "area": "Upper Takatu",
+    "village": "Achawib",
+    "region": "South Central",
+    "caption": "Id sint exercitation Lorem"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.45966267911717,
+      2.7252269835677
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

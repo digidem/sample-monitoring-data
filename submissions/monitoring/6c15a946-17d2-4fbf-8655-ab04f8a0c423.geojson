@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "artefacts",
+    "impacts": "Deforestation",
+    "placename": "Fairforest Frystown",
+    "today": "2014-01-30",
+    "meta": {
+      "instanceId": "uuid:6c15a946-17d2-4fbf-8655-ab04f8a0c423"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+    },
+    "area": "Raada",
+    "village": "Shorinab",
+    "region": "South Central",
+    "caption": "Sit non aute incididunt exercitation"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.822976416675374,
+      2.606227614823729
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

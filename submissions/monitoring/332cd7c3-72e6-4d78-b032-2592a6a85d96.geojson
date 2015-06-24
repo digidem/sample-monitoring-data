@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "mining",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Gracey Mahtowa",
+    "today": "2014-10-14",
+    "meta": {
+      "instanceId": "uuid:332cd7c3-72e6-4d78-b032-2592a6a85d96"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Parobaz",
+    "region": "South Central",
+    "caption": "Anim aute mollit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.86929471464828,
+      2.955937818530947
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

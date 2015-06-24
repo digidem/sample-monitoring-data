@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "tourism",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Beason Robinette",
+    "today": "2014-01-13",
+    "meta": {
+      "instanceId": "uuid:9b44046b-be12-4544-8f55-4f075e0d6c98"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Toridukuo",
+    "village": "Marora Naawa",
+    "region": "South Central",
+    "caption": "Excepteur id irure nulla veniam"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.64305043616332,
+      2.6794316534884275
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "mining",
+    "impacts": "Depletion of fish",
+    "placename": "Hiko Boling",
+    "today": "2014-03-25",
+    "meta": {
+      "instanceId": "uuid:6fc1bb1a-a5d8-42ec-b0ce-a1179281fdc7"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Awaru Wao Naawa",
+    "region": "Deep South",
+    "caption": "Nostrud veniam est est id"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.18824922037311,
+      2.4773769489489497
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

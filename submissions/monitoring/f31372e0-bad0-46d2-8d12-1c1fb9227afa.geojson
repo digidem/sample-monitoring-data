@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "artefacts",
+    "impacts": "Depletion of fish",
+    "placename": "Cassel Richmond",
+    "today": "2014-10-06",
+    "meta": {
+      "instanceId": "uuid:f31372e0-bad0-46d2-8d12-1c1fb9227afa"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Karaodaz Naawa",
+    "region": "Deep South",
+    "caption": "Ullamco anim eu minim"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.49151730700396,
+      2.307498722476885
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

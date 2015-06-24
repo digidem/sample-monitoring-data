@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "fishing",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Masthope Grazierville",
+    "today": "2014-05-26",
+    "meta": {
+      "instanceId": "uuid:e82a189f-859c-431d-8857-2fc94e5dd67b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Toridukuo",
+    "village": "Marora Naawa",
+    "region": "Deep South",
+    "caption": "Excepteur consequat eiusmod laborum fugiat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.820894073462114,
+      2.6943828695453704
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

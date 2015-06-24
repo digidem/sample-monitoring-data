@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "grazing",
+    "impacts": "Depletion of fish",
+    "placename": "Westmoreland Spokane",
+    "today": "2014-02-02",
+    "meta": {
+      "instanceId": "uuid:cee13874-9c7d-49f1-b573-988957cdbc56"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+    },
+    "area": "Essequibo / Chiip Wao",
+    "village": "Katoonarub",
+    "region": "Deep South",
+    "caption": "Qui excepteur laborum magna"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.710791242774576,
+      2.2865486772730947
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "logging",
+    "impacts": "Harm to community conserved site",
+    "placename": "Cleary Harleigh",
+    "today": "2014-12-24",
+    "meta": {
+      "instanceId": "uuid:eb589949-f394-4a0b-8c45-f1b25b45137a"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Kwitaro Head",
+    "village": "Marora Naawa",
+    "region": "South Central",
+    "caption": "Excepteur dolore nulla deserunt"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.07225079508498,
+      2.3787368851713837
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

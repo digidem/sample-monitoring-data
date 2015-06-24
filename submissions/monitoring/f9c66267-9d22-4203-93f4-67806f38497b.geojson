@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "mining",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Lisco Sabillasville",
+    "today": "2014-10-12",
+    "meta": {
+      "instanceId": "uuid:f9c66267-9d22-4203-93f4-67806f38497b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+    },
+    "area": "Other",
+    "village": "Parobaz",
+    "region": "South Central",
+    "caption": "Quis ullamco officia commodo"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.219728608615696,
+      2.8270592965651304
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

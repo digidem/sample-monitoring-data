@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "artefacts",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Elbert Whipholt",
+    "today": "2014-06-11",
+    "meta": {
+      "instanceId": "uuid:b0696130-eb33-4d2c-addb-2a7b34642763"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Upper Kuyuwini",
+    "village": "Awaru Wao Naawa",
+    "region": "Deep South",
+    "caption": "Ea veniam laboris ut aute"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.419472477864474,
+      2.611553770629689
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "fishing",
+    "impacts": "Damage to farming grounds",
+    "placename": "Leyner Somerset",
+    "today": "2014-04-17",
+    "meta": {
+      "instanceId": "uuid:6b38a6e3-b7df-4c4e-a1b0-fbcf8d773d54"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Kosad",
+    "village": "Potari Naawa",
+    "region": "Deep South",
+    "caption": "In incididunt occaecat pariatur ut"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.779452027287334,
+      2.1833937390707434
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

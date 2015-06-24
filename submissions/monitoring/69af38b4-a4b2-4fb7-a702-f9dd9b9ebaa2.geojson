@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "tourism",
+    "impacts": "Depletion of game",
+    "placename": "Epworth Taft",
+    "today": "2014-04-17",
+    "meta": {
+      "instanceId": "uuid:69af38b4-a4b2-4fb7-a702-f9dd9b9ebaa2"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Marudi",
+    "village": "Parobaz",
+    "region": "South Central",
+    "caption": "Do laborum mollit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.97162444493733,
+      2.2830180289689452
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

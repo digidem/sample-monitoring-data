@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "logging",
+    "impacts": "Harm to community conserved site",
+    "placename": "Wyano Dotsero",
+    "today": "2014-02-26",
+    "meta": {
+      "instanceId": "uuid:bd9d1801-24af-48d5-90ea-989401d09c38"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Washarar Wao",
+    "village": "Shii",
+    "region": "Deep South",
+    "caption": "Pariatur quis aute aute"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.16856022388674,
+      2.1109489543829114
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

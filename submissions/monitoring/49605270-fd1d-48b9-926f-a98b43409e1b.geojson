@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "rustling",
+    "impacts": "Violation of sensitive site",
+    "placename": "Fedora Evergreen",
+    "today": "2014-11-14",
+    "meta": {
+      "instanceId": "uuid:49605270-fd1d-48b9-926f-a98b43409e1b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Achawib",
+    "region": "South Central",
+    "caption": "Eiusmod Lorem qui aliqua velit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.89131696289405,
+      2.189248635340482
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

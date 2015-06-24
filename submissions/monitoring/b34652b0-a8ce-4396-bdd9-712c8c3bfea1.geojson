@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "hunting",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Faxon Cumberland",
+    "today": "2014-11-27",
+    "meta": {
+      "instanceId": "uuid:b34652b0-a8ce-4396-bdd9-712c8c3bfea1"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+    },
+    "area": "Other",
+    "village": "Sawari Wao",
+    "region": "South Central",
+    "caption": "Exercitation veniam adipisicing"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.03926588851027,
+      2.560054287221283
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

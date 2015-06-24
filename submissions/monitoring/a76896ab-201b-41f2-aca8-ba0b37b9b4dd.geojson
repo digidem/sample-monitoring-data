@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "hunting",
+    "impacts": "Harm to community conserved site",
+    "placename": "Sugartown Curtice",
+    "today": "2014-12-31",
+    "meta": {
+      "instanceId": "uuid:a76896ab-201b-41f2-aca8-ba0b37b9b4dd"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Essequibo / Chiip Wao",
+    "village": "Awaru Wao Naawa",
+    "region": "Deep South",
+    "caption": "Sint labore exercitation eiusmod"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.56480317097157,
+      3.039822276122868
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

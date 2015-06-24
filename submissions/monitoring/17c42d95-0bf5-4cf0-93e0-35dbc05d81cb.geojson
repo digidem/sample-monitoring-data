@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "trapping",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Ironton Eagletown",
+    "today": "2014-11-20",
+    "meta": {
+      "instanceId": "uuid:17c42d95-0bf5-4cf0-93e0-35dbc05d81cb"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Upper Kuyuwini",
+    "village": "Aishara Toon",
+    "region": "South Central",
+    "caption": "Commodo labore quis"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.80231480230577,
+      2.269299620203674
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

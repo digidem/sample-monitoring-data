@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "other",
+    "impacts": "Water pollution",
+    "placename": "Stewart Harrison",
+    "today": "2014-05-14",
+    "meta": {
+      "instanceId": "uuid:5ca1557f-8095-486d-9fdc-e2a1258caf8b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Shorinab",
+    "region": "South Central",
+    "caption": "Incididunt sunt qui"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.95647707604803,
+      2.365750813065097
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "grazing",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Bayview Sattley",
+    "today": "2014-04-06",
+    "meta": {
+      "instanceId": "uuid:ade06157-53fc-4f0e-b4af-5909cde3c317"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Marudi",
+    "village": "Sawari Wao",
+    "region": "Deep South",
+    "caption": "Cupidatat nulla non"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.58421396277845,
+      2.9829863546416164
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

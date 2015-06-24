@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "tourism",
+    "impacts": "FPIC violation",
+    "placename": "Golconda Trexlertown",
+    "today": "2014-03-12",
+    "meta": {
+      "instanceId": "uuid:75f28459-a1b3-4257-88e9-dcda498df426"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+    },
+    "area": "Mamidi",
+    "village": "Awaru Wao Naawa",
+    "region": "Deep South",
+    "caption": "Nulla veniam magna eiusmod tempor"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.49636513972655,
+      2.6169630746822805
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

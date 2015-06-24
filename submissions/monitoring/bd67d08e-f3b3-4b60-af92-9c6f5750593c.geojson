@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "trapping",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Graniteville Babb",
+    "today": "2014-08-26",
+    "meta": {
+      "instanceId": "uuid:bd67d08e-f3b3-4b60-af92-9c6f5750593c"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+    },
+    "area": "Kamodukuo",
+    "village": "Awaru Wao Naawa",
+    "region": "South Central",
+    "caption": "Et nisi reprehenderit exercitation"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.86806549364701,
+      2.893249580077827
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

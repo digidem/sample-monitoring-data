@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "logging",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Sunriver Sylvanite",
+    "today": "2014-07-31",
+    "meta": {
+      "instanceId": "uuid:54617f0f-2a11-4759-908b-4588a5b4517f"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+    },
+    "area": "Darichibai",
+    "village": "Marora Naawa",
+    "region": "South Central",
+    "caption": "Cillum consectetur aliqua officia"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.192968126619235,
+      2.5112625259440393
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

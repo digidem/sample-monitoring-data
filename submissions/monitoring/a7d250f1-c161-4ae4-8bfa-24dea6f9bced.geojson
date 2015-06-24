@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "logging",
+    "impacts": "FPIC violation",
+    "placename": "Talpa Leroy",
+    "today": "2014-10-14",
+    "meta": {
+      "instanceId": "uuid:a7d250f1-c161-4ae4-8bfa-24dea6f9bced"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Zoopo Naawa",
+    "region": "Deep South",
+    "caption": "Et dolore dolor Lorem"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.051293982658535,
+      2.469188223266974
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "trapping",
+    "impacts": "Violation of sensitive site",
+    "placename": "Bakersville Waukeenah",
+    "today": "2014-08-19",
+    "meta": {
+      "instanceId": "uuid:9a6a787d-ac4d-41df-8118-18fcbd990b51"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+    },
+    "area": "Essequibo / Chiip Wao",
+    "village": "Sawari Wao",
+    "region": "South Central",
+    "caption": "Eiusmod Lorem laborum ad"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.78847100958228,
+      2.21071459739469
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

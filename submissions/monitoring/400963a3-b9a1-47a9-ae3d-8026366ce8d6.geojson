@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "grazing",
+    "impacts": "Violation of sensitive site",
+    "placename": "Wanamie Grapeview",
+    "today": "2014-08-22",
+    "meta": {
+      "instanceId": "uuid:400963a3-b9a1-47a9-ae3d-8026366ce8d6"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+    },
+    "area": "Tamtoon",
+    "village": "Aishara Toon",
+    "region": "Deep South",
+    "caption": "Excepteur elit ea duis amet"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.1875415223185,
+      2.5568077684380115
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

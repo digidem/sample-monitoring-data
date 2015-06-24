@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "mining",
+    "impacts": "Water poisoned",
+    "placename": "Fillmore Whipholt",
+    "today": "2014-11-25",
+    "meta": {
+      "instanceId": "uuid:31e6c066-f9ce-4ed1-8d55-b65b82af7f27"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Korowin",
+    "village": "Marora Naawa",
+    "region": "South Central",
+    "caption": "Commodo tempor nostrud officia eu"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.49987417925149,
+      2.9967476189136506
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

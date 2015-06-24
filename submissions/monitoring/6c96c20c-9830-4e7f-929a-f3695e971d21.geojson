@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "rustling",
+    "impacts": "Water poisoned",
+    "placename": "Catharine Dante",
+    "today": "2014-09-04",
+    "meta": {
+      "instanceId": "uuid:6c96c20c-9830-4e7f-929a-f3695e971d21"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Marora Naawa",
+    "region": "South Central",
+    "caption": "Excepteur nisi sint"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.01129959174432,
+      2.7152290999889375
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

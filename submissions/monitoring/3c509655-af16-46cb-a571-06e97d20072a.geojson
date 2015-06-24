@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "grazing",
+    "impacts": "Water poisoned",
+    "placename": "Boonville Loma",
+    "today": "2014-01-16",
+    "meta": {
+      "instanceId": "uuid:3c509655-af16-46cb-a571-06e97d20072a"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Mamidi",
+    "village": "Parobaz",
+    "region": "South Central",
+    "caption": "Sit qui aute"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.69725493132137,
+      2.9286302129272372
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

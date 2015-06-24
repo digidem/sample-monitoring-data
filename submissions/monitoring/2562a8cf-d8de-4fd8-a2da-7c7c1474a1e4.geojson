@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "hunting",
+    "impacts": "Deforestation",
+    "placename": "Frierson Why",
+    "today": "2014-01-04",
+    "meta": {
+      "instanceId": "uuid:2562a8cf-d8de-4fd8-a2da-7c7c1474a1e4"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+    },
+    "area": "Darichibai",
+    "village": "Shorinab",
+    "region": "South Central",
+    "caption": "In mollit laboris"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.68034057924524,
+      2.9709168329369278
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

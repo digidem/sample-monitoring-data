@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "fishing",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Bloomington Cumminsville",
+    "today": "2014-01-25",
+    "meta": {
+      "instanceId": "uuid:84340f81-f6da-42dd-a159-6523210f5f7b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Kamodukuo",
+    "village": "Shorinab",
+    "region": "South Central",
+    "caption": "Elit sunt laborum id"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.17076483205892,
+      2.446708742901683
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

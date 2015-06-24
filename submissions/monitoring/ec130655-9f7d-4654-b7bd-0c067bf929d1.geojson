@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "logging",
+    "impacts": "Social harm or abuse",
+    "placename": "Como Cetronia",
+    "today": "2014-04-10",
+    "meta": {
+      "instanceId": "uuid:ec130655-9f7d-4654-b7bd-0c067bf929d1"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+    },
+    "area": "Upper Kuyuwini",
+    "village": "Achawib",
+    "region": "South Central",
+    "caption": "Adipisicing nulla in mollit sit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.011556793702766,
+      2.255175801133737
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "trapping",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Deseret Cliffside",
+    "today": "2014-03-05",
+    "meta": {
+      "instanceId": "uuid:3c221c47-dc27-44e1-8fb8-9d9c7851ccc1"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Raada",
+    "village": "Potari Naawa",
+    "region": "South Central",
+    "caption": "Aliquip elit amet"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.53614972019568,
+      3.0333297666162253
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "tourism",
+    "impacts": "Depletion of fish",
+    "placename": "Hiseville Hebron",
+    "today": "2014-05-22",
+    "meta": {
+      "instanceId": "uuid:5906ef0d-cd64-4e63-86f9-eaa5e02d084f"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+    },
+    "area": "Essequibo / Chiip Wao",
+    "village": "Aishara Toon",
+    "region": "South Central",
+    "caption": "Ad irure non occaecat proident"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.25167944794521,
+      2.907382412487641
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

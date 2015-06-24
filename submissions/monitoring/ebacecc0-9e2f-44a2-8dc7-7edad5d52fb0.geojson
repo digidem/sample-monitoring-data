@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "crossing",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Elbert Manchester",
+    "today": "2014-11-30",
+    "meta": {
+      "instanceId": "uuid:ebacecc0-9e2f-44a2-8dc7-7edad5d52fb0"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Potari Naawa",
+    "region": "South Central",
+    "caption": "Cillum nisi est"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.63859404693358,
+      2.675879372190684
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

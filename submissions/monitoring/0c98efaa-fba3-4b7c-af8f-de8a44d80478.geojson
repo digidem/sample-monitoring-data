@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "tourism",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Mapletown Westmoreland",
+    "today": "2014-09-14",
+    "meta": {
+      "instanceId": "uuid:0c98efaa-fba3-4b7c-af8f-de8a44d80478"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Katoonarub",
+    "region": "South Central",
+    "caption": "Pariatur in velit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.36303565418348,
+      2.2247418231796474
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

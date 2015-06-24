@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "mining",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Kirk Laurelton",
+    "today": "2014-04-06",
+    "meta": {
+      "instanceId": "uuid:533895c5-4722-4f18-b8de-136521d78436"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Shorinab",
+    "region": "South Central",
+    "caption": "Nulla velit occaecat cillum minim"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.315389732597396,
+      2.35152200111188
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

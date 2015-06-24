@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "artefacts",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Lowgap Tuskahoma",
+    "today": "2014-06-21",
+    "meta": {
+      "instanceId": "uuid:2c4b7628-e256-4a87-8552-ad8e8bd2a94b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+    },
+    "area": "Other",
+    "village": "Karaodaz Naawa",
+    "region": "South Central",
+    "caption": "Sunt quis anim"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.52612611022778,
+      2.3985606810543687
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

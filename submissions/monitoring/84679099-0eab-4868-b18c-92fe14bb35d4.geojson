@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "crossing",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Chumuckla Westphalia",
+    "today": "2014-03-21",
+    "meta": {
+      "instanceId": "uuid:84679099-0eab-4868-b18c-92fe14bb35d4"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Shii",
+    "region": "Deep South",
+    "caption": "Id nostrud deserunt"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.22364106797613,
+      2.2097483946941794
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

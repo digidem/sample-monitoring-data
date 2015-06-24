@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "tourism",
+    "impacts": "Depletion of fish",
+    "placename": "Lumberton Camas",
+    "today": "2014-10-23",
+    "meta": {
+      "instanceId": "uuid:2553928b-9bc2-4b0a-89c6-967e5b7451f7"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+    },
+    "area": "Upper Kuyuwini",
+    "village": "Potari Naawa",
+    "region": "South Central",
+    "caption": "Aliquip duis exercitation non culpa"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.447405386250466,
+      2.436182774277404
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "artefacts",
+    "impacts": "Harm to community conserved site",
+    "placename": "Courtland Greenock",
+    "today": "2014-01-07",
+    "meta": {
+      "instanceId": "uuid:6588d30b-0300-4e67-8e42-8f7aa61a5b5d"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Marudi",
+    "village": "Potari Naawa",
+    "region": "Deep South",
+    "caption": "Ad commodo velit non"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.423651413060725,
+      2.872016653092578
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "artefacts",
+    "impacts": "Water poisoned",
+    "placename": "Norris Thomasville",
+    "today": "2014-02-21",
+    "meta": {
+      "instanceId": "uuid:7c208f4d-ce2d-4e64-8299-6dd71d91f0ea"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Karaodaz Naawa",
+    "region": "Deep South",
+    "caption": "Ipsum quis laboris ad culpa"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.63028427166864,
+      2.115143120661378
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

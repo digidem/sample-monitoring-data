@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "rustling",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Crenshaw Mahtowa",
+    "today": "2014-06-06",
+    "meta": {
+      "instanceId": "uuid:8b1aa3fb-ba56-489a-ba7c-5f2eb857f105"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Sawari Wao",
+    "region": "South Central",
+    "caption": "Sit nulla culpa"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.67362249200232,
+      2.6632976293563844
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

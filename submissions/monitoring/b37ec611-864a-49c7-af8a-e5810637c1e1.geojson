@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "tourism",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Chase Longoria",
+    "today": "2014-09-26",
+    "meta": {
+      "instanceId": "uuid:b37ec611-864a-49c7-af8a-e5810637c1e1"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Shii",
+    "region": "Deep South",
+    "caption": "Magna qui velit amet"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.82946873130277,
+      2.90574834975414
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

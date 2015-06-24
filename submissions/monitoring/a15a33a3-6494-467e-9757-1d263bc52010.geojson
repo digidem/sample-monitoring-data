@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "grazing",
+    "impacts": "Depletion of fish",
+    "placename": "Bluffview Brewster",
+    "today": "2014-06-06",
+    "meta": {
+      "instanceId": "uuid:a15a33a3-6494-467e-9757-1d263bc52010"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Kamodukuo",
+    "village": "Zoopo Naawa",
+    "region": "Deep South",
+    "caption": "Incididunt sunt aute culpa"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.79629339161329,
+      2.5537010760977865
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "rustling",
+    "impacts": "Violation of sensitive site",
+    "placename": "Balm Edinburg",
+    "today": "2014-05-18",
+    "meta": {
+      "instanceId": "uuid:42821554-dfd5-41f3-b118-538ffc87b6bd"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Sawari Wao",
+    "region": "Deep South",
+    "caption": "Dolore commodo magna cupidatat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.44661287497729,
+      2.948077350994572
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

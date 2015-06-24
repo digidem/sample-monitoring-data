@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "hunting",
+    "impacts": "Water pollution",
+    "placename": "Tecolotito Brule",
+    "today": "2014-12-07",
+    "meta": {
+      "instanceId": "uuid:d81160c4-e37e-4109-8860-2de776f30e21"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+    },
+    "area": "Bakawadataawa",
+    "village": "Marora Naawa",
+    "region": "Deep South",
+    "caption": "Exercitation ad amet cupidatat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.00114780291915,
+      3.065483279665932
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

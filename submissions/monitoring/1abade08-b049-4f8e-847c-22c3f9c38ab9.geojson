@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "tourism",
+    "impacts": "Deforestation",
+    "placename": "Waumandee Loretto",
+    "today": "2014-01-28",
+    "meta": {
+      "instanceId": "uuid:1abade08-b049-4f8e-847c-22c3f9c38ab9"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Lower Takatu",
+    "village": "Awaru Wao Naawa",
+    "region": "Deep South",
+    "caption": "Amet quis labore sunt"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.10926979291253,
+      2.7447531622834505
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

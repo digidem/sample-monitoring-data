@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "logging",
+    "impacts": "Social harm or abuse",
+    "placename": "Brambleton Garfield",
+    "today": "2014-02-16",
+    "meta": {
+      "instanceId": "uuid:b84d357a-9b82-4c8e-bee7-d40717be229b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Tamtoon",
+    "village": "Marora Naawa",
+    "region": "South Central",
+    "caption": "Ut deserunt veniam occaecat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.35134224849753,
+      2.4705189088359476
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

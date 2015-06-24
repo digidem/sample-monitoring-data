@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "trapping",
+    "impacts": "Water pollution",
+    "placename": "Zarephath Rosine",
+    "today": "2014-07-15",
+    "meta": {
+      "instanceId": "uuid:f81ff1c7-4cdf-4816-aa81-11c1c54f193a"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Kanowadtao",
+    "village": "Zoopo Naawa",
+    "region": "South Central",
+    "caption": "Est in sunt eiusmod"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.988525587832555,
+      2.6252162020187826
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

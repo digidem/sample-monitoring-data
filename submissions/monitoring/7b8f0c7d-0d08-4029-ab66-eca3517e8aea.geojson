@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "fishing",
+    "impacts": "Violation of sensitive site",
+    "placename": "Sims Thermal",
+    "today": "2014-03-11",
+    "meta": {
+      "instanceId": "uuid:7b8f0c7d-0d08-4029-ab66-eca3517e8aea"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Parikowaro Naawa",
+    "region": "South Central",
+    "caption": "Sit id esse deserunt"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.98021487775259,
+      2.8771639400161804
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

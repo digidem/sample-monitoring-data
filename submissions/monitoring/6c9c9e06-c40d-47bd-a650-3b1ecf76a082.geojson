@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "artefacts",
+    "impacts": "Water poisoned",
+    "placename": "Accoville Lemoyne",
+    "today": "2014-12-11",
+    "meta": {
+      "instanceId": "uuid:6c9c9e06-c40d-47bd-a650-3b1ecf76a082"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Shii",
+    "region": "Deep South",
+    "caption": "Est aliquip in"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.29449783475138,
+      3.0245376356411726
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

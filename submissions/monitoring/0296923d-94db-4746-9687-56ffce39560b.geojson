@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "crossing",
+    "impacts": "Water poisoned",
+    "placename": "Wolcott Bascom",
+    "today": "2014-06-28",
+    "meta": {
+      "instanceId": "uuid:0296923d-94db-4746-9687-56ffce39560b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Lower Takatu",
+    "village": "Shorinab",
+    "region": "Deep South",
+    "caption": "Irure occaecat occaecat non esse"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.16581757366657,
+      2.961407095566392
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "hunting",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Williston Brookfield",
+    "today": "2014-11-01",
+    "meta": {
+      "instanceId": "uuid:64833de5-ecb5-4321-8afc-cd0a6b19becc"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Kosad",
+    "village": "Achawib",
+    "region": "South Central",
+    "caption": "Veniam aute voluptate occaecat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.38852911791764,
+      2.4786259801127017
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

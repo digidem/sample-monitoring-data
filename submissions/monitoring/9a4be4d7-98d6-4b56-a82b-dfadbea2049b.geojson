@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "artefacts",
+    "impacts": "Violation of sensitive site",
+    "placename": "Wheaton Cowiche",
+    "today": "2014-06-02",
+    "meta": {
+      "instanceId": "uuid:9a4be4d7-98d6-4b56-a82b-dfadbea2049b"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Potari Naawa",
+    "region": "South Central",
+    "caption": "Do ullamco culpa aliquip"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.58869764441624,
+      2.122154209204018
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

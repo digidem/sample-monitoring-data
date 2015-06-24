@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "logging",
+    "impacts": "Damage to farming grounds",
+    "placename": "Efland Day",
+    "today": "2014-07-21",
+    "meta": {
+      "instanceId": "uuid:3a4ea137-3142-4f05-bc2d-e0042e171f68"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+    },
+    "area": "Rii Wao",
+    "village": "Aishara Toon",
+    "region": "South Central",
+    "caption": "Occaecat aute amet"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.345425345003605,
+      2.597758137062192
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

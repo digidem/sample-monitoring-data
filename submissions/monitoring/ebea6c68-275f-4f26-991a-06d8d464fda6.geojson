@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "other",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Coventry Longoria",
+    "today": "2014-08-20",
+    "meta": {
+      "instanceId": "uuid:ebea6c68-275f-4f26-991a-06d8d464fda6"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+    },
+    "area": "Bakawadataawa",
+    "village": "Marora Naawa",
+    "region": "Deep South",
+    "caption": "Esse proident ipsum"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.694915662752464,
+      2.329925661813468
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "hunting",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Walland Fairforest",
+    "today": "2014-02-28",
+    "meta": {
+      "instanceId": "uuid:78e3bb1c-95a7-4934-a03d-c6f7f2fc3c33"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Katoonarub",
+    "region": "Deep South",
+    "caption": "Voluptate proident mollit enim"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.95306350965984,
+      3.055614271340892
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "crossing",
+    "impacts": "Violation of sensitive site",
+    "placename": "Albrightsville Orovada",
+    "today": "2014-05-04",
+    "meta": {
+      "instanceId": "uuid:02e5711d-ae70-4a53-85e3-729390a23982"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Parobaz",
+    "region": "Deep South",
+    "caption": "Non ut ea consequat cupidatat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.29349982365966,
+      3.0996206478681416
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

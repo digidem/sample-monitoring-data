@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "hunting",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Sandston Orason",
+    "today": "2014-04-16",
+    "meta": {
+      "instanceId": "uuid:52c651b3-c4e7-4abe-9a67-4813ab7d25c5"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+    },
+    "area": "Lower Takatu",
+    "village": "Achawib",
+    "region": "South Central",
+    "caption": "Non tempor excepteur voluptate"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.39175410778262,
+      2.2688113352283836
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

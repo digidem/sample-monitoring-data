@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "grazing",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Oberlin Vivian",
+    "today": "2014-11-30",
+    "meta": {
+      "instanceId": "uuid:612896d4-ce16-4f58-9079-031185c3ce26"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Karaodaz Naawa",
+    "region": "South Central",
+    "caption": "Ex irure mollit nisi"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.48532371525653,
+      2.533720740256831
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

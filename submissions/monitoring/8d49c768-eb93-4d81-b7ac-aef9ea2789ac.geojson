@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "grazing",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Barrelville Saddlebrooke",
+    "today": "2014-09-15",
+    "meta": {
+      "instanceId": "uuid:8d49c768-eb93-4d81-b7ac-aef9ea2789ac"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-10.jpg"
+    },
+    "area": "Korowin",
+    "village": "Karaodaz Naawa",
+    "region": "South Central",
+    "caption": "Qui ut cillum irure sint"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.59226483735256,
+      2.474404916772619
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "mining",
+    "impacts": "FPIC violation",
+    "placename": "Tyro Falconaire",
+    "today": "2014-11-14",
+    "meta": {
+      "instanceId": "uuid:03cf7bf7-aa96-4c4c-af6d-5e097bd32567"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Essequibo / Chiip Wao",
+    "village": "Achawib",
+    "region": "South Central",
+    "caption": "Irure qui minim commodo"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.49350761808455,
+      2.8090360044967384
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "mining",
+    "impacts": "Damage to farming grounds",
+    "placename": "Eastvale Chicopee",
+    "today": "2014-08-07",
+    "meta": {
+      "instanceId": "uuid:b6671069-3182-4b3b-a05d-7389df5bb5f0"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Katoonarub",
+    "region": "South Central",
+    "caption": "Laborum amet consequat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.88188870786689,
+      2.4058191474992783
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "crossing",
+    "impacts": "Water pollution",
+    "placename": "Chicopee Beason",
+    "today": "2014-04-12",
+    "meta": {
+      "instanceId": "uuid:944f2876-9ccb-41a9-a424-e3198fa2cd57"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+    },
+    "area": "Marudi",
+    "village": "Sawari Wao",
+    "region": "South Central",
+    "caption": "Duis proident anim sint"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.541716570965946,
+      2.514230372523889
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

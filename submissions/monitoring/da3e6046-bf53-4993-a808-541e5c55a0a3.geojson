@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "fishing",
+    "impacts": "Water poisoned",
+    "placename": "Islandia Sidman",
+    "today": "2014-01-02",
+    "meta": {
+      "instanceId": "uuid:da3e6046-bf53-4993-a808-541e5c55a0a3"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Rii Wao",
+    "village": "Potari Naawa",
+    "region": "South Central",
+    "caption": "In nisi tempor consectetur eiusmod"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.87742767110467,
+      2.5376949293073268
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

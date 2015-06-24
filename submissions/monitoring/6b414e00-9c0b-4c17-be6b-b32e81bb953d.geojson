@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "mattie_solis",
+    "happening": "tourism",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Singer Crisman",
+    "today": "2014-06-07",
+    "meta": {
+      "instanceId": "uuid:6b414e00-9c0b-4c17-be6b-b32e81bb953d"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Kashiwiizi",
+    "village": "Zoopo Naawa",
+    "region": "South Central",
+    "caption": "Nisi elit quis mollit cupidatat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.650696485769004,
+      2.482710920413956
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

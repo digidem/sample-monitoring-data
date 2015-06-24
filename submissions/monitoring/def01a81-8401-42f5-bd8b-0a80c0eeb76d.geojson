@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "grazing",
+    "impacts": "Violation of sensitive site",
+    "placename": "Lloyd Groveville",
+    "today": "2014-01-27",
+    "meta": {
+      "instanceId": "uuid:def01a81-8401-42f5-bd8b-0a80c0eeb76d"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Soburun",
+    "region": "South Central",
+    "caption": "Laboris pariatur labore Lorem"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.71188458614051,
+      3.0267346251290292
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

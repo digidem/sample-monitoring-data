@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "rustling",
+    "impacts": "Depletion of game",
+    "placename": "Rowe Tolu",
+    "today": "2014-04-02",
+    "meta": {
+      "instanceId": "uuid:95e5942d-e641-4ac5-805b-b1c868e56f33"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+    },
+    "area": "Shizizi",
+    "village": "Parikowaro Naawa",
+    "region": "Deep South",
+    "caption": "Laboris proident irure sunt"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.5749187883921,
+      2.13962734551169
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "hunting",
+    "impacts": "Damage to farming grounds",
+    "placename": "Grantville Volta",
+    "today": "2014-07-02",
+    "meta": {
+      "instanceId": "uuid:4d14f2ee-c851-4683-80a0-77a91470510a"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Zoopo Naawa",
+    "region": "Deep South",
+    "caption": "Ad do incididunt occaecat mollit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.496984323486686,
+      2.6419021523557604
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

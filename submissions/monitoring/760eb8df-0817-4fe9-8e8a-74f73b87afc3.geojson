@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "other",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Waiohinu Kieler",
+    "today": "2014-04-29",
+    "meta": {
+      "instanceId": "uuid:760eb8df-0817-4fe9-8e8a-74f73b87afc3"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+    },
+    "area": "Korowin",
+    "village": "Katoonarub",
+    "region": "Deep South",
+    "caption": "Aliquip aute ut elit ullamco"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.83894081530161,
+      2.2157295007724316
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

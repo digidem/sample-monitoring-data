@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "tourism",
+    "impacts": "Depletion of game",
+    "placename": "Vandiver Centerville",
+    "today": "2014-05-29",
+    "meta": {
+      "instanceId": "uuid:fec78c1a-e6cb-4875-b570-dd691aeb9532"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Upper Takatu",
+    "village": "Marora Naawa",
+    "region": "South Central",
+    "caption": "In laboris aliqua"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.113906553946435,
+      3.0428531902376563
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

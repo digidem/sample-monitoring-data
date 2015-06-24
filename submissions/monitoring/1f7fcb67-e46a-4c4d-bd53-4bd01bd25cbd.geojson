@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "artefacts",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Farmers Denio",
+    "today": "2014-02-18",
+    "meta": {
+      "instanceId": "uuid:1f7fcb67-e46a-4c4d-bd53-4bd01bd25cbd"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Potari Naawa",
+    "region": "Deep South",
+    "caption": "Cupidatat eu duis"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.71122265420854,
+      2.728093247069046
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

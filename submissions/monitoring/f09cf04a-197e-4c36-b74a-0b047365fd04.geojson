@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "hunting",
+    "impacts": "Harm to community conserved site",
+    "placename": "Holtville Belfair",
+    "today": "2014-09-24",
+    "meta": {
+      "instanceId": "uuid:f09cf04a-197e-4c36-b74a-0b047365fd04"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+    },
+    "area": "Kosad",
+    "village": "Parikowaro Naawa",
+    "region": "South Central",
+    "caption": "Velit sit excepteur mollit consectetur"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.04214419843629,
+      2.754610226629302
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

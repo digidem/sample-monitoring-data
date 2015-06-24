@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "fishing",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Devon Tecolotito",
+    "today": "2014-03-05",
+    "meta": {
+      "instanceId": "uuid:3b82b0b6-08eb-4f71-bb84-9bc6be1de9a3"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-16.jpg"
+    },
+    "area": "Essequibo / Chiip Wao",
+    "village": "Parobaz",
+    "region": "Deep South",
+    "caption": "Velit proident eu"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.01086777378805,
+      2.8937133505474777
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

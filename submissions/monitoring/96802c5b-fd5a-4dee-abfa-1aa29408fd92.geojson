@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "grazing",
+    "impacts": "Depletion of game",
+    "placename": "Knowlton Tampico",
+    "today": "2014-12-12",
+    "meta": {
+      "instanceId": "uuid:96802c5b-fd5a-4dee-abfa-1aa29408fd92"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Shorinab",
+    "region": "Deep South",
+    "caption": "Laborum tempor cupidatat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.466282413108274,
+      2.985849247686565
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

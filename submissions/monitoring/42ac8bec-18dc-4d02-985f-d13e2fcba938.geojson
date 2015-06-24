@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "artefacts",
+    "impacts": "FPIC violation",
+    "placename": "Greensburg Whitmer",
+    "today": "2014-06-22",
+    "meta": {
+      "instanceId": "uuid:42ac8bec-18dc-4d02-985f-d13e2fcba938"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-12.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Parikowaro Naawa",
+    "region": "Deep South",
+    "caption": "Eiusmod ex amet tempor"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.83455586270429,
+      2.599920679954812
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

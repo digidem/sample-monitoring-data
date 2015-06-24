@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "grazing",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Maplewood Farmers",
+    "today": "2014-08-22",
+    "meta": {
+      "instanceId": "uuid:073166d9-3a77-4673-bbe7-d9618763c9cc"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+    },
+    "area": "Kwitaro",
+    "village": "Potari Naawa",
+    "region": "Deep South",
+    "caption": "Elit consequat ullamco laborum voluptate"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.29615650582127,
+      2.5315086170099677
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

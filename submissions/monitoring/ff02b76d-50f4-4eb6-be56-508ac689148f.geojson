@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "crossing",
+    "impacts": "Water poisoned",
+    "placename": "Summerset Dennard",
+    "today": "2014-01-20",
+    "meta": {
+      "instanceId": "uuid:ff02b76d-50f4-4eb6-be56-508ac689148f"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+    },
+    "area": "Kamodukuo",
+    "village": "Parobaz",
+    "region": "Deep South",
+    "caption": "Duis tempor proident"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.196993600577116,
+      2.673383993236348
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

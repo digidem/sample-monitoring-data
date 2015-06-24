@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "rustling",
+    "impacts": "Social harm or abuse",
+    "placename": "Barstow Ypsilanti",
+    "today": "2014-09-23",
+    "meta": {
+      "instanceId": "uuid:72b80750-91a3-47c1-9207-aa6e3177205a"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+    },
+    "area": "Kashiwiizi",
+    "village": "Zoopo Naawa",
+    "region": "South Central",
+    "caption": "Ex veniam anim qui quis"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.10479023377411,
+      2.9043488960247488
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

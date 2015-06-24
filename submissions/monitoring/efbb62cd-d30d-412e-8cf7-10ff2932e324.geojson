@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "rustling",
+    "impacts": "FPIC violation",
+    "placename": "Maybell Canby",
+    "today": "2014-08-20",
+    "meta": {
+      "instanceId": "uuid:efbb62cd-d30d-412e-8cf7-10ff2932e324"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Parikowaro Naawa",
+    "region": "South Central",
+    "caption": "Veniam cillum sint"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.716992255998775,
+      2.854366410896182
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

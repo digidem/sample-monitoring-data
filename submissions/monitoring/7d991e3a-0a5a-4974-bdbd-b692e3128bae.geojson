@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "rustling",
+    "impacts": "Damage to farming grounds",
+    "placename": "Fairfield Edneyville",
+    "today": "2014-06-23",
+    "meta": {
+      "instanceId": "uuid:7d991e3a-0a5a-4974-bdbd-b692e3128bae"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-14.jpg"
+    },
+    "area": "Tamtoon",
+    "village": "Katoonarub",
+    "region": "Deep South",
+    "caption": "Cillum dolore culpa irure"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.10590095655061,
+      2.5369701396208257
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

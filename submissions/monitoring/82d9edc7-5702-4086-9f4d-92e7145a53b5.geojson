@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "hunting",
+    "impacts": "Harm to community conserved site",
+    "placename": "Yardville Gerton",
+    "today": "2014-06-29",
+    "meta": {
+      "instanceId": "uuid:82d9edc7-5702-4086-9f4d-92e7145a53b5"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-15.jpg"
+    },
+    "area": "Other",
+    "village": "Zoopo Naawa",
+    "region": "South Central",
+    "caption": "Voluptate exercitation nulla"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.05402565654367,
+      2.9906688794959337
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "logging",
+    "impacts": "Water poisoned",
+    "placename": "Buxton Tilleda",
+    "today": "2014-04-20",
+    "meta": {
+      "instanceId": "uuid:fc5e6ff1-712d-43fa-81e4-18998b4eefc2"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Sawari Wao",
+    "region": "Deep South",
+    "caption": "Laboris non anim magna"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.87735786684789,
+      2.381216122210026
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

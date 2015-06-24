@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "fishing",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Lodoga Northchase",
+    "today": "2014-06-25",
+    "meta": {
+      "instanceId": "uuid:6d61be02-a5dd-4b1f-a90c-0d084c48d468"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Mamidi",
+    "village": "Potari Naawa",
+    "region": "Deep South",
+    "caption": "Do occaecat reprehenderit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.70219884882681,
+      3.062771021295339
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

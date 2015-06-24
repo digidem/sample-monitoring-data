@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "rustling",
+    "impacts": "Water pollution",
+    "placename": "Kylertown Ilchester",
+    "today": "2014-09-28",
+    "meta": {
+      "instanceId": "uuid:1b7136af-f824-4e6d-b477-2198d9751b9e"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+    },
+    "area": "Upper Rupununi",
+    "village": "Achawib",
+    "region": "Deep South",
+    "caption": "Eu ex reprehenderit Lorem enim"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.99857552163303,
+      2.5287779214791954
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

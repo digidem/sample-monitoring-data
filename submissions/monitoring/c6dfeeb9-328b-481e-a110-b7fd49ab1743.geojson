@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "tourism",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Sheatown Veyo",
+    "today": "2014-11-02",
+    "meta": {
+      "instanceId": "uuid:c6dfeeb9-328b-481e-a110-b7fd49ab1743"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Lower Takatu",
+    "village": "Potari Naawa",
+    "region": "Deep South",
+    "caption": "Nisi eu in nisi"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.891588889295235,
+      2.432556505687535
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

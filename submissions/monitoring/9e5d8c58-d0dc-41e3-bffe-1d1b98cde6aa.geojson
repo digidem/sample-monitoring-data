@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "hunting",
+    "impacts": "Social harm or abuse",
+    "placename": "Onton Brandermill",
+    "today": "2014-05-11",
+    "meta": {
+      "instanceId": "uuid:9e5d8c58-d0dc-41e3-bffe-1d1b98cde6aa"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+    },
+    "area": "Tamtoon",
+    "village": "Sawari Wao",
+    "region": "South Central",
+    "caption": "Reprehenderit velit dolore sint"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.59072736208327,
+      2.758957645529881
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

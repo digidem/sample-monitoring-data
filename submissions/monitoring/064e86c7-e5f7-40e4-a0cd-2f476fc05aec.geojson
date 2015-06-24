@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "other",
+    "impacts": "Social harm or abuse",
+    "placename": "Gulf Knowlton",
+    "today": "2014-07-13",
+    "meta": {
+      "instanceId": "uuid:064e86c7-e5f7-40e4-a0cd-2f476fc05aec"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Kashiwiizi",
+    "village": "Aishara Toon",
+    "region": "Deep South",
+    "caption": "Officia occaecat non veniam"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.87760691274889,
+      2.4471580776385964
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

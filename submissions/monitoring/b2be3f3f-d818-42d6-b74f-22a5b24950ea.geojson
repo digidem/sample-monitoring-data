@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "other",
+    "impacts": "FPIC violation",
+    "placename": "Gorst Veyo",
+    "today": "2014-01-31",
+    "meta": {
+      "instanceId": "uuid:b2be3f3f-d818-42d6-b74f-22a5b24950ea"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+    },
+    "area": "Kashiwiizi",
+    "village": "Marora Naawa",
+    "region": "Deep South",
+    "caption": "Duis voluptate aliqua"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.66976370476186,
+      2.295489870151505
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

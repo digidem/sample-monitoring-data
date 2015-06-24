@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "logging",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Crayne Brantleyville",
+    "today": "2014-09-16",
+    "meta": {
+      "instanceId": "uuid:2283ce00-815c-4a98-ab27-71e1d904588c"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Marora Naawa",
+    "region": "South Central",
+    "caption": "Fugiat do labore ullamco"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.028234833618626,
+      2.7421193210408092
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

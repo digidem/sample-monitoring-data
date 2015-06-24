@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "other",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Otranto Wright",
+    "today": "2014-05-13",
+    "meta": {
+      "instanceId": "uuid:1a8b74c9-f345-4441-9627-62f350691309"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Kamodukuo",
+    "village": "Marora Naawa",
+    "region": "Deep South",
+    "caption": "Eiusmod duis dolore dolore ea"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.51033521676436,
+      2.828818231727928
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

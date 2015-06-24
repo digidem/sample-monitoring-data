@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "artefacts",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Noblestown Gwynn",
+    "today": "2014-06-29",
+    "meta": {
+      "instanceId": "uuid:d4eb292e-e6c1-4b96-8642-3500b4ef296a"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Marora Naawa",
+    "region": "Deep South",
+    "caption": "Veniam mollit deserunt in proident"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.94428211846389,
+      2.8673513288609684
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

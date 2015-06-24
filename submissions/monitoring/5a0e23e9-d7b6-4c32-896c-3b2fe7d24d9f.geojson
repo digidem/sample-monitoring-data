@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "mining",
+    "impacts": "Water poisoned",
+    "placename": "Verdi Klagetoh",
+    "today": "2014-03-17",
+    "meta": {
+      "instanceId": "uuid:5a0e23e9-d7b6-4c32-896c-3b2fe7d24d9f"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Aishara Toon",
+    "region": "South Central",
+    "caption": "Non amet pariatur id"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.48304891819134,
+      3.046758957579732
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

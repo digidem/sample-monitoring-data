@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "logging",
+    "impacts": "Water poisoned",
+    "placename": "Moraida Tooleville",
+    "today": "2014-11-15",
+    "meta": {
+      "instanceId": "uuid:711c18b8-ee66-4bb5-a00c-9be657665e43"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+    },
+    "area": "Kanowadtao",
+    "village": "Soburun",
+    "region": "South Central",
+    "caption": "Dolore sit nisi id et"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.36459992360324,
+      2.8022923019248993
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

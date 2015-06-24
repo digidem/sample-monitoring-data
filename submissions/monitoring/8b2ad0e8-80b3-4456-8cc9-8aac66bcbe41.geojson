@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "hunting",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Olney Robbins",
+    "today": "2014-01-12",
+    "meta": {
+      "instanceId": "uuid:8b2ad0e8-80b3-4456-8cc9-8aac66bcbe41"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-4.jpg"
+    },
+    "area": "Kashiwiizi",
+    "village": "Shii",
+    "region": "South Central",
+    "caption": "Do magna quis non"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.95564281567931,
+      2.1321299876086415
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "rustling",
+    "impacts": "Water pollution",
+    "placename": "Chamizal Inkerman",
+    "today": "2014-12-21",
+    "meta": {
+      "instanceId": "uuid:2574eb7c-3a27-46df-ad74-c89749fe9c93"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-13.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Shii",
+    "region": "South Central",
+    "caption": "Non ea duis"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.67617975897156,
+      2.4460790829267354
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

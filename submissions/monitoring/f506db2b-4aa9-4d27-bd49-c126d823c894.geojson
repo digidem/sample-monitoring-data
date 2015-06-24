@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "cross_kemp",
+    "happening": "mining",
+    "impacts": "Depletion of fish",
+    "placename": "Harold Johnsonburg",
+    "today": "2014-06-28",
+    "meta": {
+      "instanceId": "uuid:f506db2b-4aa9-4d27-bd49-c126d823c894"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Kosad",
+    "village": "Potari Naawa",
+    "region": "South Central",
+    "caption": "Lorem aliqua sint ullamco est"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.95241390238516,
+      2.496874688565731
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

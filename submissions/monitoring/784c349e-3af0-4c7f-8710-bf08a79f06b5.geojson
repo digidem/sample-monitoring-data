@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "hunting",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Byrnedale Morgandale",
+    "today": "2014-03-04",
+    "meta": {
+      "instanceId": "uuid:784c349e-3af0-4c7f-8710-bf08a79f06b5"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Bakawadataawa",
+    "village": "Karaodaz Naawa",
+    "region": "South Central",
+    "caption": "Nostrud esse sit"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.90112408599816,
+      2.601748087350279
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

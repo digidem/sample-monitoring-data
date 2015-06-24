@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "deanne_velazquez",
+    "happening": "artefacts",
+    "impacts": "Depletion of game",
+    "placename": "Lowell Tioga",
+    "today": "2014-03-22",
+    "meta": {
+      "instanceId": "uuid:3b42e5ec-ff3f-4ce7-8250-7e0cd336c6d2"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Lower Kuyuwini",
+    "village": "Parobaz",
+    "region": "South Central",
+    "caption": "Adipisicing ad incididunt"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.161754802800715,
+      2.296455245371908
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "inez_alston",
+    "happening": "other",
+    "impacts": "FPIC violation",
+    "placename": "Dunlo Cliffside",
+    "today": "2014-10-25",
+    "meta": {
+      "instanceId": "uuid:6d9d97f7-07a9-4481-b8f3-a525019ceeba"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-7.jpg"
+    },
+    "area": "Lower Takatu",
+    "village": "Sawari Wao",
+    "region": "South Central",
+    "caption": "Veniam sunt eiusmod et"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.18605890288018,
+      2.974155292985961
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

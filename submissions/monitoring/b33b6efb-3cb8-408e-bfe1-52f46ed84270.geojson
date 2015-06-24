@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "lillie_flores",
+    "happening": "hunting",
+    "impacts": "Loss of cultural heritage",
+    "placename": "Ferney Ogema",
+    "today": "2014-08-28",
+    "meta": {
+      "instanceId": "uuid:b33b6efb-3cb8-408e-bfe1-52f46ed84270"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+    },
+    "area": "Kwitaro Head",
+    "village": "Achawib",
+    "region": "South Central",
+    "caption": "Eiusmod officia deserunt irure"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.48956978623755,
+      2.428576479572803
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "hunting",
+    "impacts": "Violation of sensitive site",
+    "placename": "Kingstowne Jessie",
+    "today": "2014-01-10",
+    "meta": {
+      "instanceId": "uuid:eba78fcc-2745-4199-928d-13b68a5806c7"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Middle Kuyuwini",
+    "village": "Parikowaro Naawa",
+    "region": "Deep South",
+    "caption": "Aute voluptate ut"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.947360353777185,
+      3.0730208129622043
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

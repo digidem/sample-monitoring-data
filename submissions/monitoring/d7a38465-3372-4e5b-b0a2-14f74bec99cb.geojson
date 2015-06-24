@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "other",
+    "impacts": "Damage to gathering grounds",
+    "placename": "Joppa Taft",
+    "today": "2014-11-25",
+    "meta": {
+      "instanceId": "uuid:d7a38465-3372-4e5b-b0a2-14f74bec99cb"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-11.jpg"
+    },
+    "area": "Mamidi",
+    "village": "Karaodaz Naawa",
+    "region": "Deep South",
+    "caption": "Consequat aliquip quis voluptate aliquip"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.15709319477901,
+      2.109883148595691
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

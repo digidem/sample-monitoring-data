@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "logging",
+    "impacts": "Damage to water source / watershed",
+    "placename": "Clarktown Hendersonville",
+    "today": "2014-06-19",
+    "meta": {
+      "instanceId": "uuid:b3df7100-a892-492e-8298-bcdb08eec658"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-9.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Shorinab",
+    "region": "South Central",
+    "caption": "Nisi in nisi aute ea"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.92536165332422,
+      2.976830098219216
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "grazing",
+    "impacts": "Water pollution",
+    "placename": "Joppa Sterling",
+    "today": "2014-05-30",
+    "meta": {
+      "instanceId": "uuid:e2b15c0c-9af1-4254-926d-7cb278b3ed9f"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-5.jpg"
+    },
+    "area": "Middle Rupununi",
+    "village": "Shii",
+    "region": "South Central",
+    "caption": "Ut consequat esse labore commodo"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.9787996544037,
+      2.5643065915443004
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "hunting",
+    "impacts": "Deforestation",
+    "placename": "Idledale Haena",
+    "today": "2014-03-12",
+    "meta": {
+      "instanceId": "uuid:b56e58b2-c68d-42fb-947d-24892c4dbdba"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+    },
+    "area": "Korowin",
+    "village": "Potari Naawa",
+    "region": "Deep South",
+    "caption": "Lorem anim culpa incididunt commodo"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.88228734815493,
+      2.724008160084486
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

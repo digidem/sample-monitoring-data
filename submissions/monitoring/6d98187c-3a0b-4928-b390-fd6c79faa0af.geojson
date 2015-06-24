@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "crossing",
+    "impacts": "Depletion of fish",
+    "placename": "Century Rosedale",
+    "today": "2014-05-08",
+    "meta": {
+      "instanceId": "uuid:6d98187c-3a0b-4928-b390-fd6c79faa0af"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-3.jpg"
+    },
+    "area": "Tamtoon",
+    "village": "Achawib",
+    "region": "Deep South",
+    "caption": "Velit sunt qui"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.67482964252122,
+      2.7071716642472894
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "burch_andrews",
+    "happening": "crossing",
+    "impacts": "Damage to wildlife / habitat",
+    "placename": "Morriston Drytown",
+    "today": "2014-06-28",
+    "meta": {
+      "instanceId": "uuid:35a68ccb-eafb-48e1-94df-72f9a186145a"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-8.jpg"
+    },
+    "area": "Tamtoon",
+    "village": "Shorinab",
+    "region": "South Central",
+    "caption": "Qui adipisicing in"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.46559368818998,
+      2.2940910352859647
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

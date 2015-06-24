@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "dennis_moreno",
+    "happening": "tourism",
+    "impacts": "Water poisoned",
+    "placename": "Waterview Glenbrook",
+    "today": "2014-02-16",
+    "meta": {
+      "instanceId": "uuid:769cbecf-f85c-4f30-9105-2f87e1935033"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-6.jpg"
+    },
+    "area": "Upper Kuyuwini",
+    "village": "Zoopo Naawa",
+    "region": "Deep South",
+    "caption": "Minim reprehenderit deserunt"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.92621297086589,
+      3.0897834898438306
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "crawford_hill",
+    "happening": "grazing",
+    "impacts": "Water pollution",
+    "placename": "Bendon Cumberland",
+    "today": "2014-01-22",
+    "meta": {
+      "instanceId": "uuid:47cba659-2e9c-4e40-88f7-c3bc9c673c92"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-1.jpg"
+    },
+    "area": "Essequibo / Chiip Wao",
+    "village": "Parobaz",
+    "region": "Deep South",
+    "caption": "Aliquip qui fugiat"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.225731153041124,
+      2.555623447196558
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

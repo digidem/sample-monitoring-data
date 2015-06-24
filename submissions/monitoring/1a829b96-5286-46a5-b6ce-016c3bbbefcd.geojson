@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "hancock_martinez",
+    "happening": "artefacts",
+    "impacts": "Harm to community conserved site",
+    "placename": "Taycheedah Johnsonburg",
+    "today": "2014-05-18",
+    "meta": {
+      "instanceId": "uuid:1a829b96-5286-46a5-b6ce-016c3bbbefcd"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-17.jpg"
+    },
+    "area": "Mamidi",
+    "village": "Katoonarub",
+    "region": "South Central",
+    "caption": "Pariatur consequat sit excepteur ullamco"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.47973478958011,
+      2.3895155767910183
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}

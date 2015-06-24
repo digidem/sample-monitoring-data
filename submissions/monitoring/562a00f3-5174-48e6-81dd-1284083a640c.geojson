@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "people": "osborne_saunders",
+    "happening": "logging",
+    "impacts": "Deforestation",
+    "placename": "Geyserville Hatteras",
+    "today": "2014-09-08",
+    "meta": {
+      "instanceId": "uuid:562a00f3-5174-48e6-81dd-1284083a640c"
+    },
+    "picture": {
+      "url": "https://s3.amazonaws.com/images.digital-democracy.org/mapfilter-sample/sample-2.jpg"
+    },
+    "area": "Washarar Wao",
+    "village": "Zoopo Naawa",
+    "region": "South Central",
+    "caption": "Nostrud labore veniam voluptate"
+  },
+  "geometry": {
+    "coordinates": [
+      -59.87788357678801,
+      2.671913629770279
+    ],
+    "type": "Point"
+  },
+  "type": "Feature"
+}
