@@ -1,0 +1,9 @@
+{
+  "auth": false,
+  "data": "submissions/monitoring.geojson",
+  "info": {
+    "template": "templates/info-pane.hbs",
+    "timestamp": "today",
+    "image": "picture"
+  }
+}
