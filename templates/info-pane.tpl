@@ -1,12 +1,9 @@
-<button type="button" class="close pull-right" aria-hidden="true">&times;</button>
-<div class="map-icon">
-</div>
 <h3>
   <% var placename = get('placename')
     if (placename === 'not_recorded') placename = get('myarea')
-    print(u._capitalize(placename)) %>
+    print(u.capitalize(placename)) %>
   <br>
-  <small><%= u._capitalize(_getOther('happening', 'happening_other')) %></small>
+  <small><%= u.capitalize(_getOther('happening', 'happening_other')) %></small>
 </h3>
 
 <div class="image-wrapper">
@@ -51,7 +48,7 @@
   </tr>
   <tr>
     <th>Visit&nbsp;date:</th>
-    <td><%= u._parseDate(get('today')) %></td>
+    <td><%= u.parseDate(get('today')) %></td>
   </tr>
 
 </table>
