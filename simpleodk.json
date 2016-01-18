@@ -1,5 +1,5 @@
 {
-  "tiles": "http://{s}.tiles.mapbox.com/v3/gmaclennan.wapichana_background/{z}/{x}/{y}.jpg",
+  "tileUrl": "http://{s}.tiles.mapbox.com/v3/gmaclennan.wapichana_background/{z}/{x}/{y}.jpg",
   "data": "submissions/monitoring.geojson",
   "info": {
     "template": "templates/info-pane.hbs",
