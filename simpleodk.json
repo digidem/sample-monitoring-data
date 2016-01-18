@@ -1,0 +1,22 @@
+{
+  "tiles": "http://{s}.tiles.mapbox.com/v3/gmaclennan.wapichana_background/{z}/{x}/{y}.jpg",
+  "data": "submissions/monitoring.geojson",
+  "info": {
+    "template": "templates/info-pane.hbs",
+    "timestamp": "today",
+    "image": "picture"
+  },
+  "filters": [{
+    "type": "continuous",
+    "field": "today",
+    "expanded": true
+  }, {
+    "type": "discrete",
+    "field": "happening",
+    "expanded": true
+  }, {
+    "type": "discrete",
+    "field": "people",
+    "expanded": true
+  }]
+}
