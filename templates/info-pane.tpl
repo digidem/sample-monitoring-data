@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <th>Coordinates:</th>
-    <td><%= getFormatedCoords() %></td>
+    <td><%= getFormattedCoords() %></td>
   </tr>
   <tr>
     <th>Impacts:</th>
