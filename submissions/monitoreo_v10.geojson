@@ -510,6 +510,88 @@
           "submissionTime": "2016-09-14T23:52:10.416Z"
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43228136,
+          -2.80638607
+        ]
+      },
+      "properties": {
+        "start": "2016-04-28T14:03:21.554-04",
+        "end": "2016-04-28T14:33:51.791-04",
+        "today": "2016-04-28",
+        "deviceid": 355489064999192,
+        "grupo_donde": {
+          "coordinadas": {
+            "latitude": -2.80638607,
+            "longitude": -76.43228136,
+            "altitude": 267,
+            "precision": 5
+          }
+        },
+        "bateria": "capahuari_sur",
+        "comunidad": "andoas_nuevo",
+        "nuevo": true,
+        "cambio_desc": "Cambio de la tierra natural",
+        "grupo_impactos": {
+          "tierra_removida": false,
+          "contaminacion": true,
+          "tala_arboles": false,
+          "botadero": true
+        },
+        "grupo_contaminada": {
+          "contaminante": "crudo",
+          "colpa": false,
+          "esconden_petroleo2": true,
+          "queman_petroleo": false
+        },
+        "grupo_afecta": {
+          "afecta_cocha": false,
+          "afecta_rio": true,
+          "visible_rio": true,
+          "nombre_rio": "Qda anapasa",
+          "afecta_aguajal": false,
+          "quebrada_abajo": "pastaza",
+          "afecta_tierra": true,
+          "afecta_caza_pesca": true,
+          "nombre_caza_pesca": "Qda anapasa",
+          "comunidad_caza_pesca": "varias"
+        },
+        "grupo_que": {
+          "que": "pozo_crudo"
+        },
+        "foto_celular": true,
+        "grupo_fotos_celular": {
+          "foto_botadero": {
+            "url": "https://simple-odk.s3.amazonaws.com/c7456428-2a2e-4ab7-90ec-8b75184e4231/1461867875006.jpg",
+            "originalFilename": "1461867875006.jpg"
+          },
+          "foto_visible_rio": {
+            "url": "https://simple-odk.s3.amazonaws.com/c7456428-2a2e-4ab7-90ec-8b75184e4231/1461867949023.jpg",
+            "originalFilename": "1461867949023.jpg"
+          }
+        },
+        "grupo_testimonio": {
+          "testimonio": {
+            "url": "https://simple-odk.s3.amazonaws.com/c7456428-2a2e-4ab7-90ec-8b75184e4231/1461868232202.3gpp",
+            "originalFilename": "1461868232202.3gpp"
+          }
+        },
+        "grupo_quien": {
+          "monitor": "david_chino_fachin"
+        },
+        "meta": {
+          "instanceId": "uuid:c7456428-2a2e-4ab7-90ec-8b75184e4231",
+          "instanceName": "Apr-28 14:03",
+          "formId": "monitoreo_v10",
+          "version": 10,
+          "submissionTime": "2016-09-14T23:52:12.518Z"
+        }
+      }
     }
   ]
 }
