@@ -740,6 +740,72 @@
           "submissionTime": "2016-09-14T23:52:41.349Z"
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43520614,
+          -2.74698453
+        ]
+      },
+      "properties": {
+        "start": "2016-05-18T13:35:42.018-05",
+        "end": "2016-06-05T12:09:50.665-05",
+        "today": "2016-05-18",
+        "deviceid": 355489064993971,
+        "grupo_donde": {
+          "coordinadas": {
+            "latitude": -2.74698453,
+            "longitude": -76.43520614,
+            "altitude": 262,
+            "precision": 10
+          }
+        },
+        "bateria": "otra",
+        "bateria_otra": "Carretera central a la margen derecha km 14 colocación de cámara trampa oefa 10",
+        "comunidad": "alianza_capahuari",
+        "nuevo": false,
+        "cambio": false,
+        "cambio_desc": "El sitio es de origen en blanco sin contaminacion",
+        "grupo_impactos": {
+          "tierra_removida": false,
+          "contaminacion": false,
+          "tala_arboles": false,
+          "botadero": false
+        },
+        "grupo_afecta": {
+          "afecta_cocha": false,
+          "afecta_rio": false,
+          "afecta_aguajal": false,
+          "quebrada_abajo": "otra",
+          "afecta_tierra": false,
+          "afecta_caza_pesca": false
+        },
+        "foto": {
+          "url": "https://simple-odk.s3.amazonaws.com/87538ddf-2471-494d-b788-3a06835137fe/1463596892465.jpg",
+          "originalFilename": "1463596892465.jpg"
+        },
+        "foto_celular": true,
+        "grupo_testimonio": {
+          "testimonio": {
+            "url": "https://simple-odk.s3.amazonaws.com/87538ddf-2471-494d-b788-3a06835137fe/1463597103999.3gpp",
+            "originalFilename": "1463597103999.3gpp"
+          }
+        },
+        "grupo_quien": {
+          "monitor": "otro",
+          "monitor_otro": "Johnn vega flores"
+        },
+        "meta": {
+          "instanceId": "uuid:87538ddf-2471-494d-b788-3a06835137fe",
+          "instanceName": "May-18 13:35",
+          "formId": "monitoreo_v10",
+          "version": 10,
+          "submissionTime": "2016-09-14T23:59:15.420Z"
+        }
+      }
     }
   ]
 }
