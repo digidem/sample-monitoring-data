@@ -1042,77 +1042,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.46190053,
-          -2.80278826
+          -76.46158992,
+          -2.80304659
         ]
       },
       "properties": {
-        "start": "2016-03-13T09:32:21.178-05",
-        "end": "2016-03-13T10:25:28.759-05",
+        "start": "2016-03-13T11:00:42.597-05",
+        "end": "2016-03-13T11:05:38.394-05",
         "today": "2016-03-13",
         "deviceid": 355489065261634,
         "grupo_donde": {
           "coordinadas": {
-            "latitude": -2.80278826,
-            "longitude": -76.46190053,
-            "altitude": 230,
-            "precision": 25
+            "latitude": -2.80304659,
+            "longitude": -76.46158992,
+            "altitude": 235,
+            "precision": 5
           }
         },
-        "bateria": "tambo",
-        "comunidad": "alianza_capahuari",
+        "bateria": "capahuari_sur",
+        "comunidad": "los_jardines",
         "nuevo": true,
-        "cambio_desc": "Nada se cambio sigue igual",
+        "cambio_desc": "No se cabio",
         "grupo_impactos": {
           "tierra_removida": true,
           "contaminacion": true,
-          "tala_arboles": true,
-          "botadero": false
+          "tala_arboles": false,
+          "botadero": true
         },
         "grupo_tierra_removido": {
           "cantera": false,
           "esconden_petroleo": true
         },
-        "grupo_tala_arboles": {
-          "tala_razon": "plataforma"
-        },
         "grupo_contaminada": {
           "contaminante": "crudo",
-          "colpa": true,
+          "colpa": false,
           "queman_petroleo": false
         },
         "grupo_afecta": {
           "afecta_cocha": true,
           "visible_cocha": true,
-          "nombre_cocha": "Anapaza quebrada afectada",
-          "quebrada_cocha": "Uspayacu también están afectada",
+          "nombre_cocha": "Shansho cocha",
+          "quebrada_cocha": "Shirunchi ",
           "afecta_aguajal": true,
           "visible_aguajal": true,
           "quebrada_abajo": "anapaza",
           "afecta_tierra": true,
           "afecta_caza_pesca": true,
-          "nombre_caza_pesca": "Nombre de la caza choroyacu",
-          "comunidad_caza_pesca": "alianza_capahuari"
+          "nombre_caza_pesca": "N",
+          "comunidad_caza_pesca": "andoas_nuevo"
         },
         "grupo_que": {
           "que": "rotura"
         },
-        "foto": "1457880031088.jpg",
+        "foto": "1457885033441.jpg",
         "foto_celular": true,
         "grupo_fotos_celular": {
-          "foto_tierra_removida": "1457880065606.jpg",
-          "foto_tala_arboles": "1457880099030.jpg"
+          "foto_tierra_removida": "1457885100930.jpg"
         },
-        "grupo_testimonio": {},
+        "grupo_testimonio": {
+          "testimonio": {
+            "url": "https://simple-odk.s3.amazonaws.com/7ec15288-00d1-4de6-94af-ee8d613525d5/1457885132574.3gpp",
+            "originalFilename": "1457885132574.3gpp"
+          }
+        },
         "grupo_quien": {
           "monitor": "juan_jose_butuna_dahua"
         },
         "meta": {
-          "instanceId": "uuid:e07029c3-397d-44b9-8ee9-0fbcdeba7381",
-          "instanceName": "Mar-13 09:32",
+          "instanceId": "uuid:7ec15288-00d1-4de6-94af-ee8d613525d5",
+          "instanceName": "Mar-13 11:00",
           "formId": "monitoreo_v10",
           "version": 10,
-          "submissionTime": "2016-09-15T01:37:30.044Z"
+          "submissionTime": "2016-09-15T01:37:30.210Z"
         }
       }
     }
