@@ -1196,6 +1196,106 @@
           "submissionTime": "2016-09-15T01:37:56.171Z"
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.87730239,
+          -2.29157379
+        ]
+      },
+      "properties": {
+        "start": "2016-03-27T10:51:05.240-05",
+        "end": "2016-03-27T13:53:11.630-05",
+        "today": "2016-03-27",
+        "deviceid": 355489064993971,
+        "grupo_donde": {
+          "coordinadas": {
+            "latitude": -2.29157379,
+            "longitude": -75.87730239,
+            "altitude": 274,
+            "precision": 5
+          },
+          "utm_x": 402480,
+          "utm_y": 9746744
+        },
+        "bateria": "otra",
+        "bateria_otra": "San jacinto",
+        "comunidad": "ninguna",
+        "nuevo": true,
+        "cambio_desc": "Minimización superficial",
+        "grupo_impactos": {
+          "tierra_removida": true,
+          "contaminacion": true,
+          "tala_arboles": true,
+          "botadero": true
+        },
+        "grupo_tierra_removido": {
+          "cantera": false,
+          "esconden_petroleo": false
+        },
+        "grupo_tala_arboles": {
+          "tala_razon": "otra",
+          "tala_razon_otra": "Uso de sus actividades"
+        },
+        "grupo_contaminada": {
+          "contaminante": "desconocido",
+          "huele": false,
+          "colpa": true,
+          "queman_petroleo": false
+        },
+        "grupo_afecta": {
+          "afecta_cocha": false,
+          "afecta_rio": true,
+          "visible_rio": true,
+          "nombre_rio": "Dorcas km 150 + 900 margen izquierdo san jacinto 12 de octubre",
+          "afecta_aguajal": true,
+          "visible_aguajal": true,
+          "quebrada_abajo": "otra",
+          "afecta_tierra": true,
+          "afecta_caza_pesca": true,
+          "nombre_caza_pesca": "Dorcas km 150 + 900 margen izquierdo de venida",
+          "comunidad_caza_pesca": "varias"
+        },
+        "grupo_que": {
+          "que": "otra",
+          "que_otra": "Es un botadero de nombre dorcas km 150 + 900"
+        },
+        "foto": {
+          "url": "https://simple-odk.s3.amazonaws.com/1753f07f-0e1c-4cd1-9ee6-03e600ae586e/1459094414468.jpg",
+          "originalFilename": "1459094414468.jpg"
+        },
+        "foto_celular": true,
+        "grupo_fotos_celular": {
+          "foto_tierra_removida": {
+            "url": "https://simple-odk.s3.amazonaws.com/1753f07f-0e1c-4cd1-9ee6-03e600ae586e/1459094452036.jpg",
+            "originalFilename": "1459094452036.jpg"
+          },
+          "foto_botadero": {
+            "url": "https://simple-odk.s3.amazonaws.com/1753f07f-0e1c-4cd1-9ee6-03e600ae586e/1459094515019.jpg",
+            "originalFilename": "1459094515019.jpg"
+          }
+        },
+        "grupo_testimonio": {
+          "testimonio": {
+            "url": "https://simple-odk.s3.amazonaws.com/1753f07f-0e1c-4cd1-9ee6-03e600ae586e/1459094567407.3gpp",
+            "originalFilename": "1459094567407.3gpp"
+          }
+        },
+        "grupo_quien": {
+          "monitor": "otro",
+          "monitor_otro": "Johnn vega flores"
+        },
+        "meta": {
+          "instanceId": "uuid:1753f07f-0e1c-4cd1-9ee6-03e600ae586e",
+          "instanceName": "Mar-27 10:51",
+          "formId": "monitoreo_v10",
+          "version": 10,
+          "submissionTime": "2016-09-15T01:38:05.155Z"
+        }
+      }
     }
   ]
 }
