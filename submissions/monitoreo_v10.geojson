@@ -1455,6 +1455,104 @@
           "submissionTime": "2016-10-26T19:04:35.763Z"
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34767124,
+          -2.89198466
+        ]
+      },
+      "properties": {
+        "start": "2016-05-14T13:24:46.302-05",
+        "end": "2016-05-18T15:25:59.030-05",
+        "today": "2016-05-14",
+        "deviceid": 355489064993971,
+        "grupo_donde": {
+          "coordinadas": {
+            "latitude": -2.89198466,
+            "longitude": -76.34767124,
+            "altitude": 234,
+            "precision": 5
+          }
+        },
+        "bateria": "tambo",
+        "comunidad": "alianza_capahuari",
+        "nuevo": true,
+        "cambio_desc": "No realizaron remediación y en esta fecha se realizó ingreso con oefa para el estudio de flora",
+        "grupo_impactos": {
+          "tierra_removida": true,
+          "contaminacion": true,
+          "tala_arboles": true,
+          "botadero": false
+        },
+        "grupo_tierra_removido": {
+          "cantera": false,
+          "esconden_petroleo": true
+        },
+        "grupo_tala_arboles": {
+          "tala_razon": "otra",
+          "tala_razon_otra": "A la actualidad no están talando sino es una depredación antigua que dejó oxi y pluspetrol"
+        },
+        "grupo_contaminada": {
+          "contaminante": "crudo",
+          "colpa": true,
+          "queman_petroleo": false
+        },
+        "grupo_afecta": {
+          "afecta_cocha": false,
+          "afecta_rio": true,
+          "visible_rio": false,
+          "nombre_rio": "Choyacu",
+          "afecta_aguajal": false,
+          "quebrada_abajo": "otra",
+          "afecta_tierra": true,
+          "afecta_caza_pesca": true,
+          "nombre_caza_pesca": "Quebrada choroyacu",
+          "comunidad_caza_pesca": "alianza_capahuari"
+        },
+        "grupo_que": {
+          "que": "rotura"
+        },
+        "foto": {
+          "url": "https://simple-odk.s3.amazonaws.com/bf035ba0-88dd-42a1-b6e0-ea61470cfaec/1463250654628.jpg",
+          "originalFilename": "1463250654628.jpg"
+        },
+        "foto_celular": true,
+        "grupo_fotos_celular": {
+          "foto_tierra_removida": {
+            "url": "https://simple-odk.s3.amazonaws.com/bf035ba0-88dd-42a1-b6e0-ea61470cfaec/1463250676523.jpg",
+            "originalFilename": "1463250676523.jpg"
+          },
+          "foto_esconden_petroleo": {
+            "url": "https://simple-odk.s3.amazonaws.com/bf035ba0-88dd-42a1-b6e0-ea61470cfaec/1463250702103.jpg",
+            "originalFilename": "1463250702103.jpg"
+          },
+          "foto_afecta_tierra": {
+            "url": "https://simple-odk.s3.amazonaws.com/bf035ba0-88dd-42a1-b6e0-ea61470cfaec/1463250719414.jpg",
+            "originalFilename": "1463250719414.jpg"
+          }
+        },
+        "grupo_testimonio": {
+          "testimonio": {
+            "url": "https://simple-odk.s3.amazonaws.com/bf035ba0-88dd-42a1-b6e0-ea61470cfaec/1463250778359.3gpp",
+            "originalFilename": "1463250778359.3gpp"
+          }
+        },
+        "grupo_quien": {
+          "monitor": "otro",
+          "monitor_otro": "Johnn vega flores"
+        },
+        "meta": {
+          "instanceId": "uuid:bf035ba0-88dd-42a1-b6e0-ea61470cfaec",
+          "instanceName": "May-14 13:24",
+          "formId": "monitoreo_v10",
+          "version": 10,
+          "submissionTime": "2016-10-26T19:40:12.403Z"
+        }
+      }
     }
   ]
 }
